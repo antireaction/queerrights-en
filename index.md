@@ -52,4 +52,4 @@ I plan on translating this site into German and Russian once I finish the Englis
 
 Format: DD.MM.YYYY: (Change)
 
-- 09.04.2021: Installed Jekyll on GitHub Pages and uploaded index file
+- 09.04.2021: Installed Jekyll on GitHub Pages with "Just the Docs" theme, uploaded index file, created license file
