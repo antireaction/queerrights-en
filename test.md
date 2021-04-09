@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Test
-nav_order: 1
-parent: Test1
+title: Test2
+parent: test1
 ---
 
 ## Test
