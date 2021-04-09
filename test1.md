@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test1
+title: test1
 nav_order: 1
 ---
 
