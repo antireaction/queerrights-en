@@ -18,14 +18,11 @@ By queer people I mean all people who due to their sex characteristics or harmle
 * Asexual and aromantic people
 * Intersex people
 
-The same group of people is also described as LGBT+ or other derivatives of it, but I decided against it as it commonly leads to either exclusionism or the acronym getting endlessly long.
-"Queer" may have a history of being used as a slur against LGBT+ people, but it's the most frequently preferred and the third most accepted according to [this survey](https://qesurvey.tumblr.com/post/173556136743/what-is-the-ranking-of-various-acronyms-for-the)
- [(archive link)](). Those who don't prefer this term [tend to be - among other factors - exclusionists](https://qesurvey.tumblr.com/post/172970586838/how-do-different-identities-accept-and-reject-the) [(archive link)]().
+The same group of people is also described as LGBT+ or other derivatives of it, but I decided against it as it commonly leads to either exclusionism or the acronym getting endlessly long (e.g. LGBTQIAA2S...).
+"Queer" may have a history of being used as a slur against LGBT+ people, but it's the most frequently preferred and the third most accepted according to [this 2018 survey](https://qesurvey.tumblr.com/post/173556136743/what-is-the-ranking-of-various-acronyms-for-the)
+ [(archive link)](https://web.archive.org/web/20210225090451/https://qesurvey.tumblr.com/post/173556136743/what-is-the-ranking-of-various-acronyms-for-the). Those who don't prefer this term [tend to be - among other things - exclusionists](https://qesurvey.tumblr.com/post/172970586838/how-do-different-identities-accept-and-reject-the) [(archive link)](https://web.archive.org/web/20210228030528/https://qesurvey.tumblr.com/post/172970586838/how-do-different-identities-accept-and-reject-the).
  
-This is not to say that anyone who uses the term LGBT+ is an exclusionist, as plenty of non-exclusionist people use it (including me), alongside other terms. I'm just proving my point about one of the downsides of LGBT+ acronyms being that they give exclusionists rhetorical ammunition.
-
-1. TOC)
-{:toc}
+This is not to say that anyone who uses the term LGBT+ is an exclusionist, as plenty of non-exclusionist people use it (including me), alongside other terms. I'm just proving my point about one of the downsides of LGBT+ acronyms being that they give exclusionists rhetorical ammunition. It's also unclear how representative the surveys I've found are, but I couldn't find any other ones  that document as many details, such as self-identification with exclusionism.
 
 ## Site structure 
 
