@@ -1,8 +1,8 @@
-## LICENSE REGARDING CONTENT OF THE SITE:
+## Licence regarding content of the site:
 
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
-## [THEME ("Just the Docs") LICENSE](https://github.com/pmarsceill/just-the-docs/blob/master/LICENSE.txt)
+## [Theme ("Just the Docs") License](https://github.com/pmarsceill/just-the-docs/blob/master/LICENSE.txt)
 
 The MIT License (MIT)
 
@@ -26,7 +26,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-## [JEKYLL LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE)
+## [Jekyll license](https://github.com/jekyll/jekyll/blob/master/LICENSE)
 
 The MIT License (MIT)
 
