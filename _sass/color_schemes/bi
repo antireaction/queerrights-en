@@ -1,0 +1,5 @@
+$nav-child-link-color: $blue-200;
+$link-color: $pink;
+$btn-primary-color: $purple-000;
+
+$sidebar-color: darken($body-background-color, 1%)
