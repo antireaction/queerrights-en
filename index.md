@@ -43,3 +43,13 @@ The following resources greatly helped me with adding more sources for the count
 	- This is [Isis-level trans blessing](https://en.wikipedia.org/wiki/Iphis)
 * [The comments of this post](https://www.reddit.com/r/asktransgender/comments/8vo33r/my_master_list_of_trans_health_citations_in/?utm_medium=android_app&utm_source=share) mainly by u/tgjer and a few others
 * [This post by u/DGunner](https://www.reddit.com/r/asktransgender/comments/3rws5s/comprehensive_defense_against_antitrans_talking/)
+
+## Other languages
+
+I plan on translating this site into German and Russian once I finish the English version.
+
+## Changelog
+
+Format: DD.MM.YYYY: (Change)
+
+- 09.04.2021: Installed Jekyll on GitHub Pages and uploaded index file
