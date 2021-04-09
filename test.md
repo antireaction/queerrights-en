@@ -5,3 +5,5 @@ parent: test1
 ---
 
 ## Test
+
+<script>jtd.setTheme('acearo');</script>
