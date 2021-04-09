@@ -22,7 +22,7 @@ The same group of people is also described as LGBT+ or other derivatives of it, 
 "Queer" may have a history of being used as a slur against LGBT+ people, but it's the most frequently preferred and the third most accepted according to [this survey](https://qesurvey.tumblr.com/post/173556136743/what-is-the-ranking-of-various-acronyms-for-the)
  [(archive link)](). Those who don't prefer this term [tend to be - among other factors - exclusionists](https://qesurvey.tumblr.com/post/172970586838/how-do-different-identities-accept-and-reject-the) [(archive link)]().
  
-This is not to say that anyone who uses the term LGBT+ is an exclusionist, as plenty of non-exclusionist people use it (including me), alongside other terms. I'm just proving my point about the downsides of LGBT+ acronyms giving exclusionists a rhetorical ammunition.
+This is not to say that anyone who uses the term LGBT+ is an exclusionist, as plenty of non-exclusionist people use it (including me), alongside other terms. I'm just proving my point about one of the downsides of LGBT+ acronyms being that they give exclusionists rhetorical ammunition.
 
 1. TOC)
 {:toc}
