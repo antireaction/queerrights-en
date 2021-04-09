@@ -2,7 +2,7 @@
 layout: default
 title: Test
 nav_order: 1
-parent: About
+parent: Test1
 ---
 
 ## Test
