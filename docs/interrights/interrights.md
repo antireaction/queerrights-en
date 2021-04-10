@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inter Rights!
+title: Intersex Rights!
 nav_order: 3
 has_children: true
 permalink: /interrights/
