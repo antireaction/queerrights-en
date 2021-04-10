@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 permalink: /birights/
 ---
-<script> jtd.setTheme('orange'); </script>
+<script> jtd.setTheme('yellow'); </script>
 # Bi Rights!
 {: .no_toc }
 
