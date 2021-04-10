@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 permalink: /gayrights/
 ---
-<script> jtd.setTheme('blue'); </script>
+<script> jtd.setTheme('orange'); </script>
 # Gay & Lesbian Rights!
 {: .no_toc }
 
