@@ -32,7 +32,7 @@ github_username:
 # Build settings
 theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: default
+color_scheme: red
 
 plugins:
   - jekyll-feed
