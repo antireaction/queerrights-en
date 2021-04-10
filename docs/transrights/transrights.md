@@ -3,7 +3,7 @@ layout: default
 title: Trans Rights!
 nav_order: 2
 has_children: true
-permalink: docs/transrights/
+permalink: /transrights/
 ---
 
 # Trans Rights!
