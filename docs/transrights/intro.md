@@ -27,21 +27,20 @@ than this site does. Don't automatically assume they mean the exact same thing a
 
 **Transgender people** (or short "trans people") are people whose gender identity does not align with the sex they were assigned at birth. The opposite is **cisgender** or cis.
 - If you're thinking "Why do we need a word for cis people? Can't we just call them normal?" - it's the same reason why you don't say "black and normal people". 
-It implies the other one is not normal - not in the statistical sense (which would be true, the statistical norm is very clearly being cis), but in the moral or health-related way, as in evil/immoral 
-or sick (which isn't true).
+It implies the other one is not normal, and "not normal" is often used in a non-statistical sense, and instead in a judging or degrading way (e.g. as a synonym for "sick", "immoral", etc.).
 
 All people - whether cis or trans - should (as far as it is possible and safe) be gendered according to their gender identities, because it reduces unnecessary 
 and unproductive distress for the addressed person and is therefore the most respectful and humane option.
-In those cases where the person is also living and passing in accordance with their gender identity, it would also just be unnecessarily confusing for everyone else too.
+
+Additionally, in those cases where the person is also living and looks in accordance with their gender identity, it would just be unnecessarily confusing for everyone to call them something else just because they used to look like something else. It'd be like calling a butterfly a caterpillar.
 
 - **Trans men** are people who were assigned female at birth (**AFAB**) but have a male gender identity. 
-	- **Transmasculine** is a broader term that includes anyone who was AFAB and has no female or not exclusively female gender identity, including non-binary people.
+	- **Transmasculine** is a broader term that includes anyone who was AFAB, but has no female (or not exclusively female) gender identity, including non-binary people.
 	- "**FtM**" is an acronym that stands for "female-to-male" and is often used as a synonym for trans men, more rarely for all transmasculine people.
-	However, some people have an issue with it because it mentions the assigned gender of the person that they don't always want to be reminded of. I mention it 
-	anyway because it is still widely used, including in many scientific studies.	
+	It's often used in scientific studies. In the community, there are people who dislike the term because it mentions their assigned gender, but also people who are proud of it because it mentions the often hard journey they had to go through to arrive where they are.
 - **Trans women**, **transfeminine** people, and "**MtF**"s (male-to-female) are the corresponding terms for those who were assigned male at birth (**AMAB**).
 - **Non-binary** people are people of any assigned sex who have a gender identity that is **not always or exclusively male or female** - 
-for example it could be inbetween (neutrois), fluctuating (genderfluid), absent (agender, generless), a combination of them (multigender), etc. 
+for example it could be inbetween (neutrois), fluctuating (genderfluid), absent (agender, genderless), a combination of them (multigender), etc. 
 Many non-binary people use singular they/them pronouns in English, so it is usually a more or less safe bet to refer to them as such. Some also use neopronouns (e.g. ze/zir).
 	- They might use acronyms like "**FtX**", "**FtN**" (female-to-X, female-to-neutral) or "**MtX**", "**MtN**" (male-to-X, male-to-neutral).
 
@@ -135,19 +134,30 @@ Transition means aligning one's
 
 ...with one's gender identity. These are called social, legal, and medical transition respectively. Everyone's transition looks differently, because different trans people will have different needs, just like cis people differ in their bodies, understandings of gender, and expression too.
 
-- Medical transition can include **hormone replacement therapy (HRT)** (estrogen, progesterone, and testosterone-blockers for transfeminine people - testosterone for transmasculine people)
+- Medical transition can include **hormone replacement therapy (HRT)** (estrogen, progesterone, and testosterone-blockers for transfeminine people - testosterone, rarely estrogen-blockers for transmasculine people)
  and **sex reassignment surgeries (SRS)** (yes, plural - "_the_ surgery" is a myth and there's actually a lot of them). SRS is usually irreversible, HRT has some reversible and some 
  irreversible effects.
 	- Adolescents under the age of 16 are only ever given **hormone blockers** and only with parental consent and psychological recommendation. 
 	Hormone blockers are almost entirely reversible and in the vast majority of cases (when there's no allergic reaction) cause no harm if taken according to instructions. They simply offset natal puberty as long as the blockers are 
 	taken and are regularly used for cis children whose puberty is starting dangerously early as well.
-- Hormones change a majority of visible sex characteristics, ranging from fat distribution to skin texture, and surgeries remove the rest of the remaining visible sex characteristics of one's assigned sex as needed, or can enhance those of one's desired sex as needed.
+- Hormones change a majority of visible sex characteristics, ranging from fat distribution to skin texture, and surgeries remove the rest of the remaining visible sex characteristics of one's assigned sex as needed (e.g. breasts, facial hair), or can enhance those of one's desired sex (e.g. breast augmentation, genital surgeries).
 
 People who have taken any steps toward transition (whether social, legal, or medical) and later went back some or all steps to their assigned gender are called **detransitioners**. 
 This term includes
 - people who were entirely mistaken about being trans and are technically cis.
 - people who realized they are non-binary rather than binary trans.
-- people who detransitioned due to social, reproductive, or financial issues and might **retransition** later.
+- people who detransitioned due to social, religious, reproductive, or financial issues and might **retransition** later.
+
+Sometimes those detransitioners who only transitioned socially are called **desisters**.
+
+---
+### Isses faced by trans people
+
+Trans people in today's world face a variety of issues, such as:
+- **Discrimination in housing, work, medical care and not legal protections** - People can get fired not for doing badly at their job, can be kicked out not for not paying rent, or denied medical care not because they refuse to co-operate, but solely due to being trans. Trans people are the most likely group of queer people to be homeless due to this. **Trans liberation means introducing and enforcing legislation that bans discriminating people for being transgender and helping trans youth who have been kicked out by their unaccepting parents.**
+- **Being understudied, ignored, erased, mocked and bullied** - Trans people who medically transition end up having a body that is biologically in-between the sexes, so it is often unclear how exactly other medications or diseases and risks affect them, since those are usually only assessed for cis, non-intersex people. Most countries also do not include trans people, or queer people in general, in their sex education, leading to trans identity being stigmatized as something shameful that one shouldn't talk about publicly from early on, as well as trans youth not realizing they are trans earlier and ending up having to go through traumatizing natural puberty with irreversible effects. Media also rarely represents trans identities, or does so very poorly or mockingly, leading to negative attitudes towards them in society (tying back to point 1). **Trans liberation means acknowledging the harmless and shameless existence of trans people in present society as well as history in media and including them in sex education.**
+- **Not being able to change one's name or gender marker in accordance to their felt and lived gender** - Even most more or less accepting countries in the world (e.g. parts of Europe) don't allow for a non-binary or absent gender marker and make the process of changing it at all unnecessarily hard, degrading, and/or costly. **Trans liberation means either abolishing the gender markers entirely or making a more accessible and human process for it which includes a third gender marker.**
+- **Issues accessing life-saving medical care** - Most trans people desire medical transition, but surgeries and hormones, despite being proven to usually be the only cure of not rarely debilitating gender dysphoria, are very costly and not affordable or even possible for most trans people in the world. Even in those countries where insurance is guranteed to cover them, there are very long waiting times and one usually needs a diagnosis of"transsexualism", "gender identity disorder", gender dysphoria or gender incongruence first. The issue here lies with the fact that therapists doing those are hard to find and/or are behind on medical standards and use outdated diagnostic criteria. Many trans people end up buying hormones illegally or semi-legally through the internet and administer them themselves because they cannot bear the waiting times, a degrading diagnostic process, or have no other way of getting HRT to begin with. **Trans liberation means introducing  a healthcare system with humane waiting times and which includes trans healthcare, making sure enough doctors and therapists are trained to treat trans people, and introducing an informed consent model for more reversible treatments such as HRT, especially in regions where finding a therapist for a diagnosis fast is difficult or impossible.**
 
 ---
 	
