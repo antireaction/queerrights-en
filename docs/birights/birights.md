@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Bi Rights!
-nav_order: 7
+nav_order: 3
 has_children: true
 permalink: /birights/
 ---
-<script> jtd.setTheme('pink'); </script>
+<script> jtd.setTheme('yellow'); </script>
 # Bi Rights!
 {: .no_toc }
 
