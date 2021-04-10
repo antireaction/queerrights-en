@@ -6,3 +6,5 @@ has_children: true
 ---
 
 ## Test
+
+<script>jtd.setTheme('yellow');</script>
