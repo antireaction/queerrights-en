@@ -12,6 +12,6 @@ permalink: /transrights/
 ![minecraft bee is trans](assets/images/transbee.png)
 
 This section aims to debunk myths, fearmongering, and pseudoscience specifically about trans people.
-If you can't seem to find a certain myth through these vague categorizations, try the search bar.
+If you can't seem to find a certain myth through these categories, try the search bar.
 
 {: .fs-6 .fw-300 }
