@@ -1,5 +1,9 @@
 ---
-layout: page
+layout: default
+title: Test
+nav_order: 2
 ---
 
-test
+<script>jtd.setTheme('yellow');</script> 
+
+Test
