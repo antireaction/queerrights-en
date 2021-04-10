@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Intersex Rights!
-nav_order: 3
+nav_order: 5
 has_children: true
 permalink: /interrights/
 ---
-<script> jtd.setTheme('yellow'); </script>
+<script> jtd.setTheme('blue'); </script>
 # Intersex Rights!
 {: .no_toc }
 
