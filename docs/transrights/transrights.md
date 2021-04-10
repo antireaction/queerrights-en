@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Trans Rights!
-nav_order: 5
+nav_order: 4
 has_children: true
 permalink: /transrights/
 ---
-<script> jtd.setTheme('blue'); </script>
+<script> jtd.setTheme('green'); </script>
 # Trans Rights!
 {: .no_toc }
 
