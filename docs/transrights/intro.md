@@ -4,7 +4,7 @@ title: Start here
 nav_order: 1
 parent: Trans Rights!
 ---
-
+<script> jtd.setTheme('green'); </script>
 # Start here
 {: .no_toc }
 
