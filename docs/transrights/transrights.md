@@ -9,7 +9,7 @@ permalink: /transrights/
 # Trans Rights!
 {: .no_toc }
 
-![minecraft bee is trans](assets/images/transbee.png)
+![minecraft bee is trans](https://github.com/antireaction/queerrights-en/blob/7227b764cc802388807b77ef8bf6aa724754593a/assets/images/transbee.png)
 
 This section aims to debunk myths, fearmongering, and pseudoscience specifically about trans people.
 If you can't seem to find a certain myth through these categories, try the search bar.
