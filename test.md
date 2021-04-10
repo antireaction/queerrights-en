@@ -6,4 +6,4 @@ parent: test1
 
 ## Test
 
-<script>jtd.setTheme('acearo');</script>
+<script>jtd.setTheme('yellow');</script>
