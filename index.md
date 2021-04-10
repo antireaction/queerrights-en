@@ -15,8 +15,8 @@ By queer people I mean all people who due to their sex characteristics or harmle
 * Gay and lesbian people
 * Bi (including pan, omni, and poly) people
 * Transgender (including non-binary) people
-* Asexual and aromantic people
 * Intersex people
+* Asexual and aromantic people
 
 The same group of people is also described as LGBT+ or other derivatives of it, but I decided against it as it commonly leads to either exclusionism or the acronym getting endlessly long (e.g. LGBTQIAA2S...).
 "Queer" may have a history of being used as a slur against LGBT+ people, but it's the most frequently preferred and the third most accepted according to [this 2018 survey](https://qesurvey.tumblr.com/post/173556136743/what-is-the-ranking-of-various-acronyms-for-the)
