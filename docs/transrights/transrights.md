@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 permalink: /transrights/
 ---
-
+<script> jtd.setTheme('blue'); </script>
 # Trans Rights!
 {: .no_toc }
 
