@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Gay & Lesbian Rights!
-nav_order: 4
+nav_order: 2
 has_children: true
 permalink: /gayrights/
 ---
-<script> jtd.setTheme('green'); </script>
+<script> jtd.setTheme('orange'); </script>
 # Gay & Lesbian Rights!
 {: .no_toc }
 
