@@ -33,7 +33,7 @@ If you still can't find it, but think it is an important myth to be addressed he
 
 ## Sources
 
-All sources are linked and there's always an archive link additionally to them in case something happens to the website (e.g. the information on it gets changed or it goes down).
+All sources are cited directly where their content is discussed. Studies link to their DOI (digital objective identifier; permanent links) whenever possible. Articles & studies with no DOI have a link to their original source (website, journal) and an additional archive link in case the original link breaks or changes it's content.
 
 The following resources greatly helped me with adding more sources for the counter-arguments and also made me aware of some reactionary arguments I hadn't encountered before:
 - [The Trans Rights Factsheet](https://docs.google.com/document/d/1Le70f0hs5ZDSGlP13YQaa5k_YjD27VaxOHB9g1J0X6g/mobilebasic) by Pearl (@PearloLesbo on Twitter), NB419 (u/NB419 on Reddit), and Apa/Scuter (u/Apatheizer on Reddit and Scuter on YouTube)
