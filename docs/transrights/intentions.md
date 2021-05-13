@@ -28,6 +28,6 @@ parent: Trans Rights!
 
 ## "Trans people are fleeing from something else."
 
-### "Trans people are fleeing from homosexuality." -> Iran
+### "Trans people are fleeing from homosexuality."
 
 ### "Trans people are fleeing from gender roles."
