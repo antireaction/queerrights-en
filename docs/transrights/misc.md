@@ -7,7 +7,7 @@ parent: Trans Rights!
 
 # Misc
 {: .no_toc }
-
+<script> jtd.setTheme('green'); </script> 
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -92,7 +92,7 @@ Yet nobody uses the lack of physical suffering of the latter group to invalidate
 why does this suddenly become a valid argument when used against trans women?
 
 And why aren't the unique sufferings of trans womanhood (e.g. gender dysphoria, transmisogyny) acknowledged as qualifiers for 
-womanhood as much as the sufferings unique to cis [endosex]( "not intersex") womanhood (e.g. giving birth, menstruation)? 
+womanhood as much as the sufferings unique to cis [endosex](! "not intersex") womanhood (e.g. giving birth, menstruation)? 
 After all, it is typically (even if only a part of) women (and some non-binary people) can experience transmisogyny or gender dysphoria about the lack of breasts and hips.
 
 Trans people's lives before social transition (if it occurs at all) is still very different from that of cis people of their assigned gender, because the former
