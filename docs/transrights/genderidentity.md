@@ -4,7 +4,7 @@ title: Myths about gender identity
 nav_order: 2
 parent: Trans Rights!
 ---
-
+<script> jtd.setTheme('green'); </script>
 # Myths about gender identity
 {: .no_toc }
 
