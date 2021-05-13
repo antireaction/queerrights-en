@@ -4,7 +4,7 @@ title: Myths about trans youth
 nav_order: 5
 parent: Trans Rights!
 ---
-
+<script> jtd.setTheme('green'); </script>
 # Myths about trans youth
 {: .no_toc }
 
