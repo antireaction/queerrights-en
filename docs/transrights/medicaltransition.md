@@ -4,7 +4,7 @@ title: Myths about transition and biology
 nav_order: 4
 parent: Trans Rights!
 ---
-
+<script> jtd.setTheme('green'); </script>
 # Myths about transition
 {: .no_toc }
 
