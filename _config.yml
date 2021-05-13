@@ -37,7 +37,7 @@ color_scheme: default
 plugins:
   - jekyll-feed
   
-  aux_links:
+aux_links:
   "Anti-reactionary overview":
     - "https://antireaction.github.io"
 
