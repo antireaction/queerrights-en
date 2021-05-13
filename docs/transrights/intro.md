@@ -10,18 +10,19 @@ parent: Trans Rights!
 
 On how this website understands the concept of transgender identity and it's use of terms.
 
-**Note**: Terminology for trans topics varies wildly. There are plenty of websites, organizations, people, and scientific studies who use words slightly if not completely differently than this site does, so make sure you understand how others use terms when you interpret their studies, articles, etc.
-
-There are also theorists (who are trans-affirming) who question fundamental concepts (such as the cis-trans dichotomy or exact seperation of gender identity and expression) presented here altogether. For the sake of simplicity (and because this is a site created for making pragmatic points and not philosophical  discussions for their own sake), I decided to stay away from mentionng such nuances further in this introduction unless they significantly impact policies.
-I will explain here what I believe is the most practical and mostly accepted (or at least not heavily controversial) framework for understanding these topics among trans people themselves, even though I agree with some criticisms made against it (I will maybe add a page discussing those in the future when the rest of the site is finished).
-
-Just know that models, in general, are never identical to reality and only attempt to come close to putting it in words to understand certain aspects of it. The model presented here is no exception from this.
-
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+---
+**Note**: Terminology for trans topics varies wildly. There are plenty of websites, organizations, people, and scientific studies who use words slightly if not completely differently than this site does, so make sure you understand how others use terms when you interpret their studies, articles, etc.
+
+There are also theorists (who are trans-affirming) who question fundamental concepts presented here (such as the cis-trans dichotomy or exact seperation of gender identity and expression) altogether. For the sake of simplicity (and because this is a site created for making pragmatic points and not philosophical  discussions for their own sake), I decided to stay away from mentionng such nuances further in this introduction unless they significantly impact policies.
+I will explain here what I believe is the most practical and mostly accepted (or at least not heavily controversial) framework for understanding these topics among trans people themselves, even though I agree with some criticisms made against it (I will maybe add a page discussing those in the future when the rest of the site is finished).
+
+Just know that models, in general, are never identical to reality and only attempt to come close to putting it in words to understand certain aspects of it. The model presented here is no exception from this.
 
 ---
 
