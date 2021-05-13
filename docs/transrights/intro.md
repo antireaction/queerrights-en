@@ -8,7 +8,14 @@ parent: Trans Rights!
 # Start here
 {: .no_toc }
 
-First it should be clear to everyone what trans people are.
+On how this website understands the concept of transgender identity and it's use of terms.
+
+**Note**: Terminology for trans topics varies wildly. There are plenty of websites, organizations, people, and scientific studies who use words slightly if not completely differently than this site does, so make sure you understand how others use terms when you interpret their studies, articles, etc.
+
+There are also theorists (who are trans-affirming) who question fundamental concepts (such as the cis-trans dichotomy or exact seperation of gender identity and expression) presented here altogether. For the sake of simplicity (and because this is a site created for making pragmatic points and not philosophical  discussions for their own sake), I decided to stay away from mentionng such nuances further in this introduction unless they significantly impact policies.
+I will explain here what I believe is the most practical and mostly accepted (or at least not heavily controversial) framework for understanding these topics among trans people themselves, even though I agree with some criticisms made against it (I will maybe add a page discussing those in the future when the rest of the site is finished).
+
+Just know that models, in general, are never identical to reality and only attempt to come close to putting it in words to understand certain aspects of it. The model presented here is no exception from this.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -18,16 +25,11 @@ First it should be clear to everyone what trans people are.
 
 ---
 
-**Note**: Terminology for trans topics varies wildly. There are plenty of websites, organizations, people, and scientific studies who use words slightly if not completely differently 
-than this site does. Don't automatically assume they mean the exact same thing as explained here, make sure you check how they define terms before you make your interpretations.
-
----
-
 ### Basics - gender identity, assigned sex
 
-**Transgender people** (or short "trans people") are people whose gender identity does not align with the sex they were assigned at birth. The opposite is **cisgender** or cis.
+**Transgender people** (or short "trans people") are people whose gender identity does not align with the sex (and consequently gender) they were assigned at birth at all times and to full degree. The opposite is **cisgender** or cis: The full and constant alignment of one's gender identity with the assigned sex and gender.
 - If you're thinking "Why do we need a word for cis people? Can't we just call them normal?" - it's the same reason why you don't say "black and normal people". 
-It implies the other one is not normal, and "not normal" is often used in a non-statistical sense, and instead in a judging or degrading way (e.g. as a synonym for "sick", "immoral", etc.).
+It implies the other one is not normal, and "not normal" does not have just the statistical meaning of "the majority". It is often used in a judging or degrading way, e.g. as "sick", "immoral", etc. Furthermore, "normal", even in the statistical sense, can change depending on context - calling cis people "normal" while in a friend group of mostly trans people just seems odd and confusing. "Cis" is 1. specfic and devoid of confusion in all contexts, 2. does not stigmatize it's opposite.
 
 All people - whether cis or trans - should (as far as it is possible and safe) be gendered according to their gender identities, because it reduces unnecessary 
 and unproductive distress for the addressed person and is therefore the most respectful and humane option.
@@ -48,19 +50,19 @@ Many non-binary people use singular they/them pronouns in English, so it is usua
 
 **Gender identity** is an internal sense of what one's sex characteristics are _ought_ (supposed) to be like (bodily aspect, "sex identity") and/or be referred to as (social aspect).
 
-- Gender identity is **not chosen** for anyone, neither cis nor trans people.
+- Gender identity is **not chosen** for anyone, neither cis nor trans people. What one chooses is how one puts it into words, but the feelings (explained further down) being interpreted for that, are not under anyone's full control.
 
 - Gender identity is **not** what **gendered expectations or roles** one fits better, and being trans is not just disliking one's assigned gender role.
 
 - Gender identity is **not voluntary gender expression** (how a person chooses to dress, cut their hair, etc. - not including sex characteristics because 
 nobody chooses them voluntarily, although they can be considered as part of _general_ gender expression). 
-While gender expression is usually one that aligns with a given society's expectations for one's gender identity, it doesn't have to be and is not what determines 
+While voluntary gender expression is often one that aligns with a given society's expectations for one's gender identity, it doesn't have to be and is not what determines 
 a person's gender identity.
 	- Having a voluntary gender expression that does not correspond with societal expectations for one's gender identity is called **gender non-conformity (gnc)**. 
-	Both cis and trans people can be gnc. **Gnc is not the same as non-binary or trans at all**, the former is about expression and the latter about identity. 
-		- Many organizations will (in my opinion very wrongly) define being trans as having an identity _or expression_ that doesn't match one's assigned sex, 
-		but I'm assuming they are including sex characteristics as part of gender expression and hence gender non-conformity would also include having atypical sex characteristics.
-		Since this site, and as far as I know a majority of trans people themselves, define gnc differently (not referring to sex characteristics), 
+	Both cis and trans people can be gnc. **Gnc is not the same as non-binary or trans**, the former is about expression and the latter about identity. 
+		- Many organizations will define being trans as having an identity _or expression_ that doesn't match one's assigned sex, 
+		but I'm guessing they are including sex characteristics as part of gender expression and hence gender non-conformity would also include having 			atypical (even not chosen) sex characteristics.
+		Since this site, and as far as I know a majority of trans people themselves, define gnc differently (not referring to not chosen sex 				characteristics), 
 		gnc will not be included as being trans here.
 		- **Crossdressing** (formerly also called "transvestism") is an "extreme" form of gnc and are often confused with trans people. 
 		However, crossdressers differ fundamentally from trans people of the same assigned sex in that crossdressers change their appearance for entertainment 
@@ -154,6 +156,6 @@ Sometimes those detransitioners who only transitioned socially are called **desi
 	
 ### Purpose of the site
 
-The purpose of this section of the site is to provide evidence for the validity of this narrative and debunking misconceptions and opposing narratives, 
+The purpose of this section of the site is to provide evidence for the validity of this narrative and debunking misconceptions and opposing anti-trans narratives, 
 such as those fearmongering about the dangers of "gender ideology" that is supposedly "denying biological reality" and "luring" confused teenage girls into a "transgender cult" while
-at the same time threatening the "sex-based rights" of (cis, non-intersex) women.
+at the same time threatening the "sex-based rights" of (cis, [episex](! "not intersex")) women.
