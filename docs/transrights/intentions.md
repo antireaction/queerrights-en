@@ -4,7 +4,7 @@ title: Myths about intentions
 nav_order: 3
 parent: Trans Rights!
 ---
-
+<script> jtd.setTheme('green'); </script>
 # Myths about trans people's intentions
 {: .no_toc }
 
