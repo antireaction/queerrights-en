@@ -47,7 +47,7 @@ We have a lot of evidence that gender identity is an actually existing, most lik
 
 #### Truthful until proven otherwise
 
-Why would trans people want to lie to you about having gender dysphoria and/or euphoria? People should be assumed to be saying the truth about their own experiences unless proven otherwise by a more credible source, which - when it comes to feelings, perceptions, and experiences - doesn't really exist, at least not currently nor in the near future. Just like in court, where people are (or at least should be considered) innocent until proven otherwise, not the other way around, one should assume people are truthful and have no maliscious intentions unless proven otherwise. That should be the null hypothesis.
+Why would trans people want to lie to you about having gender dysphoria and/or euphoria, and hence a gender identity that must be causing it? People should be assumed to be saying the truth about their own experiences unless proven otherwise by a more credible source, which - when it comes to feelings, perceptions, and experiences - doesn't really exist, at least not currently nor in the near future. Just like in court, where people are (or at least should be considered) innocent until proven otherwise, not the other way around, one should assume people are truthful and have no maliscious intentions unless proven otherwise. That should be the null hypothesis.
 
 Furthermore, scientific study is not the only nor always best way of acquiring knowledge. Suppose a study was released which claimed certain colours, e.g. blue, or feelings, e.g. anger, do not exist - would you really believe them? Most likely not, as the experience of too many people contradicts it's findings, your own probably too. Many people have seen the colour blue (except for people born fully blind or colourblind people) and felt anger at some point in their lives. Just because our scientific methods may not be advanced enough yet to measure such experiences, does not mean that they do not exist.
 
@@ -69,10 +69,12 @@ Despite being raised as female from before gender identity was presumed to form 
 	
 - Women with PCOS (polycystic ovary syndrome), which either causes higher testosterone levels, a lack of periods, and/or enlarged ovaries, should feel no distress over sometimes having masculine features, such as increased body and facial hair. After all, your gender is what your sex characteristics tell you, right? 
 	And yet, according to a qualitative study of 23 reproductive aged women by [Amiri et. al. in 2014](doi.org/10.5812/ircmj.12423), they do, indicating that they have some sense of their gender. Now, one might debate of whether or not these feelings of inadequatness comes from an inborn gender identity that tells them their body isn't supposed to have certain features such as their degree of hairiness, or whether it is learned shame due to gendered expectations - but either way, it shows that trans people are not exceptionally whiny or sensitive people in regards to their gender identity and (voluntary and involuntary) expression.
+
+
 - Cis men who loose their genitalia or some of it's functions in war, due to accidents, violent partners, or having an intersex trait should all feel 0 remorse over loosing their/lacking genitals if there was no gender identity. After all, they always are just what their sex charactertics tell them and there's no gender identity that could make them feel a conflict between their body and mind. And yet they do feel distress and [phalloplasty](https://en.wikipedia.org/wiki/Phalloplasty) is commonly performed on them, a procedure also used for trans men to reconstruct a phallus.
 - A study by [Joel. et. al. (2013)](https://doi.org/10.1080/19419899.2013.830640) ([pdf link](https://people.socsci.tau.ac.il/mu/daphnajoel/files/2014/11/Joel_gender_identity_2013.pdf), [archive link of the pdf](https://web.archive.org/web/20210425120153/https://people.socsci.tau.ac.il/mu/daphnajoel/files/2014/11/Joel_gender_identity_2013.pdf)) surveyed Israeli cis individuals of various sexual orientations as well as trans people and observed that most cis people also have a sense of gender identity, even though it also found ambiguous feelings towards gender to be more common among cis people and less correlated to sexual orientation than often presumed. The results have been replicated in [Joel & Jacobson (2018)](doi.org/10.1007/s10508-018-1239-y) and [Joel & Jacobson (2019)]( https://doi.org/10.1080/00224499.2018.1523998) with English-speaking participants.
 
-Although it is clear from this inexhaustive list of studies and examples that the line between cis & trans individuals and gender identity & expression can at times become blurry, it also shows that those who identify as trans are not the only ones who have a sense of self regarding gender. In fact, it clearly shows that a majority of people exhibit this, and that they can also have very similarly negative reactions (e.g. depression, suicidality) as some trans people when their bodies become too misaligned with that sense of self (e.g. intersex re-assignment).
+Although it is clear from this inexhaustive list of studies and examples that the line between cis & trans individuals and gender identity & expression can at times become blurry, it also shows that those who identify as trans are not the only ones who have a sense of self regarding gender. In fact, it clearly shows that a majority of people exhibits this, and that they can also have very similarly negative reactions (e.g. depression, suicidality) as some trans people when their bodies become too misaligned with that sense of self (e.g. intersex re-assignment).
 
 ---
 
@@ -81,30 +83,36 @@ Although it is clear from this inexhaustive list of studies and examples that th
 Gender identity is also recognized as a real, existing trait that can be different from sex and likely unchangable trait/experience by the following reputable institutions and organizations (not an exhaustive list):
 
 - American Academy of Child and Adolescent Psychiatry
+- American Academy of Dermatology
 - American Academy of Family Physicians
 - American Academy of Nursing
 - American Academy of Pediatrics
+- American Academy of Physician Assistants
+- American College Health Association
 - American College of Nurse-Midwives
 - American College of Obstetricians and Gynecologists
-- American College of Osteopathic Pediatricians
 - American College of Physicians
 - American Counseling Association
+- American Heart Association
 - American Medical Association
+- American Medical Student Association
+- American Nurses Association
 - American Osteopathic Association
 - American Psychiatric Association
-- American Psychoanalytic Association
-- [American Psychological Association](https://www.apa.org/topics/lgbtq/transgender) ([archive link](https://web.archive.org/web/20210427181735/https://www.apa.org/topics/lgbtq/transgender/))
+- American Psychological Association
 - American Public Health Association
+- American Society of Plastic Surgeons
 - Endocrine Society
-- Human Rights Campaign
+- GLMA: Health Professionals Advancing LGBTQ Equality
+- National Association of Nurse Practitioners in Women's Health
 - National Association of Social Workers
 - National Commission on Correctional Health Care
-- Royal College of Psychiatrists
-- United Kingdom’s National Health Service
-- United Nations
+- Pediatric Endocrine Society
+- Society for Adolescent Health and Medicine
 - World Medical Association
+- World Professional Association for Transgender Health
 
-Remaining sources: [[1](https://transhealthproject.org/resources/medical-organization-statements/), [archive](https://web.archive.org/web/20210228012449/https://transhealthproject.org/resources/medical-organization-statements/)] 
+Source: [[1](https://transhealthproject.org/resources/medical-organization-statements/), [archive](https://web.archive.org/web/20210228012449/https://transhealthproject.org/resources/medical-organization-statements/)] 
 
 While this does not automatically mean this position must be right - simply appealing to authority is not enough -, I have already explained some of the scientific basis of these assertions previously in this section.
 
