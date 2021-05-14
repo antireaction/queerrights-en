@@ -43,11 +43,80 @@ none of your concern and because it often causes unnecessary gender dysphoria, b
 
 [Work in progress]
 
+We have a lot of evidence that gender identity is an actually existing, most likely close to universal trait/experience that people have.
+
 #### Truthful until proven otherwise
 
-Why would trans people want to lie to you about having gender dysphoria and/or euphoria like all of them are maliscious monsters? People should be assumed to be saying the truth about their own experiences unless proven otherwise by a more credible source, which - when it comes to feelings - doesn't really exist. Just like in court, where people are (or at least should be considered) innocent until proven otherwise, not the other way around.
+Why would trans people want to lie to you about having gender dysphoria and/or euphoria? People should be assumed to be saying the truth about their own experiences unless proven otherwise by a more credible source, which - when it comes to feelings, perceptions, and experiences - doesn't really exist, at least not currently nor in the near future. Just like in court, where people are (or at least should be considered) innocent until proven otherwise, not the other way around, one should assume people are truthful and have no maliscious intentions unless proven otherwise. That should be the null hypothesis.
 
-The model/interpretation of those feelings that is most helpful and most in line with these experiences should be believed until there is a better one. The one asserting for there to be a gender identity which is subject to some but rarely/almost never full change and which can be seen as seperate from sexual orientation is currently the most helpful and congruent with many trans people's experiences.
+Furthermore, scientific study is not the only nor always best way of acquiring knowledge. Suppose a study was released which claimed certain colours, e.g. blue, or feelings, e.g. anger, do not exist - would you really believe them? Most likely not, as the experience of too many people contradicts it's findings, your own probably too. Many people have seen the colour blue (except for people born fully blind or colourblind people) and felt anger at some point in their lives. Just because our scientific methods may not be advanced enough yet to measure such experiences, does not mean that they do not exist.
+
+
+#### Gender identity proven by cis and re-assigned intersex people
+
+The existence of gender identity is proven not only by the experiences of trans people, but also cis people themselves. If gender identity didn't exist, none of them would ever feel anything comparable to gender dysphoria, and yet they do:
+- [David Reimer](https://en.wikipedia.org/wiki/David_Reimer) was an [endosex](! "not intersex") cis man who underwent genital mutilation at 22 months to re-assign him and raise as female, after his nonconsensual circumcision went wrong. 
+Despite being raised as female from before gender identity was presumed to form (at 3/4 years), he ended up	unhappy as a girl (showing symptoms such as depression which are also commonly observed among dysphoric trans people) and transitioned to male.
+- Male newborns who are born with not fully formed or functional male genitalia experience a similar fate as David Reimer.
+	They tend to transition to male much more often than those who do not receive such re-assignment:
+	- In a study of 16 subjects, 2 were assigned and raised as male, while the other 14 were re-assigned and raised as female due to a condition affecting the pelvis in
+		genetic males.
+		But 8 out of those 14 ended up identifying themselves as male during the course of the study, one had an unclear identity (they found out they were born male, became upset and refused to talk to the researchers after that), and 
+		only 5 seemed to be happy living as female (with no knowledge that they were born male). ([Reiner and Gearhart, 2004](doi.org/10.1056/NEJMoa022236))
+	- A review of 3 conditions affecting male genitalia also "clearly indicate[s] an increased risk of later patient-initiated gender 
+		re-assignment to male after female assignment in infancy or early childhood",
+		although it also notes that the findings "are nevertheless incompatible with the notion of a full determination of core gender identity by prenatal androgens." ([Meyer-Bahlburg 2005](https://doi.org/10.1007/s10508-005-4342-9), meaning that there might also be a genetic, epigenetic, and/or social factor in determining gender identity. Or we could take this to mean that gender identity is less exact of a concept as presumed by the term "core gender identity"; that there is some space for variability in the way people interpret/formulate similar feelings of gender incongruence into gender identity.
+	
+- Women with PCOS (polycystic ovary syndrome), which either causes higher testosterone levels, a lack of periods, and/or enlarged ovaries, should feel no distress over sometimes having masculine features, such as increased body and facial hair. After all, your gender is what your sex characteristics tell you, right? 
+	And yet, according to a qualitative study of 23 reproductive aged women by [Amiri et. al. in 2014](doi.org/10.5812/ircmj.12423), they do, indicating that they have some sense of their gender. Now, one might debate of whether or not these feelings of inadequatness comes from an inborn gender identity that tells them their body isn't supposed to have certain features such as their degree of hairiness, or whether it is learned shame due to gendered expectations - but either way, it shows that trans people are not exceptionally whiny or sensitive people in regards to their gender identity and (voluntary and involuntary) expression.
+- Cis men who loose their genitalia or some of it's functions in war, due to accidents, violent partners, or having an intersex trait should all feel 0 remorse over loosing their/lacking genitals if there was no gender identity. After all, they always are just what their sex charactertics tell them and there's no gender identity that could make them feel a conflict between their body and mind. And yet they do feel distress and [phalloplasty](https://en.wikipedia.org/wiki/Phalloplasty) is commonly performed on them, a procedure also used for trans men to reconstruct a phallus.
+- A study by [Joel. et. al. (2013)](https://doi.org/10.1080/19419899.2013.830640) ([pdf link](https://people.socsci.tau.ac.il/mu/daphnajoel/files/2014/11/Joel_gender_identity_2013.pdf), [archive link of the pdf](https://web.archive.org/web/20210425120153/https://people.socsci.tau.ac.il/mu/daphnajoel/files/2014/11/Joel_gender_identity_2013.pdf)) surveyed Israeli cis individuals of various sexual orientations as well as trans people and observed that most cis people also have a sense of gender identity, even though it also found ambiguous feelings towards gender to be more common among cis people and less correlated to sexual orientation than often presumed. The results have been replicated in [Joel & Jacobson (2018)](doi.org/10.1007/s10508-018-1239-y) and [Joel & Jacobson (2019)]( https://doi.org/10.1080/00224499.2018.1523998) with English-speaking participants.
+
+Although it is clear from this inexhaustive list of studies and examples that the line between cis & trans individuals and gender identity & expression can at times become blurry, it also shows that those who identify as trans are not the only ones who have a sense of self regarding gender. In fact, it clearly shows that a majority of people exhibit this, and that they can also have very similarly negative reactions (e.g. depression, suicidality) as some trans people when their bodies become too misaligned with that sense of self (e.g. intersex re-assignment).
+
+---
+
+#### Recognition by institutions
+
+Gender identity is also recognized as a real, existing trait that can be different from sex and likely unchangable trait/experience by the following reputable institutions and organizations (not an exhaustive list):
+
+- American Academy of Child and Adolescent Psychiatry
+- American Academy of Family Physicians
+- American Academy of Nursing
+- American Academy of Pediatrics
+- American College of Nurse-Midwives
+- American College of Obstetricians and Gynecologists
+- American College of Osteopathic Pediatricians
+- American College of Physicians
+- American Counseling Association
+- American Medical Association
+- American Osteopathic Association
+- American Psychiatric Association
+- American Psychoanalytic Association
+- [American Psychological Association](https://www.apa.org/topics/lgbtq/transgender) ([archive link](https://web.archive.org/web/20210427181735/https://www.apa.org/topics/lgbtq/transgender/))
+- American Public Health Association
+- Endocrine Society
+- Human Rights Campaign
+- National Association of Social Workers
+- National Commission on Correctional Health Care
+- Royal College of Psychiatrists
+- United Kingdom’s National Health Service
+- United Nations
+- World Medical Association
+
+Remaining sources: [[1](https://transhealthproject.org/resources/medical-organization-statements/), [archive](https://web.archive.org/web/20210228012449/https://transhealthproject.org/resources/medical-organization-statements/)] 
+
+While this does not automatically mean this position must be right - simply appealing to authority is not enough -, I have already explained some of the scientific basis of these assertions previously in this section.
+
+There is also no reason why
+they would lie about gender identity being real or not real, as it doesn't serve their interests. There are certain conspiracy theories asserting that doctors or therapists purposefully diagnose people with gender dysphoria too soon and easily, because following treatment would supposedly benefit them financially, but this hypothesis has 2 major flaws:
+1. In sum, HRT and surgeries to treat gender dysphoria are usually less expensive than lifelong psychotherapy or conversion therapy with ineffective medications like anti-depressants. It would be more profitable for doctors to lie to dysphoric patients and make them visit their ineffective therapy sessions and buy ineffective drugs forever than to give them [actually helpful](!!!) treatments.
+2. There are also insurance companies or the state (depending on the structure of the healthcare system in your country), in whose financial interest it would be to reduce needed psychotherapies, conversion therapies, and surgeries & hormones. There is no reason to think that they don't already try to make sure that therapists and doctors do not jump to conclusions and prescribe unnecessary or even harmful treatments. After all, it's those insurance companies/the state that would also need to pay for detransition surgeries and hormones.
+
+All these institutions asserting the existence of gender identity would be in trans people's interests for sure, but it's unlikely that less than 1% of the population has somehow infiltrated all of these institutions
+and made all involved psychologists and doctors adhere to "the gender ideology".
+
+If such a conspiracy exists, the burden of proof lies on those who assert this to provide evidence, but this has - to my knowledge - still not been done by anyone. There are no specific names or documents showing that someone is profiting significantly off of trans healthcare or that there is an especially strong, wealthy "trans lobby".
 
 ---
 ### "Gender identity can't be misaligned with sex."
@@ -56,10 +125,6 @@ If trans people weren't truly one gender trapped in the body of another and thei
 
 In fact, there should not only be no improvement if one's gender identity always aligned with one's sex characteristics - there
 should be a worsening, because now it is being wrongly _misaligned_ while the actual cause of the distress still wasn't addressed. Yet this isn't what we see happening in reality, so this theory must be false based on empirical data.
-
----
-
-### Recognition by institutions
 
 ---
 
