@@ -62,9 +62,9 @@ a person's gender identity.
 	- Having a voluntary gender expression that does not correspond with societal expectations for one's gender identity is called **gender non-conformity (gnc)**. 
 	Both cis and trans people can be gnc. **Gnc is not the same as non-binary or trans**, the former is about expression and the latter about identity. 
 		- Many organizations will define being trans as having an identity _or expression_ that doesn't match one's assigned sex, 
-		but I'm guessing they are including sex characteristics as part of gender expression and hence gender non-conformity would also include having 			atypical (even not chosen) sex characteristics.
+		but they are including sex characteristics as part of gender expression (see, for example, the [APA's page on trans people](https://www.apa.org/topics/lgbtq/transgender), ([archive link])(https://web.archive.org/web/20210427181735/https://www.apa.org/topics/lgbtq/transgender/)) and hence gender non-conformity would also include having atypical (even not chosen) sex characteristics in relation to self-identification.
 		Since this site, and as far as I know a majority of trans people themselves, define gnc differently (not referring to not chosen sex 				characteristics), 
-		gnc will not be included as being trans here.
+		gnc will not be included as being trans here and only refer to _voluntary_ gender expression.
 		- **Crossdressing** (formerly also called "transvestism") is an "extreme" form of gnc and are often confused with trans people. 
 		However, crossdressers differ fundamentally from trans people of the same assigned sex in that crossdressers change their appearance for entertainment 
 		(e.g. drag/caricaturing, acting), and in some cases sexual desires, while trans people do so for authenticity (the very opposite of acting).
