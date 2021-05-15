@@ -49,8 +49,8 @@ But consensual modifications - ranging from tattoos to heart surgeries - are usu
 > In many ways self-mutilation is very different than body-modification. Body modification gives one the feeling of pride and excitement, giving one something to show off to others. Alternately, those who self-mutilate typically are ashamed of what they've done and want to hide any evidence of harm. Body modification is explored for adornment, self-expression, and an array of many other positive reasons, while self-mutilation is inflicted because of mental or emotional stress and the inability to cope with psychological pain. Those who self-mutilate do so in order to punish themselves, express internal turmoil, and reduce severe anxiety.
 
 Medical transition clearly falls under the term of body modification, rather than mutilation:
-1. It is only performed with informed consent.
-2. It is performed in safe, sterile environments with anesthesia and proper tools by professionals.
+1. In the case of trans people, it is only performed with informed consent.
+2. It is usually performed in safe, sterile environments, depending on the procedure with anesthesia, and proper tools by professionals.
 3. It is performed not as punishmet, but as self-expression. 
 	- While it does sometimes alleviate anxiety that might accompany gender dysphoria for some people, this is by far not always the case, as many trans people do not suffer from anxiety pre-transition. Even when they do: Medical transition tries to reduce anxiety constructively and long-term and not just in the moment, with no thinking through, like self-harm does. 
 	- Scars from surgeries are sometimes shown off too, and when they aren't, it's because the indvidual wishes they naturally appeared the way they do after surgery, and not because they regret or are ashamed having had the procedure in the first place.
