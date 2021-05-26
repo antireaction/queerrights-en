@@ -207,10 +207,12 @@ A person may regret transition for various reasons, including
 - social (e.g. loosing friends, family, their job, having to spend a lot of money), 
 - physical (e.g. their health became worse due to complications or an interaction with diseases or disabilities they had beforehand) 
 - or psychological (e.g. they feel worse after it/gain gender dysphoria). 
+
 A person can also detransition 
 - to various degrees (e.g. only socially, but continuing to transition medically; or the other way around),
 - for various lengths (e.g. they only offset their medical transition until they solved another health issue they have) 
 - and reasons (e.g. their family pressured them into social detransition, but they retransition as soon as they are independent from them; or their gender dysphoria worsened and they realized they aren't trans). 
+
 Not all regretful transitioners detransition, not all detransitioners actually regret transition, not all detransitions affect the same aspects (social, medical, legal), and not all detransitions are forever.
 
 To avoid (often temporary) detransition due to discrimination (which is maybe better described with "going back into the closet"), we need to 1. build ways for people in transphobic environments to escape those environments easier and become more econmically independent (e.g. free housing so people can move out of abusive households easier and faster) and 2. make society itself less transphobic by educating people.
@@ -310,34 +312,3 @@ Related: "I won't call you your name and pronouns because you are biologically [
 ---
 
 ### "Trans people (specifically trans women) have an advantage in sports."
-
-
- 	*[endosex]: not intersex
-	*[intersex]: has naturally an atypical combination of sex characteristics (chromosomes, hormones, genitalia,...)
-	*[cis]: cisgender/not transgender
-	*[trans]: does not fully and/or at all times identify with their assigned gender and sex (usually but not always corresponding to their natal sex)
-	
-	*[AIAB]: assigned intersex at birth
-	*[AFAB]: assigned female at birth
-	*[AMAB]: assigned male at birth
-	*[FAFAB]: forcibly assigned female at birth
-	*[FAMAB]: forcibly assigned male at birth
-
-	*[pre-OP]: someone who desires surgery but did not yet undergo it
-	*[pre-HRT]: someone who desires but did not yet receive cross-sex hormone replacement therapy
-	*[non-OP]: someone who did not undergo sex reassignment surgery and does not desire it
-	*[non-HRT]: someone who is not on HRT and does not desire HRT
-	*[post-OP]: someone who had some sex-reassignment surgery
-	*[HRT]: (in this context: cross-sex) hormone replacement therapy
-	*[SRS]: sex-reassignment surgery
-	*[bottom surgery]: SRS on the genitals and/or reproductive organs
-	*[top surgery]: SRS on the chest (usually mastectomy or breast augmentation)
-	
-	*[ace]: shorthand for asexual
-	*[aro]: shorthand for aromantic
-	*[gay]: attracted to the same gender, in English it can be used broadly for both lesbians and gay men or more narrowly only for gay men
-	*[lesbian]: in the narrowest sense, both adjective and noun for a woman attracted exclusively to other women; but sometimes also used for non-exclusive attraction to any more female than male-aligned people, including some non-binary people
-	*[bi]: shorthand for bisexual/-romantic (attraction to multiple genders, in the narrowest sense only 2)
-	*[pan]: shorthand for pansexual/-romantic (attraction regardless of perceived sex; genderblind)
-	*[poly]: a) shorthand for polysexual (attraction to multiple genders) or b) polyamorous (description for someone who has a relationship with more than 2 participants)
-	*[omni]: shorthand for omnisexual/-romantic (differing attraction to all genders, not genderblind)
