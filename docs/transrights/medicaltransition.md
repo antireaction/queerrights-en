@@ -5,6 +5,36 @@ nav_order: 4
 parent: Trans Rights!
 ---
 
+ 	*[endosex]: not intersex
+	*[intersex]: has naturally an atypical combination of sex characteristics (chromosomes, hormones, genitalia,...)
+	*[cis]: cisgender/not transgender
+	*[trans]: does not fully and/or at all times identify with their assigned gender and sex (usually but not always corresponding to their natal sex)
+	
+	*[AIAB]: assigned intersex at birth
+	*[AFAB]: assigned female at birth
+	*[AMAB]: assigned male at birth
+	*[FAFAB]: forcibly assigned female at birth
+	*[FAMAB]: forcibly assigned male at birth
+
+	*[pre-OP]: someone who desires surgery but did not yet undergo it
+	*[pre-HRT]: someone who desires but did not yet receive cross-sex hormone replacement therapy
+	*[non-OP]: someone who did not undergo sex reassignment surgery and does not desire it
+	*[non-HRT]: someone who is not on HRT and does not desire HRT
+	*[post-OP]: someone who had some sex-reassignment surgery
+	*[HRT]: (in this context: cross-sex) hormone replacement therapy
+	*[SRS]: sex-reassignment surgery
+	*[bottom surgery]: SRS on the genitals and/or reproductive organs
+	*[top surgery]: SRS on the chest (usually mastectomy or breast augmentation)
+	
+	*[ace]: shorthand for asexual
+	*[aro]: shorthand for aromantic
+	*[gay]: attracted to the same gender, in English it can be used broadly for both lesbians and gay men or more narrowly only for gay men
+	*[lesbian]: in the narrowest sense, both adjective and noun for a woman attracted exclusively to other women; but sometimes also used for non-exclusive attraction to any more female than male-aligned people, including some non-binary people
+	*[bi]: shorthand for bisexual/-romantic (attraction to multiple genders, in the narrowest sense only 2)
+	*[pan]: shorthand for pansexual/-romantic (attraction regardless of perceived sex; genderblind)
+	*[poly]: a) shorthand for polysexual (attraction to multiple genders) or b) polyamorous (description for someone who has a relationship with more than 2 participants)
+	*[omni]: shorthand for omnisexual/-romantic (differing attraction to all genders, not genderblind)
+
 # Myths about transition
 {: .no_toc }
 
