@@ -52,31 +52,13 @@ Anti-trans narratives claim that medical transition does not generally alleviate
 
 None of these claims is supported by any of the currently available data.
 
-#### Studies & meta-analysis' in favour
+##### Studies & meta-analysis' in favour
 The following studies looked at the psychological well-being of medically transitioning/transitioned individuals, their satisfaction and regrets with medical transition, and compared it either with their own past psychological state or control groups of other trans people who have no yet medically transitioned.
 
 **[Cornell University "What We Know" systematic literature review](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/)** ([archive link](https://web.archive.org/web/20210510142046/https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/), snapshot from 15th May 2021) (only studies published in English)
 - **Tested:** Systematic literature review of _all_ peer-reviewed studies published in English between 1991 and 2017 about the effects of transition (in general) on the well-being of trans people
 - [Table with included studies - work in progress]
 - Of 55 studies, 51 showed an improved well-being and 4 showed mixed results or no improvement after transition. None consistently showed worse well-being than before transition, contrary to the idea that transitioning generally misaligns sex characteristics with gender identity and makes a person feel worse.
----
-	- **Sample:** 55 studies, of which __ included recording the effects of medical (and not just social or legal) transition to some degree; the latter had a total of about ___ participants (___ trans women, ___ trans men, ___ non-binary or genderqueer, ___ unclear, __ crossdresser) who have undergone or wish to undergo medical transition to some degree
-	- The following ___ studies show significantly improved psychological well-being for most participants from medical transition:
-		- [Pfäfflin (1993)](https://doi.org/10.1300/J056v05n04_05): **(Long term)** This is a pooling together of (a) studies and reviews about well-being and regrets after HRT and/or SRS ranging from 1961 to 1991 (30 years), from various countries (most from the U.S., followed by European countries) and (b) a clinical sample of people who Friedemann Pfäfflin treated himself (in Germany) since 1978 for variously long periods and with different regularity.
-			- **Sample:** (a) 74 follow-up studies and 9 reviews with approximately 1000 to 1600 trans women and 400 to 550 trans men participating (exact estimates impossible due to sometimes overlapping samples); (b) 196 trans women and 99 trans men
-			- **Results:** 
-				- (a) Across all studies and reviews, 4 trans men and 14 trans women genuinely regretted medical transition (including SRS) [regret rate of <1% for trans men and 1-1,5% for trans women]
-					- Of the 4 regretful trans men, 1 only regretted evading regulations and getting the phalloplasty done outside the gender clinic, which brought complications, but he did not regret the rest of his transition and lived alternating between male and female; 2 were confirmed to have detransitioned socially and 1 case expressed regret about some operation but it's not known whetehr they detransitioned socially.
-					- Additionally, 1 trans woman commited suicide during HRT (before SRS), 1 underwent religious conversion (on HRT but before SRS), 1 considered living as male again (but it is not reported whether they did), 2 occasionally went back to living as male, 1 of whom only did so to not loose claim to inheretance.
-					- Regret was associated with bad surgical outcomes, not undergoing any real life test, and/or no proper differential diagnosis; 
-				- (b) No reported regrets among trans men and 3 reported regrets among trans women [1,53%] 2-6 years after bottom surgery.
-				- The author concludes that overall, trans people who wished to undergo SRS did not regret doing so when they did. 
-			- **Flaws:** Only clinical samples, old data
-			- [table]
-	- The following ___ studies show no improvement or mixed results on psychological functioning from medical transition:
-	- None of the studies show a mostly negative result on psychological functioning from medical transition.
-
----
 
 **[Murad et. al. (2010)](doi.org/10.1111/j.1365-2265.2009.03625.x)** (meta-analysis, all languages)
 - **Tested:** effects of HRT together with some type of SRS
@@ -105,7 +87,7 @@ The following studies looked at the psychological well-being of medically transi
 
 ---
 
-#### Possible counter-studies
+##### Possible counter-studies
 
 Some proponents of anti-trans narratives like to cherrypick these not yet mentioned studies to argue that medical transition does not decrease gender dysphoria nor improve psychological functioning:
 
@@ -186,7 +168,7 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 
 ---
 
-#### Honeymoon theory
+##### Honeymoon theory
 
 Another argument some proponents of anti-trans narratives might make is that there is a honeymoon phase after SRS that many follow-up studies, due to not being long enough, fail to take into consideration. It is also recognized in some literature, such as [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002), where a honeymoon phase of 1 year is mentioned. During it, transitioned people are misrepresentatively happy about the results, but the euphoria eventually dies down a bit and reveals more representative, long-term, stable psychological results.
 
@@ -217,7 +199,7 @@ In contrast to these, I could not find a single study - apart from the really sm
 In addition, the honeymoon theory can be questioned on the ground that after surgery, patients usually have to recover, therefore their well-being could also be expected to be worse the more recent the surgery was performed and become better as their bodies heal and as they are finally past the point of needing regular check-ups. This hypothesis is supported by [Cardoso da Silva et al. (2016)](https://doi.org/10.1016/j.jsxm.2016.03.370) (sample: 47 trans women), which found that trans women who more recently had a revision for their bottom surgery scored worse (but still better than before treatment) on all scales (including psychological well-being) than those whose last revision was further back in time.
 
 ---
-#### How do we avoid regret & detransition?
+##### How do we avoid regret & detransition?
 
 First of all we should differentiate between types of regrets and types of detransition:
 
@@ -262,7 +244,7 @@ But the solution to this is not restricting access to medical transition and inc
 
 ---
 
-#### Conclusions
+##### Conclusions
 
 Overall, current data has 1 main issue, which is possible selection bias, as it mostly uses clinical and not randomized samples. But that's probably because the latter is more difficult to execute since trans people are a hidden population, and those few studies that recruit people from the overall population tend to be larger and still show that medical transition is assciated with improved mental health in trans people.
 
@@ -330,3 +312,32 @@ Related: "I won't call you your name and pronouns because you are biologically [
 ### "Trans people (specifically trans women) have an advantage in sports."
 
 
+ 	*[endosex]: not intersex
+	*[intersex]: has naturally an atypical combination of sex characteristics (chromosomes, hormones, genitalia,...)
+	*[cis]: cisgender/not transgender
+	*[trans]: does not fully and/or at all times identify with their assigned gender and sex (usually but not always corresponding to their natal sex)
+	
+	*[AIAB]: assigned intersex at birth
+	*[AFAB]: assigned female at birth
+	*[AMAB]: assigned male at birth
+	*[FAFAB]: forcibly assigned female at birth
+	*[FAMAB]: forcibly assigned male at birth
+
+	*[pre-OP]: someone who desires surgery but did not yet undergo it
+	*[pre-HRT]: someone who desires but did not yet receive cross-sex hormone replacement therapy
+	*[non-OP]: someone who did not undergo sex reassignment surgery and does not desire it
+	*[non-HRT]: someone who is not on HRT and does not desire HRT
+	*[post-OP]: someone who had some sex-reassignment surgery
+	*[HRT]: (in this context: cross-sex) hormone replacement therapy
+	*[SRS]: sex-reassignment surgery
+	*[bottom surgery]: SRS on the genitals and/or reproductive organs
+	*[top surgery]: SRS on the chest (usually mastectomy or breast augmentation)
+	
+	*[ace]: shorthand for asexual
+	*[aro]: shorthand for aromantic
+	*[gay]: attracted to the same gender, in English it can be used broadly for both lesbians and gay men or more narrowly only for gay men
+	*[lesbian]: in the narrowest sense, both adjective and noun for a woman attracted exclusively to other women; but sometimes also used for non-exclusive attraction to any more female than male-aligned people, including some non-binary people
+	*[bi]: shorthand for bisexual/-romantic (attraction to multiple genders, in the narrowest sense only 2)
+	*[pan]: shorthand for pansexual/-romantic (attraction regardless of perceived sex; genderblind)
+	*[poly]: a) shorthand for polysexual (attraction to multiple genders) or b) polyamorous (description for someone who has a relationship with more than 2 participants)
+	*[omni]: shorthand for omnisexual/-romantic (differing attraction to all genders, not genderblind)
