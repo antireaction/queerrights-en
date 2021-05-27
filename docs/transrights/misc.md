@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Misc
-nav_order: 6
+nav_order: 7
 parent: Trans Rights!
 ---
 
@@ -122,13 +122,6 @@ Here some links to other common myths and talking points spread by TERFs that ha
 - ["Trans people are forcing you to date them"](!!!)
 - ["Sex cannot be significantly changed and is also a reason to not refer to a trans person by their gender identity"](!!!)
 - [Autogynephilia](!!!)
-
----
-## Non-binary identities
-
-### "I don't understand non-binary/genderfluid/xenogender people."
-
-### "They/them is not grammatically correct, I will not call you multiple people."
 
 ---
 ## True misc
