@@ -5,7 +5,7 @@ nav_order: 3
 parent: Trans Rights!
 ---
 <script> jtd.setTheme('green'); </script>
-# Myths about trans people's intentions
+# Myths about trans people's intentions & origins of gender incongruence
 {: .no_toc }
 
 ## Table of contents
@@ -16,18 +16,28 @@ parent: Trans Rights!
 
 ---
 
-## "Trans women are predators trying to get into women's bathrooms."
+## Predatory motivations
 
----
+### "Trans women are predators trying to get into women's bathrooms."
 
 ## "Trans women just want an easier time winning in sports."
 
-(link)
+---
+
+## Autogynephilia (AGP): "It's just a fetish"
 
 ---
 
-## "Trans people are fleeing from something else."
+## Flight
 
 ### "Trans people are fleeing from homosexuality."
 
 ### "Trans people are fleeing from gender roles."
+
+---
+
+## Illness
+
+### "Gender incongruence is caused by autism (and shouldn't be treated with transition)"
+
+### "Gender dysphoria is like body dysmorphia  (and shouldn't be treated with transition)"
