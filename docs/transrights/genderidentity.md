@@ -151,12 +151,3 @@ should be a worsening, because now it is being wrongly _misaligned_ while the ac
 
 ## "Gender identity can be changed." (advocacy for conversion therapy)
 
----
-
-## Myths about the causes of gender incongruence
-
-### "Trans women are actually men with autogynephilia." or "It's a fetish."
-
-### "Gender dysphoria is caused by autism."
-
-### "Gender dysphoria is caused by/is the same as body dimorphism, eating disorders, or self-hate."
