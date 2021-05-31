@@ -149,7 +149,7 @@ Studies which showed improvement: (‣ = click to open)
 
 <details> 
 
-		<summary> ‣ **Studies which showed no improvement or mixed results** 
+		<summary markdown="1"> ‣ **Studies which showed no improvement or mixed results** 
 </summary> 
 
 <section markdown="1">
@@ -157,6 +157,7 @@ Studies which showed improvement: (‣ = click to open)
 [Work in progress]
 
 </section>
+
 </details>
 
 ---
@@ -254,6 +255,7 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 - In other words, those that still had more open wishes regarding their medical transition/were less finished with it (i. e. bottom surgery) were also still more dissatisfied than those who did not have such need/did not have (as much) genital-related gender dysphoria and were closer to considering themselves fully transitioned.
 
 </section>	
+
 </details>
 
 <details>
@@ -285,7 +287,9 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 - Therefore even the most recent patients must have had more than enough time and resources to acquire SRS (including HRT duration and waiting lists) if they strongly desired it to be part of their transition, i. e. were pre-SRS rather than non-SRS.
 - Since they still have not undergone those procedures at the time of data collection, one can reasonably assume that for some of them this was due to no wish for such a procedure in the first place, i. e. that these are non-SRS and not pre-SRS patients. In rare cases it might also be the case that they were not physically healthy enough or that they were gatekept by their psychotherapist (who has to write a recommendation letter for each procedure seperately in Germany). But the latter is unlikely because there is usually little reason to not write recommendation letters for desired transition procedures if the person already received a stable diagnosis, initated HRT, and underwent a real life test (needed for HRT at that time).
 - It might very well be that not all patients in the pre-SRS group of this study were actually non-SRS, but it's reasonable to assume that a not insignificant percentage were.
+
 </section>	
+
 </details>
 
 <details>
@@ -306,6 +310,7 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 	1. It has a _very_ small sample size.
 	2. It's a _very_ old study, surgical techniques as well as social acceptance have improved a lot since then.
 	3. Several drop-outs, who at such a small sample size are all the more significant: 1 person moved abroad and another commited suicide after bottom surgery. Furthermore, 3 patients were automatically considered failures because they weren't offered full bottom surgery including vaginoplasty in the first place.
+
 </section> 
 
 </details>
@@ -380,7 +385,7 @@ So how do we instead help avoid cis medical detransitioners/people being mistake
 
 <details>
 
-	<summary markdown="1"> **1. More openness discussing medical transition and trans identities.** 
+	<summary markdown="1"> ‣ **1. More openness discussing medical transition and trans identities.** 
 </summary>
 Some medical detrans cis people say that they were not told that medical transition is in large parts irreversible. If society is more open about discussing the procedures of medical transition, the information about it - including how far it is reversible or irreversible - becomes widely available and common knowledge. And when it becomes common knowledge, mistakes due to mere ignorance will happen much less.
 
@@ -388,7 +393,7 @@ Some medical detrans cis people say that they were not told that medical transit
 
 <details>
 
-<summary markdown="1"> **2. Less pressure on trans and questioning people and the end of transmedicalism.** 
+<summary markdown="1"> ‣ **2. Less pressure on trans and questioning people and the end of transmedicalism.** 
 </summary> 
 
 <section markdown="1">
@@ -402,7 +407,7 @@ More openness for experimentation, vagueness, and questioning will give people t
 
 <details> 
 
-	<summary markdown="1"> **3. Fight against sexism and homophobia instead of increasing transphobia.** 
+	<summary markdown="1"> ‣ **3. Fight against sexism and homophobia instead of increasing transphobia.** 
 </summary> 
 
 <section markdown="1">
