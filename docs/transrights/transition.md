@@ -61,7 +61,7 @@ Studies which showed improvement: (‣ = click to open)
 
 <details>
 
-	<summary markdown="1"> ‣ Pfäfflin (1993) seperate because it's so much </summary> <p markdown="1">
+	<summary markdown="1"> ‣ Pfäfflin (1993) seperate because it's so much </summary> <section markdown="1">
 
 [Pfäfflin (1993)](https://doi.org/10.1300/J056v05n04_05): **(Long term)** This is a pooling together of (a) studies and reviews about well-being and regrets after HRT and/or SRS ranging from 1961 to 1991 (30 years), from various countries (most from the U.S., followed by European countries) and (b) a clinical sample of people who Friedemann Pfäfflin treated himself (in Germany) since 1978 for variously long periods and with different regularity.
 - **Sample:** (a) 74 follow-up studies and 9 reviews with approximately 1000 to 1600 trans women and 400 to 550 trans men participating (exact estimates impossible due to sometimes overlapping samples); (b) 196 trans women and 99 trans men
@@ -75,11 +75,11 @@ Studies which showed improvement: (‣ = click to open)
 	- The author concludes that overall, trans people who wished to undergo SRS did not regret doing so when they did. 
 - **Flaws:** Only clinical samples, old data
 
-		</p></details> 
+		</section></details> 
 
 <details>
 
-	<summary markdown="1"> ‣ All the others (gigantic table warning) </summary> <p markdown="1">
+	<summary markdown="1"> ‣ All the others (gigantic table warning) </summary> <section markdown="1">
 
 | study                                                                            | sample(s)                                                                                                                                                                                                                                                                                                                                               | tested                                                                                                                                                                                                                                          | follow-up time or time since last treatment                                                                                                                                                                                                                                                                                    | results                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -131,7 +131,7 @@ Studies which showed improvement: (‣ = click to open)
 | [Padula et al. (2015)](https://doi.org/10.1007/s11606-015-3529-6)              | extracted model parameters from [National Transgender Discrimination Survey (NTDS) (2011)](https://www.thetaskforce.org/wp-content/uploads/2019/07/ntds\_full.pdf) ([archive](https://web.archive.org/web/20210429072230/https://www.thetaskforce.org/wp-content/uploads/2019/07/ntds\_full.pdf)) of adults, which had 6436 US-American respondents | cost-effectiveness of insurance coverage for medically-necessary trans-related services (e.g. medical transition); used Markov model                                                                                                            | 5-10 year time horizons from US societal perspective                                                                                                                                                                                                                                                                           | provider coverage of trans-related care was cost-effective (i. e. reduced more costs on treating HIV, depression, drug abuse, etc. that would come from being denied coverage than it costs to cover expenses) in 85% of simulations; budget impact for individual members is 0,016$ per month (I'm using the comma the way US-Americans use the dot because I'm European)                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | [van de Grift et al. (2017a)](doi.org/10.1097/PSY.0000000000000465)            | European (Dutch, German, Belgian, Norwegian) clinical sample of 135 transfeminine and 66 transmasculine people                                                                                                                                                                                                                                          | effects of medical transition on gender dysphoria and body image, used questionnaires                                                                                                                                                           | tested at admission and 4-6 years after first visit in the gender clinic; participants were at various stages at follow-up (no treatment, HRT only, or HRT and SRS)                                                                                                                                                            | gender dysphoria decreased in all participants at follow-up, but much more so in those participants who had received both HRT and SRS, whose gender dysphoria levels were now comparable to cis people; body image improved both regarding transition-responsive areas (i. e. body parts/traits that can be changed) and those that are not responsive;                                                                                                                                                                                                                                                                                                                                                                                                                                                               | due to an error only the gender dysphoria of those who had socially transitioned (9 people) was assessed in this group, and they generally showed lower scores of gender dysphoria than those who did eventually get medical treatment; only 7 of the 29 were confirmed to fulfill the diagnostic criteria; of those who socially transitioned, 2 detransitioned; 9 said they do not plan to re-apply for medical treatment in the future, 8 were unsure, 6 were going to; |
 | [van de Grift et al. (2017b)](https://doi.org/10.1080/0092623X.2017.1326190)   | same sample as above but only the 136 people who received both HRT and SRS (81 trans women, 51 trans men, 4 missing data)                                                                                                                                                                                                                               | satisfaction and quality of life after SRS, used questionnaires                                                                                                                                                                                 | tested at admission and 4-6 years after first visit in the gender clinic;                                                                                                                                                                                                                                                      | satisfaction with SRS was 94% to 100% (depending on procedure), quality of life increased after SRS; nobody reported major regret; 6% (9 people) reported dissatisfaction or minor regret about a SRS they underwent, for 8 of whom it is tied to complications rather than realizing they're not trans and 1 trans woman did not specify her reason for dissatisfaction; no significant differences of gender dysphoria levels in trans people after HRT and SRS compared to cis controls                                                                                                                                                                                                                                                                                                                            | missing data for 2,9% of participants who had HRT and SRS                                                                                                                                                                                                                                                                                                                                                                                                                  |
-		</p>
+		</section>
 </details>
 
 > Notes about the table: 
@@ -144,7 +144,7 @@ Studies which showed improvement: (‣ = click to open)
 
 [Work in progress]
 
-		</p> 
+		</section>
 </details>
 
 ---
@@ -185,7 +185,7 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 
 <details>
 
-<summary> ‣ **[Dhejne et al. (2011)](doi.org/10.1371/journal.pone.0016885)** ("The Sweden study") </summary> <p>
+<summary markdown="1"> ‣ **[Dhejne et al. (2011)](doi.org/10.1371/journal.pone.0016885)** ("The Sweden study") </summary> <section markdown="1">
 
 - **Tested:** mortality and psychiatric morbidity after medical transition **compared to the general population**
 - **Sample:** 191 trans women and 133 trans men who medically transitioned (with SRS)
@@ -193,12 +193,12 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
  > "[Trans people after medical transition] have considerably higher risks for mortality, suicidal behaviour, and psychiatric morbidity **_than the general population_**. Our findings suggest that sex reassignment, although **_alleviating gender dysphoria_**, may not suffice as treatment for transsexualism, and should inspire improved psychiatric and somatic care after sex reassignment for this patient group."
 - In other words, _the study does not conclude that SRS makes gender dysphoria worse_, but that it is usually not _enough_ treatment for all the suffering (discrimination, being disowned, undergoing alienating puberty, possible lasting trauma from all of these things) trans people might go through. Proponents of anti-trans narratives citing this study are advised to visit an English reading comprehension course or to make an appointment at the oculist.
 		
-</p>
+</section>
 		</details>
 
 <details>
 
-<summary markdown="1"> ‣ **[Rauchfleisch et al. (1998)](doi.org/10.1007/s001150050345)** (full text only available in German) </summary> <p markdown="1">
+<summary markdown="1"> ‣ **[Rauchfleisch et al. (1998)](doi.org/10.1007/s001150050345)** (full text only available in German) </summary> <section markdown="1">
 - **Tested:** Subjective well-being and regrets of the subjects but also objective measures such as employment, social life, marriage, stable relationships & sex life, libido, complications, further surgeries, etc.
 - **Sample:** 13 trans women (orchiectomy and vaginoplasty) and 4 trans men (mastectomy, hysterectomy, oophorectomy) who had visited a clinic 5 to 20 years ago
 - **Results:** 
@@ -213,11 +213,11 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 			- physical inability to work due to bad surgical outcomes, but those improve over time and don't actually say anything about whether gender dysphoria was alleviated (see point 3).
 			- psychological inability to work due to discrimination.
 	3. All except 2 trans people still stated to be happy with having done the surgery [11,8% regret rate], 1 trans man even wished to continue medical transition with phalloplasty. It probably alleviated their gender dysphoria overall, but the discrimination and possible surgical complications that followed overrode the psychological benefits of having no more gender dysphoria in this sample. Even for those who did regret it, we do not know whether they would have not detransitioned if the surgeries were more succesful; maybe they only detransitioned due to not passing or facing harassment.
-																																					</p>				</details>
+																																					</section></details>
 
 <details>
 
-	<summary markdown="1"> ‣ **[Jellestad et al. (2018)](https://doi.org/10.1155/2018/8684625)** </summary> <p markdown="1">
+	<summary markdown="1"> ‣ **[Jellestad et al. (2018)](https://doi.org/10.1155/2018/8684625)** </summary> <section markdown="1">
 - **Tested:** associations between medical transition and quality of life
 - **Sample:** clinical sample of 77 trans women, 41 trans men, and 25 non-binary people (1 of which was assigned intersex at birth) in Switzerland
 - **Results:** Anti-trans advocates usually only focus on the following sentence from the study, despite the authors contradicting it numerous times at other points:
@@ -229,11 +229,11 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 > "Within  the  “hormones  only”  group  different  scores were observed between the people who planned (n = 14) and did not plan (n = 21) to undergo genital surgery in the future with regard to overall body satisfaction (M[planned] = 3.29 (SD: .61), M[not planned] = 2.35 (SD: .54); t(33) = 4.75, p < .001) as well as for genital body satisfaction (M[planned] = 4.76 (SD: .40), M[not planned] = 2.42 (SD: 1.03); t(33) = 8.07, p < .001). (Note: higher scores mean higher dissatisfaction on these scales.)"
 - In other words, those that still had more open wishes regarding their medical transition/were less finished with it (i. e. bottom surgery) were also still more dissatisfied than those who did not have such need/did not have (as much) genital-related gender dysphoria and were closer to considering themselves fully transitioned.
 
-</p>	</details>
+</section>	</details>
 
 <details>
 
-	<summary markdown="1"> ‣ **[Auer et al. (2013)]( https://doi.org/10.1371/journal.pone.0078469)** </summary> <p markdown="1">
+	<summary markdown="1"> ‣ **[Auer et al. (2013)]( https://doi.org/10.1371/journal.pone.0078469)** </summary> <section markdown="1">
 - **Tested:** whether the psychopathology of trans people is more similar to that of their genotypical (assigned) or phenotypical (lived, desired) sex, employed a questionnaire
 - **Sample:** clinical sample of 52 trans women and 32 trans men who all had a diagnosis of "transsexualism" (according to ICD-10) and have already received HRT between 1996 and 2007 (data collection conducted in 2009) at that clinic; compared to age-matched healthy cis people but who at some point in their lives had certain mental disorders
 - **Result:** Trans people are on average more like their phenotypical sex than their genotypical sex in terms of psychopathology.
@@ -257,11 +257,11 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 - Therefore even the most recent patients must have had more than enough time and resources to acquire SRS (including HRT duration and waiting lists) if they strongly desired it to be part of their transition, i. e. were pre-SRS rather than non-SRS.
 - Since they still have not undergone those procedures at the time of data collection, one can reasonably assume that for some of them this was due to no wish for such a procedure in the first place, i. e. that these are non-SRS and not pre-SRS patients. In rare cases it might also be the case that they were not physically healthy enough or that they were gatekept by their psychotherapist (who has to write a recommendation letter for each procedure seperately in Germany). But the latter is unlikely because there is usually little reason to not write recommendation letters for desired transition procedures if the person already received a stable diagnosis, initated HRT, and underwent a real life test (needed for HRT at that time).
 - It might very well be that not all patients in the pre-SRS group of this study were actually non-SRS, but it's reasonable to assume that a not insignificant percentage were.
-</p>	</details>
+</section>	</details>
 
 <details>
 
-	<summary markdown="1"> ‣ **[Lindemalm (1986)](https://doi.org/10.1007/BF01542412)** </summary> <p markdown="1">
+	<summary markdown="1"> ‣ **[Lindemalm (1986)](https://doi.org/10.1007/BF01542412)** </summary> <section markdown="1">
 - **Tested:** long-term well-being of trans women after bottom surgery; follow-up period between 6 ad 25 years, 12 yearson average; used semi-structured interviews
 - **Sample:** clinical sample of 13 trans women
 - **Result:** The abstract of the paper may give a rather negative impression:
@@ -274,7 +274,7 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 	1. It has a _very_ small sample size.
 	2. It's a _very_ old study, surgical techniques as well as social acceptance have improved a lot since then.
 	3. Several drop-outs, who at such a small sample size are all the more significant: 1 person moved abroad and another commited suicide after bottom surgery. Furthermore, 3 patients were automatically considered failures because they weren't offered full bottom surgery including vaginoplasty in the first place.
-	</p> </details>
+	</section> </details>
 
 
 ---
@@ -346,21 +346,21 @@ So how do we instead help avoid cis medical detransitioners/people being mistake
 
 	<summary markdown="1"> **1. More openness discussing medical transition and trans identities.** </summary>
 Some medical detrans cis people say that they were not told that medical transition is in large parts irreversible. If society is more open about discussing the procedures of medical transition, the information about it - including how far it is reversible or irreversible - becomes widely available and common knowledge. And when it becomes common knowledge, mistakes due to mere ignorance will happen much less.
-</p>	</details>
+</section>	</details>
 
 <details>
 
-<summary markdown="1"> **2. Less pressure on trans and questioning people and the end of transmedicalism.** </summary> <p markdown="1">
+<summary markdown="1"> **2. Less pressure on trans and questioning people and the end of transmedicalism.** </summary> <section markdown="1">
 There is a certain pressure on those who think they are trans to transition as fast as they can, or they are declared not "real trans people". This is done by some trans people as well as many cis people, who will refuse to help a person try out pronouns, names or titles, unless they first prove that they are truly trans. Transmedicalism defines trans identity by the strong desire for medical transition, and hence proving one is truly trans is only done by trying to medically transition as fast as possible, creating a cycle: If you want to experiment and see if you're truly trans and whether you would benefit from medical transition, prove to us first that you are truly trans by being absolutely sure about medical transition.
 
 Another issue is how people are expected to decide once and for all whether they are trans, on one hand leading to non-out questioning people to be hesitant about coming out (since they might feel like they have to be 100% sure and cannot take it back anymore) and on the other questioning out people being afraid to pause, slow down or stop medical or social transition to think, in fear of ridicule or people taking away the option to resume transition if they want to again if they ever dared to admit doubts about their identity.
 
 More openness for experimentation, vagueness, and questioning will give people the room they need to breathe, think, try and re-try, etc.
-</p>	</details>
+</section></details>
 
 <details> 
 
-	<summary markdown="1"> **3. Fight against sexism and homophobia instead of increasing transphobia.** </summary> <p markdown="1">
+	<summary markdown="1"> **3. Fight against sexism and homophobia instead of increasing transphobia.** </summary> <section markdown="1">
 A common narrative surrounding detransition is that people first decide to transition to escape sexism or homophobia, e.g. the woman who was tired of her body being sexualized or the lost lesbian sister or the effamite boy who thought it'd be easier to wear skirts if he had breasts while doing so. 
 
 These narratives also commonly spread harmful lies such as that it is supposedly easy to access medical transition - but for the vast majority of people in the world, including Europe, this isn't so. A minority of countries provide informed consent options, most others either have no options for medical transition or have very strict gatekeeping, to the point that some people turn to illegal measures such as DIY HRT (buying HRT illegally/semi-legally, often from overseas, and administering it themselves). And even in those that do provide informed consent options, especially teens are unlikely to have enough money for it, which are - according to anti-trans narratives - the most vulnerable to the "transgender trend" and rushing into medical transition. Another myth these narratives spread is that there is supposedly _generally_ more sexism and/or homophobia than transphobia, which is demonstrably not the case (see economic statistics, suicide statistics, murder & harassment rates, surveys on opinions, etc. - trans people score much worse than both cis heterosexual women and cis non-heterosexual people of either binary gender).
@@ -368,7 +368,7 @@ These narratives also commonly spread harmful lies such as that it is supposedly
 However, I do think there could be a kernel of truth in the assertion that some _individual_ people experience more sexism and/or homophobia than transphobia or are under the impression pre-transition that there is less sexism and/or homophobia than transphobia. I don't know of any representative statistics about how many genuine detransitioners initially thought they are/wanted to be/identified as trans for which reasons, but anecdotal reports on the internet do show that it is not a unique/one-time case/experience for people to initially identify as trans due to (internalized or not) sexism or homophobia. 
 
 But the solution to this is not restricting access to medical transition and increasing transphobia, but fighting against sexism and homophobia - something which I rarely see anti-trans reactionaries do. Almost as if they never truly cared for the lives of detransitioners or the cause of avoiding mistakes like these, and instead merely want to exploit their stories to further their anti-trans agenda. Detransitioners deserve much better help and attention than that.
-	</p>
+	</section>
 	</details>
 
 ---
