@@ -61,7 +61,7 @@ Studies which showed improvement: (‣ = click to open)
 
 <details>
 
-	<summary> ‣ Pfäfflin (1993) seperate because it's so much </summary> <p>
+	<summary markdown="1"> ‣ Pfäfflin (1993) seperate because it's so much </summary> <p markdown="1">
 
 [Pfäfflin (1993)](https://doi.org/10.1300/J056v05n04_05): **(Long term)** This is a pooling together of (a) studies and reviews about well-being and regrets after HRT and/or SRS ranging from 1961 to 1991 (30 years), from various countries (most from the U.S., followed by European countries) and (b) a clinical sample of people who Friedemann Pfäfflin treated himself (in Germany) since 1978 for variously long periods and with different regularity.
 - **Sample:** (a) 74 follow-up studies and 9 reviews with approximately 1000 to 1600 trans women and 400 to 550 trans men participating (exact estimates impossible due to sometimes overlapping samples); (b) 196 trans women and 99 trans men
@@ -79,7 +79,7 @@ Studies which showed improvement: (‣ = click to open)
 
 <details>
 
-	<summary> ‣ All the others (gigantic table warning) </summary> <p>
+	<summary markdown="1"> ‣ All the others (gigantic table warning) </summary> <p markdown="1">
 
 | study                                                                            | sample(s)                                                                                                                                                                                                                                                                                                                                               | tested                                                                                                                                                                                                                                          | follow-up time or time since last treatment                                                                                                                                                                                                                                                                                    | results                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -198,7 +198,7 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 
 <details>
 
-<summary> ‣ **[Rauchfleisch et al. (1998)](doi.org/10.1007/s001150050345)** (full text only available in German) </summary> <p>
+<summary markdown="1"> ‣ **[Rauchfleisch et al. (1998)](doi.org/10.1007/s001150050345)** (full text only available in German) </summary> <p markdown="1">
 - **Tested:** Subjective well-being and regrets of the subjects but also objective measures such as employment, social life, marriage, stable relationships & sex life, libido, complications, further surgeries, etc.
 - **Sample:** 13 trans women (orchiectomy and vaginoplasty) and 4 trans men (mastectomy, hysterectomy, oophorectomy) who had visited a clinic 5 to 20 years ago
 - **Results:** 
@@ -217,7 +217,7 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 
 <details>
 
-	<summary> ‣ **[Jellestad et al. (2018)](https://doi.org/10.1155/2018/8684625)** </summary> <p>
+	<summary markdown="1"> ‣ **[Jellestad et al. (2018)](https://doi.org/10.1155/2018/8684625)** </summary> <p markdown="1">
 - **Tested:** associations between medical transition and quality of life
 - **Sample:** clinical sample of 77 trans women, 41 trans men, and 25 non-binary people (1 of which was assigned intersex at birth) in Switzerland
 - **Results:** Anti-trans advocates usually only focus on the following sentence from the study, despite the authors contradicting it numerous times at other points:
@@ -233,7 +233,7 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 
 <details>
 
-	<summary> ‣ **[Auer et al. (2013)]( https://doi.org/10.1371/journal.pone.0078469)** </summary> <p>
+	<summary markdown="1"> ‣ **[Auer et al. (2013)]( https://doi.org/10.1371/journal.pone.0078469)** </summary> <p markdown="1">
 - **Tested:** whether the psychopathology of trans people is more similar to that of their genotypical (assigned) or phenotypical (lived, desired) sex, employed a questionnaire
 - **Sample:** clinical sample of 52 trans women and 32 trans men who all had a diagnosis of "transsexualism" (according to ICD-10) and have already received HRT between 1996 and 2007 (data collection conducted in 2009) at that clinic; compared to age-matched healthy cis people but who at some point in their lives had certain mental disorders
 - **Result:** Trans people are on average more like their phenotypical sex than their genotypical sex in terms of psychopathology.
@@ -261,7 +261,7 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 
 <details>
 
-	<summary> ‣ **[Lindemalm (1986)](https://doi.org/10.1007/BF01542412)** </summary> <p>
+	<summary markdown="1"> ‣ **[Lindemalm (1986)](https://doi.org/10.1007/BF01542412)** </summary> <p markdown="1">
 - **Tested:** long-term well-being of trans women after bottom surgery; follow-up period between 6 ad 25 years, 12 yearson average; used semi-structured interviews
 - **Sample:** clinical sample of 13 trans women
 - **Result:** The abstract of the paper may give a rather negative impression:
@@ -343,21 +343,24 @@ The detransitioners who are paid most attention to are who I'll refer to as cis 
 So how do we instead help avoid cis medical detransitioners/people being mistaken about benefitting from medical transition and undergoing irreversible procedures before realizing their mistake, resulting in a comparatively tragic outcome? It seems that the right approach is the percise opposite of what many anti-trans reactionaries advocate for:
 
 <details>
-	<summary> **1. More openness discussing medical transition and trans identities.** </summary>
+
+	<summary markdown="1"> **1. More openness discussing medical transition and trans identities.** </summary>
 Some medical detrans cis people say that they were not told that medical transition is in large parts irreversible. If society is more open about discussing the procedures of medical transition, the information about it - including how far it is reversible or irreversible - becomes widely available and common knowledge. And when it becomes common knowledge, mistakes due to mere ignorance will happen much less.
-	</details>
+</p>	</details>
 
 <details>
-<summary> **2. Less pressure on trans and questioning people and the end of transmedicalism.** </summary>
+
+<summary markdown="1"> **2. Less pressure on trans and questioning people and the end of transmedicalism.** </summary> <p markdown="1">
 There is a certain pressure on those who think they are trans to transition as fast as they can, or they are declared not "real trans people". This is done by some trans people as well as many cis people, who will refuse to help a person try out pronouns, names or titles, unless they first prove that they are truly trans. Transmedicalism defines trans identity by the strong desire for medical transition, and hence proving one is truly trans is only done by trying to medically transition as fast as possible, creating a cycle: If you want to experiment and see if you're truly trans and whether you would benefit from medical transition, prove to us first that you are truly trans by being absolutely sure about medical transition.
 
 Another issue is how people are expected to decide once and for all whether they are trans, on one hand leading to non-out questioning people to be hesitant about coming out (since they might feel like they have to be 100% sure and cannot take it back anymore) and on the other questioning out people being afraid to pause, slow down or stop medical or social transition to think, in fear of ridicule or people taking away the option to resume transition if they want to again if they ever dared to admit doubts about their identity.
 
 More openness for experimentation, vagueness, and questioning will give people the room they need to breathe, think, try and re-try, etc.
-	</details>
+</p>	</details>
 
 <details> 
-	<summary> **3. Fight against sexism and homophobia instead of increasing transphobia.** </summary>
+
+	<summary markdown="1"> **3. Fight against sexism and homophobia instead of increasing transphobia.** </summary> <p markdown="1">
 A common narrative surrounding detransition is that people first decide to transition to escape sexism or homophobia, e.g. the woman who was tired of her body being sexualized or the lost lesbian sister or the effamite boy who thought it'd be easier to wear skirts if he had breasts while doing so. 
 
 These narratives also commonly spread harmful lies such as that it is supposedly easy to access medical transition - but for the vast majority of people in the world, including Europe, this isn't so. A minority of countries provide informed consent options, most others either have no options for medical transition or have very strict gatekeeping, to the point that some people turn to illegal measures such as DIY HRT (buying HRT illegally/semi-legally, often from overseas, and administering it themselves). And even in those that do provide informed consent options, especially teens are unlikely to have enough money for it, which are - according to anti-trans narratives - the most vulnerable to the "transgender trend" and rushing into medical transition. Another myth these narratives spread is that there is supposedly _generally_ more sexism and/or homophobia than transphobia, which is demonstrably not the case (see economic statistics, suicide statistics, murder & harassment rates, surveys on opinions, etc. - trans people score much worse than both cis heterosexual women and cis non-heterosexual people of either binary gender).
@@ -365,6 +368,7 @@ These narratives also commonly spread harmful lies such as that it is supposedly
 However, I do think there could be a kernel of truth in the assertion that some _individual_ people experience more sexism and/or homophobia than transphobia or are under the impression pre-transition that there is less sexism and/or homophobia than transphobia. I don't know of any representative statistics about how many genuine detransitioners initially thought they are/wanted to be/identified as trans for which reasons, but anecdotal reports on the internet do show that it is not a unique/one-time case/experience for people to initially identify as trans due to (internalized or not) sexism or homophobia. 
 
 But the solution to this is not restricting access to medical transition and increasing transphobia, but fighting against sexism and homophobia - something which I rarely see anti-trans reactionaries do. Almost as if they never truly cared for the lives of detransitioners or the cause of avoiding mistakes like these, and instead merely want to exploit their stories to further their anti-trans agenda. Detransitioners deserve much better help and attention than that.
+	</p>
 	</details>
 
 ---
