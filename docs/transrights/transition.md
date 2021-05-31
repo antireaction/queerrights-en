@@ -140,7 +140,7 @@ Studies which showed improvement: (‣ = click to open)
 
 <details> 
 
-		<summary> ‣ Studies which showed no improvement or mixed results </summary> <p>
+		<summary> ‣ Studies which showed no improvement or mixed results </summary> <section markdown="1">
 
 [Work in progress]
 
