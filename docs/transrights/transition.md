@@ -3,6 +3,7 @@ layout: default
 title: Myths about transition and biology
 nav_order: 4
 parent: Trans Rights!
+
 ---
 <script> jtd.setTheme('green'); </script>
 # Myths about transition
@@ -61,7 +62,7 @@ Studies which showed improvement: (‣ = click to open)
 
 <details>
 
-		<summary markdown="1"> ‣ **Pfäfflin (1993)** seperate because it's so much 
+	<summary markdown="1"> ‣ **Pfäfflin (1993)** seperate because it's so much 
 	</summary> 
 
 	<section markdown="1">
@@ -78,13 +79,13 @@ Studies which showed improvement: (‣ = click to open)
 		- The author concludes that overall, trans people who wished to undergo SRS did not regret doing so when they did. 
 	- **Flaws:** Only clinical samples, old data
 
-</section>
+	</section>
 
 </details> 
 
 <details>
 
-		<summary markdown="1"> ‣ **All the others** (gigantic table warning) 
+	<summary markdown="1"> ‣ **All the others** (gigantic table warning) 
 	</summary> 
 
 	<section markdown="1">
@@ -141,7 +142,7 @@ Studies which showed improvement: (‣ = click to open)
 	| [van de Grift et al. (2017a)](doi.org/10.1097/PSY.0000000000000465) | European (Dutch, German, Belgian, Norwegian) clinical sample of 135 transfeminine and 66 transmasculine people | effects of medical transition on gender dysphoria and body image, used questionnaires | tested at admission and 4-6 years after first visit in the gender clinic; participants were at various stages at follow-up (no treatment, HRT only, or HRT and SRS) | gender dysphoria decreased in all participants at follow-up, but much more so in those participants who had received both HRT and SRS, whose gender dysphoria levels were now comparable to cis people; body image improved both regarding transition-responsive areas (i. e. body parts/traits that can be changed) and those that are not responsive;  | due to an error only the gender dysphoria of those who had socially transitioned (9 people) was assessed in this group, and they generally showed lower scores of gender dysphoria than those who did eventually get medical treatment; only 7 of the 29 were confirmed to fulfill the diagnostic criteria; of those who socially transitioned, 2 detransitioned; 9 said they do not plan to re-apply for medical treatment in the future, 8 were unsure, 6 were going to; |
 	| [van de Grift et al. (2017b)](https://doi.org/10.1080/0092623X.2017.1326190) | same sample as above but only the 136 people who received both HRT and SRS (81 trans women, 51 trans men, 4 missing data) | satisfaction and quality of life after SRS, used questionnaires | tested at admission and 4-6 years after first visit in the gender clinic;  | satisfaction with SRS was 94% to 100% (depending on procedure), quality of life increased after SRS; nobody reported major regret; 6% (9 people) reported dissatisfaction or minor regret about a SRS they underwent, for 8 of whom it is tied to complications rather than realizing they're not trans and 1 trans woman did not specify her reason for dissatisfaction; no significant differences of gender dysphoria levels in trans people after HRT and SRS compared to cis controls | missing data for 2,9% of participants who had HRT and SRS |
 
-</section>
+	</section>
 
 </details>
 
@@ -151,7 +152,7 @@ Studies which showed improvement: (‣ = click to open)
 
 <details> 
 
-			<summary markdown="1"> ‣ **Studies which showed no improvement or mixed results** 
+	<summary markdown="1"> ‣ **Studies which showed no improvement or mixed results** 
 	</summary> 
 
 	<section markdown="1">
@@ -160,7 +161,7 @@ Studies which showed improvement: (‣ = click to open)
 
 	</section>
 
-	</details>
+</details>
 
 ---
 
@@ -213,14 +214,14 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 
 	</section>
 
-	</details>
+</details>
 
 <details>
 
 	<summary markdown="1"> ‣ **[Rauchfleisch et al. (1998)](doi.org/10.1007/s001150050345)** (full text only available in German) 
 	</summary>
 
-	<section markdown="1">
+<section markdown="1">
 
 - **Tested:** Subjective well-being and regrets of the subjects but also objective measures such as employment, social life, marriage, stable relationships & sex life, libido, complications, further surgeries, etc.
 - **Sample:** 13 trans women (orchiectomy and vaginoplasty) and 4 trans men (mastectomy, hysterectomy, oophorectomy) who had visited a clinic 5 to 20 years ago
@@ -243,7 +244,7 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 
 <details>
 
-		<summary markdown="1"> ‣ **[Jellestad et al. (2018)](https://doi.org/10.1155/2018/8684625)** 
+	<summary markdown="1"> ‣ **[Jellestad et al. (2018)](https://doi.org/10.1155/2018/8684625)** 
 	</summary> 
 
 	<section markdown="1">
@@ -260,11 +261,11 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 
 	</section>	
 
-	</details>
+</details>
 
 <details>
 
-		<summary markdown="1"> ‣ **[Auer et al. (2013)]( https://doi.org/10.1371/journal.pone.0078469)** 
+	<summary markdown="1"> ‣ **[Auer et al. (2013)]( https://doi.org/10.1371/journal.pone.0078469)** 
 	</summary> 
 
 	<section markdown="1">
@@ -294,14 +295,14 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 
 	</section>	
 
-	</details>
+</details>
 
 <details>
 
-		<summary markdown="1"> ‣ **[Lindemalm (1986)](https://doi.org/10.1007/BF01542412)** 
+	<summary markdown="1"> ‣ **[Lindemalm (1986)](https://doi.org/10.1007/BF01542412)** 
 	</summary> 
 
-	<section markdown="1">
+<section markdown="1">
 	- **Tested:** long-term well-being of trans women after bottom surgery; follow-up period between 6 ad 25 years, 12 yearson average; used semi-structured interviews
 	- **Sample:** clinical sample of 13 trans women
 	- **Result:** The abstract of the paper may give a rather negative impression:
@@ -317,7 +318,7 @@ Some proponents of anti-trans narratives like to cherrypick these not yet mentio
 
 	</section> 
 
-	</details>
+</details>
 
 
 ---
@@ -389,7 +390,7 @@ So how do we instead help avoid cis medical detransitioners/people being mistake
 
 <details>
 
-		<summary markdown="1"> ‣ **1. More openness discussing medical transition and trans identities.** 
+	<summary markdown="1"> ‣ **1. More openness discussing medical transition and trans identities.** 
 	</summary>
 	Some medical detrans cis people say that they were not told that medical transition is in large parts irreversible. If society is more open about discussing the procedures of medical transition, the information about it - including how far it is reversible or irreversible - becomes widely available and common knowledge. And when it becomes common knowledge, mistakes due to mere ignorance will happen much less.
 
@@ -398,7 +399,7 @@ So how do we instead help avoid cis medical detransitioners/people being mistake
 <details>
 
 	<summary markdown="1"> ‣ **2. Less pressure on trans and questioning people and the end of transmedicalism.** 
-	</summary> 
+</summary> 
 
 	<section markdown="1">
 	There is a certain pressure on those who think they are trans to transition as fast as they can, or they are declared not "real trans people". This is done by some trans people as well as many cis people, who will refuse to help a person try out pronouns, names or titles, unless they first prove that they are truly trans. Transmedicalism defines trans identity by the strong desire for medical transition, and hence proving one is truly trans is only done by trying to medically transition as fast as possible, creating a cycle: If you want to experiment and see if you're truly trans and whether you would benefit from medical transition, prove to us first that you are truly trans by being absolutely sure about medical transition.
@@ -407,12 +408,12 @@ So how do we instead help avoid cis medical detransitioners/people being mistake
 
 	More openness for experimentation, vagueness, and questioning will give people the room they need to breathe, think, try and re-try, etc.
 	</section>
-	</details>
+</details>
 
 <details> 
 
-		<summary markdown="1"> ‣ **3. Fight against sexism and homophobia instead of increasing transphobia.** 
-	</summary> 
+	<summary markdown="1"> ‣ **3. Fight against sexism and homophobia instead of increasing transphobia.** 
+</summary> 
 
 	<section markdown="1">
 	A common narrative surrounding detransition is that people first decide to transition to escape sexism or homophobia, e.g. the woman who was tired of her body being sexualized or the lost lesbian sister or the effamite boy who thought it'd be easier to wear skirts if he had breasts while doing so. 
@@ -424,7 +425,7 @@ So how do we instead help avoid cis medical detransitioners/people being mistake
 	But the solution to this is not restricting access to medical transition and increasing transphobia, but fighting against sexism and homophobia - something which I rarely see anti-trans reactionaries do. Almost as if they never truly cared for the lives of detransitioners or the cause of avoiding mistakes like these, and instead merely want to exploit their stories to further their anti-trans agenda. Detransitioners deserve much better help and attention than that.
 	</section>
 
-	</details>
+</details>
 
 ---
 
@@ -460,11 +461,11 @@ But _consensual_ modifications - ranging from tattoos to heart surgeries - are c
 
 In sum we find the following defining differences:
 
-	| Body modification | Body mutilaton | 
-	| :------------: | :----------:
-	| always with informed consent, voluntary | no informed consent, involuntary| 
-	| usually uses sterilized tools and anesthesia as needed | possibly does not use sterilized tools or anesthesia even when there is a need for it | 
-	| done for positive reasons such as self-expression; results are shown off | often a form of punishment or a last resort when one is unable to deal with psychological pain |
+| Body modification | Body mutilaton | 
+| :------------: | :----------:
+| always with informed consent, voluntary | no informed consent, involuntary| 
+| usually uses sterilized tools and anesthesia as needed | possibly does not use sterilized tools or anesthesia even when there is a need for it | 
+| done for positive reasons such as self-expression; results are shown off | often a form of punishment or a last resort when one is unable to deal with psychological pain |
 
 Medical transition (=/= any sex reassignment) clearly falls under the term of body modification, rather than mutilation:
 	1. It is only performed with informed consent. (probably the strongest and most important point to be made here)
