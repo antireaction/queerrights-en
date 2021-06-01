@@ -79,14 +79,15 @@ Studies which showed improvement: (‣ = click to open)
 		- The author concludes that overall, trans people who wished to undergo SRS did not regret doing so when they did. 
 - **Flaws:** Only clinical samples, old data
 			
-			</section>
+</section>
 
-			</details>
+</details>
 
 <details>
 	
 <summary markdown="1"> ‣ **All the others** (gigantic table warning) 
-			</summary>
+
+</summary>
 
 	<section markdown="1">
 
