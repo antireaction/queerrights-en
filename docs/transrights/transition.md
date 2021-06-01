@@ -1,27 +1,27 @@
-	---
-	layout: default
-	title: Myths about transition and biology
-	nav_order: 4
-	parent: Trans Rights!
-	---
-	<script> jtd.setTheme('green'); </script>
-	# Myths about transition
-	{: .no_toc }
+---
+layout: default
+title: Myths about transition and biology
+nav_order: 4
+parent: Trans Rights!
+---
+<script> jtd.setTheme('green'); </script>
+# Myths about transition
+{: .no_toc }
 
-	## Table of contents
-	{: .no_toc .text-delta }
+## Table of contents
+{: .no_toc .text-delta }
 
-	1. TOC
-	{:toc}
+1. TOC
+{:toc}
 
-	---
+---
 
-	## Social transition
+## Social transition
 
-	---
-	## Medical transition
+---
+## Medical transition
 
-	Medical transition is the act of voluntarily changing one's sex characteristics with hormones and/or sex-reassignment surgeries (SRS) with the aim to feel more at ease/congruent with one's body. This can, but doesn't have to (and usually doesn't fully) include:
+Medical transition is the act of voluntarily changing one's sex characteristics with hormones and/or sex-reassignment surgeries (SRS) with the aim to feel more at ease/congruent with one's body. This can, but doesn't have to (and usually doesn't fully) include:
 	- administration of HRT ([cross-sex] hormone replacement therapy), hormone blockers
 		- HRT causes the start of either estrogenic (typically female) or androgenic (typically male) puberty, although permanent changes from previous puberty/puberties (if occured), such as facial and body hair growth or skeletal changes, cannot be undone with hormones alone. [partly reversible changes, partly irreversible ones]
 		- Hormone blockers stop the effects of endogenous hormones (those that the body produces by itself), but only for as long as they continue to be taken. [reversible, but can cause allergic reactions or minor side effects like all medication]
@@ -34,32 +34,32 @@
 		- permanent facial and/or body hair removal or facial hair transplant(s)
 		- voice feminization or masculinization surgery, removal of Adam's apple (tracheal shave)
 
-	Medical transition currently cannot change most skeletal structures (except some facial), replace reproductive organs, change endogenous hormone profiles, nor sex chromosomes. But it can change the phenotype far enough for transitioned people to be perceived as the other sex in most contexts, if desired.
+Medical transition currently cannot change most skeletal structures (except some facial), replace reproductive organs, change endogenous hormone profiles, nor sex chromosomes. But it can change the phenotype far enough for transitioned people to be perceived as the other sex in most contexts, if desired.
 
-	In trans circles, "pre-HRT"/"pre-OP" means a person desires to but has not yet received a certain treatment, "post-OP" means a person had a certain surgery, and "non-HRT"/"non-OP" means a person did not receive a certain treatment nor wishes to pursue it.
+In trans circles, "pre-HRT"/"pre-OP" means a person desires to but has not yet received a certain treatment, "post-OP" means a person had a certain surgery, and "non-HRT"/"non-OP" means a person did not receive a certain treatment nor wishes to pursue it.
 
-	Some studies and resources might use the acronym SRS to only refer to bottom surgery, however, this website will use SRS to refer to any of the listed surgeries.
+Some studies and resources might use the acronym SRS to only refer to bottom surgery, however, this website will use SRS to refer to any of the listed surgeries.
 
-	### "Medical transition does not alleviate gender dysphoria or improve psychological functioning." 
+### "Medical transition does not alleviate gender dysphoria or improve psychological functioning." 
 
-	Related: "There is widespread regret of medical transition", "There is widespread detransition"
+Related: "There is widespread regret of medical transition", "There is widespread detransition"
 
-	For puberty blockers specifically see the section about [trans youth](https://antireaction.github.io/queerrights-en/docs/transrights/transyouth.html).
+For puberty blockers specifically see the section about [trans youth](https://antireaction.github.io/queerrights-en/docs/transrights/transyouth.html).
 
-	Anti-trans narratives claim that medical transition does not generally alleviate gender dysphoria or improve the lives of dysphoric people, because gender dysphoria is better treated with conversion therapy or "just accepting your body as it is" as there isn't actually such a thing as a misaligned gender identity. Further they claim that a majority of people who medically transition eventually come to regret it, with claims about the detransition rate ranging from 20% to nearly everyone.
+Anti-trans narratives claim that medical transition does not generally alleviate gender dysphoria or improve the lives of dysphoric people, because gender dysphoria is better treated with conversion therapy or "just accepting your body as it is" as there isn't actually such a thing as a misaligned gender identity. Further they claim that a majority of people who medically transition eventually come to regret it, with claims about the detransition rate ranging from 20% to nearly everyone.
 
-	None of these claims is supported by any of the currently available data.
+None of these claims is supported by any of the currently available data.
 
-	#### Studies & meta-analysis' in favour
-	The following studies looked at the psychological well-being of medically transitioning/transitioned individuals, their satisfaction and regrets with medical transition, and compared it either with their own past psychological state or control groups of other trans people who have no yet medically transitioned.
+#### Studies & meta-analysis' in favour
+The following studies looked at the psychological well-being of medically transitioning/transitioned individuals, their satisfaction and regrets with medical transition, and compared it either with their own past psychological state or control groups of other trans people who have no yet medically transitioned.
 
-	**[Cornell University "What We Know" systematic literature review](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/)** ([archive link](https://web.archive.org/web/20210510142046/https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/), snapshot from 15th May 2021) (only studies published in English)
+**[Cornell University "What We Know" systematic literature review](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/)** ([archive link](https://web.archive.org/web/20210510142046/https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/), snapshot from 15th May 2021) (only studies published in English)
 	- **Tested:** Systematic literature review of _all_ peer-reviewed studies published in English between 1991 and 2017 about the effects of transition (in general) on the well-being of trans people
 	- Of 55 studies, 50 showed a statistically significant improvement in well-being, 1 a statistically insignificant improvement, and 4 showed mixed results or no improvement after transition. None consistently showed worse well-being than before transition, contrary to the idea that transitioning generally misaligns sex characteristics with gender identity and makes a person feel worse.
 
-	Studies which showed improvement: (‣ = click to open)
+Studies which showed improvement: (‣ = click to open)
 
-	<details>
+<details>
 
 		<summary markdown="1"> ‣ **Pfäfflin (1993)** seperate because it's so much 
 	</summary> 
@@ -78,11 +78,11 @@
 		- The author concludes that overall, trans people who wished to undergo SRS did not regret doing so when they did. 
 	- **Flaws:** Only clinical samples, old data
 
-	</section>
+</section>
 
-	</details> 
+</details> 
 
-	<details>
+<details>
 
 		<summary markdown="1"> ‣ **All the others** (gigantic table warning) 
 	</summary> 
