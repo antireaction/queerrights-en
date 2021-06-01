@@ -94,400 +94,400 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 
 <section markdown="1">
 
-<table style="width: 100%">
-    <tr>
-        <td span="1" style="width: 5%">study</td>
-        <td span="1" style="width: 10%"">sample(s)</td>
-        <td span="1" style="width: 20%>tested</td>
-        <td span="1" style="width: 20%>follow-up time or time since last treatment</td>
-        <td span="1" style="width: 30%>results</td>
-        <td span="1" style="width: 15%>notes</td>
-    </tr>
-    <tr>
-        <td>[Bodlun &amp; Kullgren (1996)](https://doi.org/10.1007/BF02438167)</td>
-        <td>Swedish clinical sample of 10 trans women and 9 trans men, "core transsexuals"</td>
-        <td>changes in well-being from  medical transition (in general) over 5 year period, used questionnaire</td>
-        <td>5 years, transition stages differed between participants and some have still not medically transitioned to the extent that they wish by the end of the 5 year period</td>
-        <td>13 improved, 3 stable, 2 unsatisifed, 1 unsatisifed &amp; detranstioned</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Rakic et al. (1996)](https://doi.org/10.1007/BF02437545)</td>
-        <td>Yugoslavian clinical sample of 22 trans women and 10 trans men</td>
-        <td>body image, social life, sexual life, occupational functioning before and after bottom surgery, used questionnaire</td>
-        <td>6 months to 4 years, median of 18 months</td>
-        <td>no regrets, 87%  had improved body image, better social, sexual and ccupational life</td>
-        <td>straght trans people only (to not provoke someone?)</td>
-    </tr>
-    <tr>
-        <td>[Eldh et al. (1997)](https://doi.org/10.3109/02844319709010503)</td>
-        <td>Swedish clinical sample of 40 trans men and 50 trans women</td>
-        <td>physical and psychological health after SRS, used questionnaire by mail or in person; in case of personal interview, a physical examination took place as well (study doesn't state how many those were)</td>
-        <td>6 months to 30 years (median of 5,8 years) after several SRS including bottom surgery</td>
-        <td>86,5% (64/74) of respondents were satisfied with their lives post-SRS; 13,5% (10/74) were not satisfied, of which 5,4% (2 people of each gender) detransitioned socially and regretted the surgeries; 4% (2 trans women and 1 trans man) commited suicide, but had many suicide attempts before SRS as well; even if assuming that all respondents who were lost during follow-up (16/90) 1. had a worse well-being and that this was their reason to drop out and 2. the worsening was because of SRS, the success rate is 71,1% (64/90) and dissatisfaction (including detransition) rate 28,8% (26/90), which is still a clear net benefit; social stability (e.g. acceptance by family &amp; friends), surgical techniques and overall body appearance (beside genitals) were found to be predictors of good outcomes</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Landen et al. (1998)](https://doi.org/10.1111/j.1600-0447.1998.tb10001.x)</td>
-        <td>Swedish clinical sample undergoing initial SRS from 1972-1992; 213 total of which 8 detransitioned</td>
-        <td>retrospective study of predictors of regret after SRS (including bottom surgery), used medical records</td>
-        <td>4 to 24 years after SRS</td>
-        <td>medical detransition rate of 3,8%, mostly associated with poor family support and much less but still significantly with not belonging to "core transsexual group" or suffering from psychosis; time between SRS and request for reversal 1-15 years (7,4 years median); last year of approval for any regretful patient was 1982</td>
-        <td>retrospective; could only consider medical detransitions; some of the SRS of included patients were only 4 years ago while requests for reversal took up to 15 years after initial SRS, so some of the more recent patients considered non-regretful here might have eventually requested reversal years after the study was conducted</td>
-    </tr>
-    <tr>
-        <td>[Rehman et al. (1999)](https://doi.org/10.1023/A:1018745706354) *</td>
-        <td>American clinical sample of 28 trans women</td>
-        <td>long-term physical, psychological, and sexual well-being &amp; satisfaction after SRS including bottom surgery, used personal or telephone interviews</td>
-        <td>3 years</td>
-        <td>no regrets, ability to normally return to work, more satisfactory personal and social life of patients after SRS</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Lawrence (2003)](https://doi.org/10.1023/A:1024086814364)</td>
-        <td>American clinical sample of 232 trans women</td>
-        <td>factors associated with long-term regret and satisfaction after SRS, used questionnaires</td>
-        <td>1 to 7 years (most available questionnaires from people having had surgery 2-4 years)</td>
-        <td>59% reported improvement of quality of life as 8 or higher on an 0-10 scale, 1 reported worsening (0,45%), the rest reported no change; 86% reported their happiness as 8 or higher, 4% as 5 or lower; nobody regretted SRS outright, 6% sometimes and mostly due to social unacceptance or functional or physical outcomes</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Smith et al. (2005)](https://www.ncbi.nlm.nih.gov/pubmed/15842032) *</td>
-        <td>Dutch clinical sample of 94 trans women and 64 trans men</td>
-        <td>outcomes and predictors of regret/satisfaction after SRS, used questionnaire and personal interview (not all participants completed the latter)</td>
-        <td>1-4 years</td>
-        <td>virtually no gender dysphoria after SRS, independent of sexual orientation; no body dissatisfaction, 91,6% very satisifed with their bodies, better psychological functioning; 1 trans women had strong regrets and would not choose SRS again, another had strong regrets but would choose to undergo it again</td>
-        <td>almost all patients in this sample had social support, only 4 (3,9%) had absolutely nobody to rely on;</td>
-    </tr>
-    <tr>
-        <td>[De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002) *</td>
-        <td>Belgian clinical sample of 35 trans women and 27 trans men</td>
-        <td>long-term psychological, social, and professional functioning after a longer period after SRS, used semi-structured interviews</td>
-        <td>minimum 1 year since bottom surgery; median of 4,1 years for trans women and 7,6 for trans men</td>
-        <td>significant drop in suicide attempt rate (29,3% to 5,1%); gender dysphoria level dropped to that of the general population; 88,6% trans women and 85,2% trans men felt happy after surgery; regret only occasional in 2 cases, no detransitioners; improved social functioning</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Lobato et al. (2006)](https://www.ncbi.nlm.nih.gov/pubmed/17075731)</td>
-        <td>Brazillian clinical sample of 18 trans women and 1 trans man</td>
-        <td>impact of SRS (including bottom surgery) on satisfaction with sexual experience after SRS, used questionnaires before and after</td>
-        <td>1 to 2,5 years since bottom surgery</td>
-        <td>no regrets; improvement of sexual experience considered for 83,3%; 64,7% say initiating and maintaining relationships became easier; pariticpants with a partner increased from 52,6% to 73,7%</td>
-        <td>only early-onset dysphoric trans people ("type 1 transsexuals"); excluded intersex people and people with psychotic disorders or addictions to psychoactive substances right away</td>
-    </tr>
-    <tr>
-        <td>[Newfield et al. (2006)](https://doi.org/10.1007/s11136-006-0002-3) *</td>
-        <td>recruitment through internet, bulletin boards, and postcards; mostly U.S.-American; 446 trans men</td>
-        <td>quality of life, used online survey</td>
-        <td>not recorded; trans men with or without HRT were compared to each other</td>
-        <td>HRT significantly correlated with improved quality of life</td>
-        <td>non-clinical sample</td>
-    </tr>
-    <tr>
-        <td>[Kraemer et al. (2008)](https://www.ncbi.nlm.nih.gov/pubmed/18033979)</td>
-        <td>Swiss clinical sample of 16 trans women and 7 trans men pre-SRS, 14 trans women and 8 trans men post-SRS</td>
-        <td>body image of pre- and post-SRS people in comparison, used questionnaire</td>
-        <td>5 months to 8 years, median of 51 months (4,25 years) of the post-SRS sample</td>
-        <td>post-SRS sample scored significantly higher in measures of self-confidence and attractiveness, while lower on insecurity and concern compared to pre-SRS sample; none of the tested variables was found to be correlated to the time since SRS; taking HRT or not in the pre-SRS was not found to be correlated to any of the tested variables either</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Imbimbo et al. (2009)](https://doi.org/10.1111/j.1743-6109.2009.01379.x)</td>
-        <td>Italian clinical sample of 163 trans women</td>
-        <td>post-surgical satisfaction levels and psychosocial profile of trans women, used questionnaire before and after SRS</td>
-        <td>12-18 months after SRS for each patient seperately (operated over 14 years)</td>
-        <td>94% were satisfied with having undergone surgery, 6% regretted it (not stated why, i.e. if they realized they aren't trans and detransitioned or if it was due to complications or unmet expectations etc.)</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Nelson et al. (2009)](https://doi.org/10.1016/j.bjps.2007.10.049)</td>
-        <td>UK clinical sample of 12 trans men</td>
-        <td>satisfaction with top surgery (double mastectomy/reduction mammoplasty), used questionnaire</td>
-        <td>2-23 months after top surgery, median of 10 </td>
-        <td>no regrets, all patients were satisfied, felt that their self-confidence and social interactions improved</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Vujovic et al. (2009)](https://doi.org/10.1111/j.1743-6109.2008.00799.x)</td>
-        <td>Serbian clinical sample of 71 trans women and 76 trans men</td>
-        <td>retrospective study and description of  the Serbian trans population using available data of everyone who presented at the at the time only Serbian gender clinic between 1987 and 2006</td>
-        <td>unclear, study only states that the patients _first presented_ between 1987 and 2006, but not when HRT or any SRS was performed</td>
-        <td>no reported regrets, all patients who did would undergo SRS again, some where also satisifed with HRT only</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Weyers et al. (2009)](https://doi.org/10.1111/j.1743-6109.2008.01082.x)</td>
-        <td>Belgian clinical sample of 50 trans women</td>
-        <td>long-term physical, mental, and sexual health among trans women, used questionnaires (only after)</td>
-        <td>6 months after bottom surgery</td>
-        <td>high satisfaction with self-image, good physical and mental health, but some issues with sexual functioning related to surgical outcomes; 96% never regretted the surgery, 4% (2 women) sometimes </td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Ainsworth &amp; Spiegel (2010)](https://doi.org/10.1007/s11136-010-9668-7)</td>
-        <td>internet recruitment, 247 trans women</td>
-        <td>psychological effects of FFS and bottoms surgery, used interviews</td>
-        <td>not recorded; trans women with or without certain SRS were compared to each other</td>
-        <td>FFS and SRS associated with better quality of life</td>
-        <td>non-clinical sample</td>
-    </tr>
-    <tr>
-        <td>[Johansson et al. (2010)](https://doi.org/10.1007/s10508-009-9551-1)</td>
-        <td>Swedish clinical sample of 25 trans women and 17 trans men</td>
-        <td>long-term follow up after SRS regarding gender dysphoria, satisfaction, social functioning, work, relationships, and sexuality; used semi-structured interviews before &amp; after</td>
-        <td>at least 5 years after being approved for medical transition and (if already pursued) at least 2 years after SRS; median of 7,8 years between SRS and follow-up for trans women and 7,4 years for trans men (see table 1 in the paper)</td>
-        <td>clinicians rated overall outcomes as favourable in 62% of the cases, patients themselves in 95% of the cases; 86% were judged as stable or  improved in their overall functioning by clinicians; only 5-15% of patients were dissatisfied with some aspect (general health, surgical outcomes, etc.), but nobody regretted medical transition in itself; general health also improved for slightly more than the majority, for 16,1% (which tended to include older patients) it worsened, for the rest it remained the same, of which half meant that it remained on a good level</td>
-        <td>drop-outs had lower global functioning scores at initial contact with the clinic and 88,9% of them had completed SRS</td>
-    </tr>
-    <tr>
-        <td>[Parola et al. (2010)](https://doi.org/10.1016/j.sexol.2009.05.004)</td>
-        <td>French clinical sample of 15 trans men and 15 trans women</td>
-        <td>impact of SRS and HRT on quality of life and possible predictors for outcomes such as personality traits, used questionnaires &amp; semi-structured interviews</td>
-        <td>at least 2 years after SRS</td>
-        <td>everyone was satisfied with their medical transition, no regrets; quality of life improved for almost everyone both in social and sexual aspects</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Colton-Meier et al. (2011)](https://doi.org/10.1080/19359705.2011.581195)</td>
-        <td>internet recruitment through ftm forums, mostly U.S. Americans, 369 trans men</td>
-        <td>psychological effects of HRT, used survey</td>
-        <td>not recorded; trans men with or without HRT were compared to each other</td>
-        <td>HRT associated with better mental health &amp; health-related quality of life</td>
-        <td>non-clinical sample, data collection over 3 months in 2008</td>
-    </tr>
-    <tr>
-        <td>[Pimenoff &amp; Pfäfflin (2011)](https://doi.org/10.1080/15532739.2011.618399)</td>
-        <td>Finnish clinical sample of 15 trans women and 17 trans men who completed medical and legal transition to the full extent that it's possible between 1970 and 2002</td>
-        <td>treatment outcome of compliant and noncompliant patients undergoing medical transition, used questionnaires</td>
-        <td>median of 5 years after bottom surgery and 8,5 years after legal transition</td>
-        <td>significant improvement of both social and psychological adjustment after transition, regardless of compliance</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Rotondi et al. (2011)](doi.org/10.7870/cjcmh-2011-0021) **</td>
-        <td>Canadian sample of 205 trans men recruited through the internet, organizations, venues, etc.</td>
-        <td>prevelance and factors associated with depression in trans men, used surveys</td>
-        <td>not recorded; trans men with or without treatment were compared to each other</td>
-        <td>depression was associated with (among other things) not taking HRT and planning to medically transition but not currently transitioning; less depression was associated with having medically transitioned and having had surgery before 2008 (which was defined as not recent)</td>
-        <td>non-clinical sample </td>
-    </tr>
-    <tr>
-        <td>[Gomez-Gil et al. (2012)](https://doi.org/10.1016/j.psyneuen.2011.08.010)</td>
-        <td>Spanish clinical sample of 113 trans women and 74 trans men</td>
-        <td>social distress, anxiety, and depression in trans people and effects of HRT and SRS, used questionnaires</td>
-        <td>not recorded; trans people with and without treatment were compared to each other</td>
-        <td>both SRS and HRT significantly correlated with reduced depression, anxiety, and social distress</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Gorin-Lazard et al. (2012)](https://doi.org/10.1111/j.1743-6109.2011.02564.x)</td>
-        <td>French clinical sample of 30 trans men and 31 trans women</td>
-        <td>impact of HRT on quality of life, used questionnaires</td>
-        <td>12-42 months (1-3,5 years) of HRT, median of 20 months (1,67 years); trans people on HRT were compared to those who are not</td>
-        <td>HRT is _independently_ linked to a higher quality of life</td>
-        <td>excluded people with psychiatric comorbities right away</td>
-    </tr>
-    <tr>
-        <td>[Budge et al. (2013)](https://doi.org/10.1177/0011000011432753)</td>
-        <td>America, recruited through support groups, 13 trans women, 2 trans men, 2 genderqueer people, 1 male crossdresser</td>
-        <td>coping mechanisms &amp; emotions during various stages of transition (in general), used qualitative interviews</td>
-        <td>not recorded; interviews span over whole transition but are conducted at 1 point in time</td>
-        <td>"affirmative emotional experiences" commonly associated with HRT (16 participants went on HRT)</td>
-        <td>non-clinical sample, qualitative rather than quantitative, unusually diverse sample in terms of sexual orientation</td>
-    </tr>
-    <tr>
-        <td>[Colizzi et al. (2013)](https://doi.org/10.1111/jsm.12155)</td>
-        <td>Italian clinical sample of 45 trans women and 25 trans men</td>
-        <td>effects of HRT on stress, attachment style, and cortisol awakening response (CAR), used questionnaires &amp; blood tests</td>
-        <td>recorded before and 12 months into HRT</td>
-        <td>12 months HRT decreased CAR levels and perceived stress regardless of attachment style</td>
-        <td>excluded intersex people and people with psychiatric pathologies right away</td>
-    </tr>
-    <tr>
-        <td>[Costatino et al. (2013)](https://doi.org/10.1080/0092623X.2012.736920)</td>
-        <td>Italian clinical sample of 50 trans men</td>
-        <td>impact of HRT on mood and sexual function, used questionnaires</td>
-        <td>data collected before HRT, 12 months into HRT, and at least 6 months after SRS (no bottom surgery, only top surgery and removal of reproductive organs)</td>
-        <td>HRT improved sexual function and SRS reduced aggressiveness, but also reduced sexual function again (which might be because SRS did not include bottom surgery and disappointed some, or because not everyone was done recovering from SRS when filling out the questionnaire yet); more positive mood changes occured but were not statistically significant (see table 3); insomnia and sweating increased with HRT</td>
-        <td>excluded intersex people, drug addicts, and people with psychiatric comorbidities right away</td>
-    </tr>
-    <tr>
-        <td>[Gorin-Lazard et al.(2013)](https://doi.org/10.1097/NMD.0000000000000046)</td>
-        <td>French clinical sample of 36 trans women and 31 trans men</td>
-        <td>influence of HRT on self-esteem, mood, and quality of life; used questionnaires</td>
-        <td>not recorded(?); trans people with or without treatment were compared to each other</td>
-        <td>HRT independently associated with less depression, greater self-esteem and better psychological well-being</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Weigert et al. (2013)](https://doi.org/10.1097/01.prs.0000434415.70711.49)</td>
-        <td>French clinical sample of 35 trans women</td>
-        <td>influence of breast augmentation on sexual, psychosocial and physical well-being; used questionnaires</td>
-        <td>data collected 3 weeks before breast augmentation, 4 months after surgery, and 21 patients completed the questionnaire again 12-39,6 months (1-3,3 years; median of 20,7 months/1,7 years) after surgery; breast augmentation was performed with a median of 16 months after bottom surgery, which itself was preceeded by HRT</td>
-        <td>significant improvement in all measured areas after surgery</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Bailey et al. (2014)](https://doi.org/10.1108/MHRJ-05-2014-0015)</td>
-        <td>UK, internet recruitment, 889 people of which 778 desired or underwent medical transition to some degree</td>
-        <td>effects of various factors on suicidal ideation &amp; suicide attempts, used questionnaire</td>
-        <td>not recorded; trans people with or without treatment were compared to each other</td>
-        <td>suicidality associated (among others) with denial of desired medical treatments</td>
-        <td>non-clinical sample</td>
-    </tr>
-    <tr>
-        <td>[Boza &amp; Nicholson (2014)](https://doi.org/10.1080/15532739.2014.890558)</td>
-        <td>Australia; recruitment via internet, support groups, snowballing; 83 trans men and 160 trans women</td>
-        <td>effects of various factors on mental health, used questionnaires</td>
-        <td>not recorded; trans people with or without treatment were compared to each other</td>
-        <td>SRS associated with less depression</td>
-        <td>non-clinical sample</td>
-    </tr>
-    <tr>
-        <td>[Colizzi et al. (2014)](https://doi.org/10.1016/j.psyneuen.2013.09.029)</td>
-        <td>Italian clinical sample, 78 trans women and 29 trans men</td>
-        <td>impacts of HRT on psychiatric distress and functional impairment, used questionnaires</td>
-        <td>recorded before and 12 months into HRT</td>
-        <td>12 months HRT approx. halved prevelance of all bad measures across sample</td>
-        <td>intersex people and people with unstable psychiatric comorbidities excluded right away</td>
-    </tr>
-    <tr>
-        <td>[Davis &amp; Meier (2014)](https://doi.org/10.1080/19317611.2013.833152)</td>
-        <td>American sample of 208 transmasculine people (including trans men, genderqueer, and genderfluid people); recruitment through internet and local communities</td>
-        <td>impacts of HRT and top surgery, used survey</td>
-        <td>use of HRT ranged from either no us or between 1 week &amp; 35 years (median of 3,62 years) for those who do use it; time since top surgery (if performed) not recorded; study compared people with and without treatment to each other</td>
-        <td>reduction in anxiety, depression, anger and an increase in body satisfaction associated with with HRT and top surgery</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Dhejne et al. (2014)](https://doi.org/10.1007/s10508-014-0300-8)</td>
-        <td>All Swedish citizens who applied for SRS and legal name change from 1972 to 2010 (252 trans men and 478 trans women)</td>
-        <td>prevelance of transition and regret in the population, used retrospective study of official data</td>
-        <td>time from first legal gender change to regret application had a median of 75-137 months (6,25-11,4 years) or 90 months (7,5 years) for trans men, 22-177 months (1,83-14,75 years) or 102 months (8,5 years) for trans women</td>
-        <td>regret rate of 2,2% for both genders and an additional 1,2% (across both binary genders) who have withdrawn their application themselves; regret rate decreased a lot over time from 27% in 1960-1971 down to 2,4% in the 1991-2000 time period and 0,3% in 2001-2010 (although there may be some cases of regret in the last group who have no yet applied, as the median time from first legal sex change to regret application is 7-8 years)</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Fisher et al. (2014)](https://doi.org/10.1111/jsm.12413)</td>
-        <td>Italian clinical sample of 66 trans women and 59 trans men</td>
-        <td>impacts of HRT without any SRS on body uneasiness in trans people, used questionnaires</td>
-        <td>either no HRT, or 45-10845 days (1,5 months to 30,125 years) [median of 430 days (~14 months)] for trans women and 33-1021 days (33 days to 2,8 years) [median of 799 days (~2,2 years)] for trans men; compared trans people with treatment to those without</td>
-        <td>HRT duration and higher dosage independently correlated with decreased body uneasiness for trans women, but not for trans men, although the authors write that the latter might be for example due to HRT not significantly reducing chest size in trans men (which can be a major source of body uneasiness for them)</td>
-        <td>excluded people who were intersex, had changes in HRT treatment before the study, had internalized homophobia, mental retardation or transvestite fetishism</td>
-    </tr>
-    <tr>
-        <td>[Gomez-Gil et al. (2014)](https://doi.org/10.1007/s11136-013-0497-3)</td>
-        <td>Spanish clinical sample of 119 trans women and 74 trans men</td>
-        <td>factors associated with better quality of life in trans people before bottom surgery, used questionnaires</td>
-        <td>not recorded; trans people with and without treatment were compared to each other</td>
-        <td>better quality of life associated with (among other factors) being on HRT</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Hess et al. (2014)](http://doi.org/10.3238/arztebl.2014.0795)</td>
-        <td>German clinical sample of 254 trans women</td>
-        <td>long-term satisfaction with SRS, used questionnaires</td>
-        <td>1-7 years after SRS; median of 5,05 years</td>
-        <td>87,4% were satisfied or very satisfied with their outward appearance as women; 72% were satisfied or very satisfied with the functional outcome; 1 full detransitioner (sees himself as male) (1%), 3 peple who see themselves as "more male than female" (2,9%)</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Heylens et al. (2014)](https://doi.org/10.1111/jsm.12363)</td>
-        <td>Belgian clinical sample of 46 trans women and 11 trans men</td>
-        <td>effects of various steps in medical transition on psychopathology, used questionnaires</td>
-        <td>questionnaires were filled out before treatment, 3-6 months into HRT, and 1-12 months after SRS</td>
-        <td>medical transition leads to a significant reduction of psychopathology in areas such as depression, anxiety, somatization, psychoticism, interpersonal sensitivity, hostility, and overall psychoneurotic distress</td>
-        <td>one person commited suicide during follow-up</td>
-    </tr>
-    <tr>
-        <td>[Manieri et al. (2014)](https://doi.org/10.1080/15532739.2014.899174)</td>
-        <td>Italian clinical sample of 56 trans women and 27 trans men</td>
-        <td>impacts of HRT in the first year on quality of life</td>
-        <td>evaluations every 3 months; questionnaires on quality of life filled in before and 1 year into treatment</td>
-        <td>HRT improves quality of life and seems to be free of major risks in healthy individuals under clinical supervision in the first year</td>
-        <td>excluded intersex people and people with severe psychopathology right away</td>
-    </tr>
-    <tr>
-        <td>[Castellano et al. (2015)](https://doi.org/10.1007/s40618-015-0398-0)</td>
-        <td>Italy, recruitment through local ads, 46 trans women and 14 trans men, local cis control group</td>
-        <td>psychological &amp; sexual affects of bottom surgery</td>
-        <td>at least 2 years and up to 33 years after SRS</td>
-        <td>trans sample scored similarly to cis controls in quality of life and body image; trans men slightly worse in sexual life subscale than cis men</td>
-        <td>non-clinical sample</td>
-    </tr>
-    <tr>
-        <td>[Keo-Meier et al. (2015)](http://dx.doi.org/10.1037/a0037599)</td>
-        <td>American sample of 48 trans men and male (53) &amp; female (62) cis controls</td>
-        <td>changes in psychological function from before and during HRT in trans men, used questionnaires</td>
-        <td>before and 3 months into HRT</td>
-        <td>3 months of HRT led to decreased psychopathology and betterment in psychological functioning on multiple domains</td>
-        <td>non-clinical sample</td>
-    </tr>
-    <tr>
-        <td>[Ruppin &amp; Pfäfflin (2015)](https://doi.org/10.1007/s10508-014-0453-5)</td>
-        <td>Germany, 35 trans women and 36 trans men</td>
-        <td>various quality of life factors (employment, subjective life satisfaction, integration,...) after medical transition to some degree (almost all took HRT and had at least one SRS), used standardized questionnaires and qualitative interviews</td>
-        <td>tested upon first contact with clinic and 10-24 (mean 13,8) years after legal name &amp; gender marker change***</td>
-        <td>high life satisfaction, employment, good social integration, gender dysphoria remained reduced, other psychological problems decreased too</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[Bar et al. (2016)](dx.doi.org/10.1177/0008417416635346)</td>
-        <td>Israel, internet and local recruitment, snowballing; 22 trans women (all medically transitioning) and 22 cis women</td>
-        <td>changes of occupational well-being over time, used questionnaires</td>
-        <td>not recorded; compared trans women to cis controls</td>
-        <td>occupational well-being improved for both groups, but steeper for trans women who started out lower on the scale with the gap reducing over time; probably due to them advancing in their medical transition and experiencing positive effects from it</td>
-        <td>non-clinical sample, only indirect investigation of effects of medical transition</td>
-    </tr>
-    <tr>
-        <td>[Bouman et al. (2016)](http://dx.doi.org/10.1016/j.jsxm.2016.01.009)</td>
-        <td>UK clinical sample, 71 trans women over the age of 50</td>
-        <td>psychopathology and clinical measures, use of HRT prior to clinic referral (about half of the used sample did so), used questionnaires</td>
-        <td>not recorded; trans women were compared to each other</td>
-        <td>use of HRT prior to referral associated with less anxiety, but not less depression</td>
-        <td>purposefully uses an older than usual sample</td>
-    </tr>
-    <tr>
-        <td>[Cardoso da Silva et al. (2016)](https://doi.org/10.1016/j.jsxm.2016.03.370)</td>
-        <td>Brazillian clinical sample, 47 trans women</td>
-        <td>psychological and social functioning, physical health, level of independence after HRT and bottom surgery, used questionnaires</td>
-        <td>tested prior to treatment and at least 1 year after bottom surgery</td>
-        <td>significant improvement of psychological and social functioning, but significant worsening of physical health and level of independence; although this can easily be justified with having to recover after bottom surgery according to the authors; those who had more recent revisions (further interventions to correct complications) had worse (but still good) outcomes than those who did not</td>
-        <td>people with psychotic disorders, mental retardation or substance addictions were excluded; most had to get some revision (further intervention for correction of complications) after SRS</td>
-    </tr>
-    <tr>
-        <td>[Glynn et al. (2016)](doi.org/10.1037/sgd0000171)</td>
-        <td>American sample of 573 trans women with a history of sex work</td>
-        <td>role of gender-affirmation on psychological well-being of trans women, used self-report</td>
-        <td>none; used a 1-time self-report, trans women were compared to each other</td>
-        <td>gender affirmation (including medical) associated with less depression and higher self-esteem, although no domains of gender affirmation (social, psychological nor mental) were associated significantly with suicidal ideation</td>
-        <td>non-clinical sample</td>
-    </tr>
-    <tr>
-        <td>[Padula et al. (2015)](https://doi.org/10.1007/s11606-015-3529-6)</td>
-        <td>extracted model parameters from [National Transgender Discrimination Survey (NTDS) (2011)](https://www.thetaskforce.org/wp-content/uploads/2019/07/ntds_full.pdf) ([archive](https://web.archive.org/web/20210429072230/https://www.thetaskforce.org/wp-content/uploads/2019/07/ntds_full.pdf)) of adults, which had 6436 US-American respondents</td>
-        <td>cost-effectiveness of insurance coverage for medically-necessary trans-related services (e.g. medical transition); used Markov model</td>
-        <td>5-10 year time horizons from US societal perspective </td>
-        <td>provider coverage of trans-related care was cost-effective (i. e. reduced more costs on treating HIV, depression, drug abuse, etc. that would come from being denied coverage than it costs to cover expenses) in 85% of simulations; budget impact for individual members is 0,016$ per month (I'm using the comma the way US-Americans use the dot because I'm European)</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>[van de Grift et al. (2017a)](doi.org/10.1097/PSY.0000000000000465)</td>
-        <td>European (Dutch, German, Belgian, Norwegian) clinical sample of 135 transfeminine and 66 transmasculine people</td>
-        <td>effects of medical transition on gender dysphoria and body image, used questionnaires</td>
-        <td>tested at admission and 4-6 years after first visit in the gender clinic; participants were at various stages at follow-up (no treatment, HRT only, or HRT and SRS)</td>
-        <td>gender dysphoria decreased in all participants at follow-up, but much more so in those participants who had received both HRT and SRS, whose gender dysphoria levels were now comparable to cis people; body image improved both regarding transition-responsive areas (i. e. body parts/traits that can be changed) and those that are not responsive; </td>
-        <td>due to an error only the gender dysphoria of those who had socially transitioned (9 people) was assessed in this group, and they generally showed lower scores of gender dysphoria than those who did eventually get medical treatment; only 7 of the 29 were confirmed to fulfill the diagnostic criteria; of those who socially transitioned, 2 detransitioned; 9 said they do not plan to re-apply for medical treatment in the future, 8 were unsure, 6 were going to;</td>
-    </tr>
-    <tr>
-        <td>[van de Grift et al. (2017b)](https://doi.org/10.1080/0092623X.2017.1326190)</td>
-        <td>same sample as above but only the 136 people who received both HRT and SRS (81 trans women, 51 trans men, 4 missing data)</td>
-        <td>satisfaction and quality of life after SRS, used questionnaires</td>
-        <td>tested at admission and 4-6 years after first visit in the gender clinic; </td>
-        <td>satisfaction with SRS was 94% to 100% (depending on procedure), quality of life increased after SRS; nobody reported major regret; 6% (9 people) reported dissatisfaction or minor regret about a SRS they underwent, for 8 of whom it is tied to complications rather than realizing they're not trans and 1 trans woman did not specify her reason for dissatisfaction; no significant differences of gender dysphoria levels in trans people after HRT and SRS compared to cis controls</td>
-        <td>missing data for 2,9% of participants who had HRT and SRS</td>
-    </tr>
-</table>
+<div class="divTable" style="width: 100%">
+    <div class="row">
+        <div class="cell" style="width: 5%">study</td>
+        <div class="cell" style="width: 10%">sample(s)</td>
+        <div class="cell" style="width: 15%>tested</td>
+        <div class="cell" style="width: 20%">follow-up time or time since last treatment</td>
+        <div class="cell" style="width: 40%">results</td>
+        <div class="cell" style="width: 10%">notes</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Bodlun &amp; Kullgren (1996)](https://doi.org/10.1007/BF02438167)</td>
+        <div class="cell">Swedish clinical sample of 10 trans women and 9 trans men, "core transsexuals"</td>
+        <div class="cell">changes in well-being from  medical transition (in general) over 5 year period, used questionnaire</td>
+        <div class="cell">5 years, transition stages differed between participants and some have still not medically transitioned to the extent that they wish by the end of the 5 year period</td>
+        <div class="cell">13 improved, 3 stable, 2 unsatisifed, 1 unsatisifed &amp; detranstioned</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Rakic et al. (1996)](https://doi.org/10.1007/BF02437545)</td>
+        <div class="cell">Yugoslavian clinical sample of 22 trans women and 10 trans men</td>
+        <div class="cell">body image, social life, sexual life, occupational functioning before and after bottom surgery, used questionnaire</td>
+        <div class="cell">6 months to 4 years, median of 18 months</td>
+        <div class="cell">no regrets, 87%  had improved body image, better social, sexual and ccupational life</td>
+        <div class="cell">straght trans people only (to not provoke someone?)</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Eldh et al. (1997)](https://doi.org/10.3109/02844319709010503)</td>
+        <div class="cell">Swedish clinical sample of 40 trans men and 50 trans women</td>
+        <div class="cell">physical and psychological health after SRS, used questionnaire by mail or in person; in case of personal interview, a physical examination took place as well (study doesn't state how many those were)</td>
+        <div class="cell">6 months to 30 years (median of 5,8 years) after several SRS including bottom surgery</td>
+        <div class="cell">86,5% (64/74) of respondents were satisfied with their lives post-SRS; 13,5% (10/74) were not satisfied, of which 5,4% (2 people of each gender) detransitioned socially and regretted the surgeries; 4% (2 trans women and 1 trans man) commited suicide, but had many suicide attempts before SRS as well; even if assuming that all respondents who were lost during follow-up (16/90) 1. had a worse well-being and that this was their reason to drop out and 2. the worsening was because of SRS, the success rate is 71,1% (64/90) and dissatisfaction (including detransition) rate 28,8% (26/90), which is still a clear net benefit; social stability (e.g. acceptance by family &amp; friends), surgical techniques and overall body appearance (beside genitals) were found to be predictors of good outcomes</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Landen et al. (1998)](https://doi.org/10.1111/j.1600-0447.1998.tb10001.x)</td>
+        <div class="cell">Swedish clinical sample undergoing initial SRS from 1972-1992; 213 total of which 8 detransitioned</td>
+        <div class="cell">retrospective study of predictors of regret after SRS (including bottom surgery), used medical records</td>
+        <div class="cell">4 to 24 years after SRS</td>
+        <div class="cell">medical detransition rate of 3,8%, mostly associated with poor family support and much less but still significantly with not belonging to "core transsexual group" or suffering from psychosis; time between SRS and request for reversal 1-15 years (7,4 years median); last year of approval for any regretful patient was 1982</td>
+        <div class="cell">retrospective; could only consider medical detransitions; some of the SRS of included patients were only 4 years ago while requests for reversal took up to 15 years after initial SRS, so some of the more recent patients considered non-regretful here might have eventually requested reversal years after the study was conducted</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Rehman et al. (1999)](https://doi.org/10.1023/A:1018745706354) *</td>
+        <div class="cell">American clinical sample of 28 trans women</td>
+        <div class="cell">long-term physical, psychological, and sexual well-being &amp; satisfaction after SRS including bottom surgery, used personal or telephone interviews</td>
+        <div class="cell">3 years</td>
+        <div class="cell">no regrets, ability to normally return to work, more satisfactory personal and social life of patients after SRS</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Lawrence (2003)](https://doi.org/10.1023/A:1024086814364)</td>
+        <div class="cell">American clinical sample of 232 trans women</td>
+        <div class="cell">factors associated with long-term regret and satisfaction after SRS, used questionnaires</td>
+        <div class="cell">1 to 7 years (most available questionnaires from people having had surgery 2-4 years)</td>
+        <div class="cell">59% reported improvement of quality of life as 8 or higher on an 0-10 scale, 1 reported worsening (0,45%), the rest reported no change; 86% reported their happiness as 8 or higher, 4% as 5 or lower; nobody regretted SRS outright, 6% sometimes and mostly due to social unacceptance or functional or physical outcomes</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Smith et al. (2005)](https://www.ncbi.nlm.nih.gov/pubmed/15842032) *</td>
+        <div class="cell">Dutch clinical sample of 94 trans women and 64 trans men</td>
+        <div class="cell">outcomes and predictors of regret/satisfaction after SRS, used questionnaire and personal interview (not all participants completed the latter)</td>
+        <div class="cell">1-4 years</td>
+        <div class="cell">virtually no gender dysphoria after SRS, independent of sexual orientation; no body dissatisfaction, 91,6% very satisifed with their bodies, better psychological functioning; 1 trans women had strong regrets and would not choose SRS again, another had strong regrets but would choose to undergo it again</td>
+        <div class="cell">almost all patients in this sample had social support, only 4 (3,9%) had absolutely nobody to rely on;</td>
+    </div>
+    <div class="row">
+        <div class="cell">[De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002) *</td>
+        <div class="cell">Belgian clinical sample of 35 trans women and 27 trans men</td>
+        <div class="cell">long-term psychological, social, and professional functioning after a longer period after SRS, used semi-structured interviews</td>
+        <div class="cell">minimum 1 year since bottom surgery; median of 4,1 years for trans women and 7,6 for trans men</td>
+        <div class="cell">significant drop in suicide attempt rate (29,3% to 5,1%); gender dysphoria level dropped to that of the general population; 88,6% trans women and 85,2% trans men felt happy after surgery; regret only occasional in 2 cases, no detransitioners; improved social functioning</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Lobato et al. (2006)](https://www.ncbi.nlm.nih.gov/pubmed/17075731)</td>
+        <div class="cell">Brazillian clinical sample of 18 trans women and 1 trans man</td>
+        <div class="cell">impact of SRS (including bottom surgery) on satisfaction with sexual experience after SRS, used questionnaires before and after</td>
+        <div class="cell">1 to 2,5 years since bottom surgery</td>
+        <div class="cell">no regrets; improvement of sexual experience considered for 83,3%; 64,7% say initiating and maintaining relationships became easier; pariticpants with a partner increased from 52,6% to 73,7%</td>
+        <div class="cell">only early-onset dysphoric trans people ("type 1 transsexuals"); excluded intersex people and people with psychotic disorders or addictions to psychoactive substances right away</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Newfield et al. (2006)](https://doi.org/10.1007/s11136-006-0002-3) *</td>
+        <div class="cell">recruitment through internet, bulletin boards, and postcards; mostly U.S.-American; 446 trans men</td>
+        <div class="cell">quality of life, used online survey</td>
+        <div class="cell">not recorded; trans men with or without HRT were compared to each other</td>
+        <div class="cell">HRT significantly correlated with improved quality of life</td>
+        <div class="cell">non-clinical sample</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Kraemer et al. (2008)](https://www.ncbi.nlm.nih.gov/pubmed/18033979)</td>
+        <div class="cell">Swiss clinical sample of 16 trans women and 7 trans men pre-SRS, 14 trans women and 8 trans men post-SRS</td>
+        <div class="cell">body image of pre- and post-SRS people in comparison, used questionnaire</td>
+        <div class="cell">5 months to 8 years, median of 51 months (4,25 years) of the post-SRS sample</td>
+        <div class="cell">post-SRS sample scored significantly higher in measures of self-confidence and attractiveness, while lower on insecurity and concern compared to pre-SRS sample; none of the tested variables was found to be correlated to the time since SRS; taking HRT or not in the pre-SRS was not found to be correlated to any of the tested variables either</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Imbimbo et al. (2009)](https://doi.org/10.1111/j.1743-6109.2009.01379.x)</td>
+        <div class="cell">Italian clinical sample of 163 trans women</td>
+        <div class="cell">post-surgical satisfaction levels and psychosocial profile of trans women, used questionnaire before and after SRS</td>
+        <div class="cell">12-18 months after SRS for each patient seperately (operated over 14 years)</td>
+        <div class="cell">94% were satisfied with having undergone surgery, 6% regretted it (not stated why, i.e. if they realized they aren't trans and detransitioned or if it was due to complications or unmet expectations etc.)</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Nelson et al. (2009)](https://doi.org/10.1016/j.bjps.2007.10.049)</td>
+        <div class="cell">UK clinical sample of 12 trans men</td>
+        <div class="cell">satisfaction with top surgery (double mastectomy/reduction mammoplasty), used questionnaire</td>
+        <div class="cell">2-23 months after top surgery, median of 10 </td>
+        <div class="cell">no regrets, all patients were satisfied, felt that their self-confidence and social interactions improved</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Vujovic et al. (2009)](https://doi.org/10.1111/j.1743-6109.2008.00799.x)</td>
+        <div class="cell">Serbian clinical sample of 71 trans women and 76 trans men</td>
+        <div class="cell">retrospective study and description of  the Serbian trans population using available data of everyone who presented at the at the time only Serbian gender clinic between 1987 and 2006</td>
+        <div class="cell">unclear, study only states that the patients _first presented_ between 1987 and 2006, but not when HRT or any SRS was performed</td>
+        <div class="cell">no reported regrets, all patients who did would undergo SRS again, some where also satisifed with HRT only</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Weyers et al. (2009)](https://doi.org/10.1111/j.1743-6109.2008.01082.x)</td>
+        <div class="cell">Belgian clinical sample of 50 trans women</td>
+        <div class="cell">long-term physical, mental, and sexual health among trans women, used questionnaires (only after)</td>
+        <div class="cell">6 months after bottom surgery</td>
+        <div class="cell">high satisfaction with self-image, good physical and mental health, but some issues with sexual functioning related to surgical outcomes; 96% never regretted the surgery, 4% (2 women) sometimes </td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Ainsworth &amp; Spiegel (2010)](https://doi.org/10.1007/s11136-010-9668-7)</td>
+        <div class="cell">internet recruitment, 247 trans women</td>
+        <div class="cell">psychological effects of FFS and bottoms surgery, used interviews</td>
+        <div class="cell">not recorded; trans women with or without certain SRS were compared to each other</td>
+        <div class="cell">FFS and SRS associated with better quality of life</td>
+        <div class="cell">non-clinical sample</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Johansson et al. (2010)](https://doi.org/10.1007/s10508-009-9551-1)</td>
+        <div class="cell">Swedish clinical sample of 25 trans women and 17 trans men</td>
+        <div class="cell">long-term follow up after SRS regarding gender dysphoria, satisfaction, social functioning, work, relationships, and sexuality; used semi-structured interviews before &amp; after</td>
+        <div class="cell">at least 5 years after being approved for medical transition and (if already pursued) at least 2 years after SRS; median of 7,8 years between SRS and follow-up for trans women and 7,4 years for trans men (see table 1 in the paper)</td>
+        <div class="cell">clinicians rated overall outcomes as favourable in 62% of the cases, patients themselves in 95% of the cases; 86% were judged as stable or  improved in their overall functioning by clinicians; only 5-15% of patients were dissatisfied with some aspect (general health, surgical outcomes, etc.), but nobody regretted medical transition in itself; general health also improved for slightly more than the majority, for 16,1% (which tended to include older patients) it worsened, for the rest it remained the same, of which half meant that it remained on a good level</td>
+        <div class="cell">drop-outs had lower global functioning scores at initial contact with the clinic and 88,9% of them had completed SRS</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Parola et al. (2010)](https://doi.org/10.1016/j.sexol.2009.05.004)</td>
+        <div class="cell">French clinical sample of 15 trans men and 15 trans women</td>
+        <div class="cell">impact of SRS and HRT on quality of life and possible predictors for outcomes such as personality traits, used questionnaires &amp; semi-structured interviews</td>
+        <div class="cell">at least 2 years after SRS</td>
+        <div class="cell">everyone was satisfied with their medical transition, no regrets; quality of life improved for almost everyone both in social and sexual aspects</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Colton-Meier et al. (2011)](https://doi.org/10.1080/19359705.2011.581195)</td>
+        <div class="cell">internet recruitment through ftm forums, mostly U.S. Americans, 369 trans men</td>
+        <div class="cell">psychological effects of HRT, used survey</td>
+        <div class="cell">not recorded; trans men with or without HRT were compared to each other</td>
+        <div class="cell">HRT associated with better mental health &amp; health-related quality of life</td>
+        <div class="cell">non-clinical sample, data collection over 3 months in 2008</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Pimenoff &amp; Pfäfflin (2011)](https://doi.org/10.1080/15532739.2011.618399)</td>
+        <div class="cell">Finnish clinical sample of 15 trans women and 17 trans men who completed medical and legal transition to the full extent that it's possible between 1970 and 2002</td>
+        <div class="cell">treatment outcome of compliant and noncompliant patients undergoing medical transition, used questionnaires</td>
+        <div class="cell">median of 5 years after bottom surgery and 8,5 years after legal transition</td>
+        <div class="cell">significant improvement of both social and psychological adjustment after transition, regardless of compliance</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Rotondi et al. (2011)](doi.org/10.7870/cjcmh-2011-0021) **</td>
+        <div class="cell">Canadian sample of 205 trans men recruited through the internet, organizations, venues, etc.</td>
+        <div class="cell">prevelance and factors associated with depression in trans men, used surveys</td>
+        <div class="cell">not recorded; trans men with or without treatment were compared to each other</td>
+        <div class="cell">depression was associated with (among other things) not taking HRT and planning to medically transition but not currently transitioning; less depression was associated with having medically transitioned and having had surgery before 2008 (which was defined as not recent)</td>
+        <div class="cell">non-clinical sample </td>
+    </div>
+    <div class="row">
+        <div class="cell">[Gomez-Gil et al. (2012)](https://doi.org/10.1016/j.psyneuen.2011.08.010)</td>
+        <div class="cell">Spanish clinical sample of 113 trans women and 74 trans men</td>
+        <div class="cell">social distress, anxiety, and depression in trans people and effects of HRT and SRS, used questionnaires</td>
+        <div class="cell">not recorded; trans people with and without treatment were compared to each other</td>
+        <div class="cell">both SRS and HRT significantly correlated with reduced depression, anxiety, and social distress</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Gorin-Lazard et al. (2012)](https://doi.org/10.1111/j.1743-6109.2011.02564.x)</td>
+        <div class="cell">French clinical sample of 30 trans men and 31 trans women</td>
+        <div class="cell">impact of HRT on quality of life, used questionnaires</td>
+        <div class="cell">12-42 months (1-3,5 years) of HRT, median of 20 months (1,67 years); trans people on HRT were compared to those who are not</td>
+        <div class="cell">HRT is _independently_ linked to a higher quality of life</td>
+        <div class="cell">excluded people with psychiatric comorbities right away</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Budge et al. (2013)](https://doi.org/10.1177/0011000011432753)</td>
+        <div class="cell">America, recruited through support groups, 13 trans women, 2 trans men, 2 genderqueer people, 1 male crossdresser</td>
+        <div class="cell">coping mechanisms &amp; emotions during various stages of transition (in general), used qualitative interviews</td>
+        <div class="cell">not recorded; interviews span over whole transition but are conducted at 1 point in time</td>
+        <div class="cell">"affirmative emotional experiences" commonly associated with HRT (16 participants went on HRT)</td>
+        <div class="cell">non-clinical sample, qualitative rather than quantitative, unusually diverse sample in terms of sexual orientation</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Colizzi et al. (2013)](https://doi.org/10.1111/jsm.12155)</td>
+        <div class="cell">Italian clinical sample of 45 trans women and 25 trans men</td>
+        <div class="cell">effects of HRT on stress, attachment style, and cortisol awakening response (CAR), used questionnaires &amp; blood tests</td>
+        <div class="cell">recorded before and 12 months into HRT</td>
+        <div class="cell">12 months HRT decreased CAR levels and perceived stress regardless of attachment style</td>
+        <div class="cell">excluded intersex people and people with psychiatric pathologies right away</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Costatino et al. (2013)](https://doi.org/10.1080/0092623X.2012.736920)</td>
+        <div class="cell">Italian clinical sample of 50 trans men</td>
+        <div class="cell">impact of HRT on mood and sexual function, used questionnaires</td>
+        <div class="cell">data collected before HRT, 12 months into HRT, and at least 6 months after SRS (no bottom surgery, only top surgery and removal of reproductive organs)</td>
+        <div class="cell">HRT improved sexual function and SRS reduced aggressiveness, but also reduced sexual function again (which might be because SRS did not include bottom surgery and disappointed some, or because not everyone was done recovering from SRS when filling out the questionnaire yet); more positive mood changes occured but were not statistically significant (see table 3); insomnia and sweating increased with HRT</td>
+        <div class="cell">excluded intersex people, drug addicts, and people with psychiatric comorbidities right away</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Gorin-Lazard et al.(2013)](https://doi.org/10.1097/NMD.0000000000000046)</td>
+        <div class="cell">French clinical sample of 36 trans women and 31 trans men</td>
+        <div class="cell">influence of HRT on self-esteem, mood, and quality of life; used questionnaires</td>
+        <div class="cell">not recorded(?); trans people with or without treatment were compared to each other</td>
+        <div class="cell">HRT independently associated with less depression, greater self-esteem and better psychological well-being</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Weigert et al. (2013)](https://doi.org/10.1097/01.prs.0000434415.70711.49)</td>
+        <div class="cell">French clinical sample of 35 trans women</td>
+        <div class="cell">influence of breast augmentation on sexual, psychosocial and physical well-being; used questionnaires</td>
+        <div class="cell">data collected 3 weeks before breast augmentation, 4 months after surgery, and 21 patients completed the questionnaire again 12-39,6 months (1-3,3 years; median of 20,7 months/1,7 years) after surgery; breast augmentation was performed with a median of 16 months after bottom surgery, which itself was preceeded by HRT</td>
+        <div class="cell">significant improvement in all measured areas after surgery</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Bailey et al. (2014)](https://doi.org/10.1108/MHRJ-05-2014-0015)</td>
+        <div class="cell">UK, internet recruitment, 889 people of which 778 desired or underwent medical transition to some degree</td>
+        <div class="cell">effects of various factors on suicidal ideation &amp; suicide attempts, used questionnaire</td>
+        <div class="cell">not recorded; trans people with or without treatment were compared to each other</td>
+        <div class="cell">suicidality associated (among others) with denial of desired medical treatments</td>
+        <div class="cell">non-clinical sample</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Boza &amp; Nicholson (2014)](https://doi.org/10.1080/15532739.2014.890558)</td>
+        <div class="cell">Australia; recruitment via internet, support groups, snowballing; 83 trans men and 160 trans women</td>
+        <div class="cell">effects of various factors on mental health, used questionnaires</td>
+        <div class="cell">not recorded; trans people with or without treatment were compared to each other</td>
+        <div class="cell">SRS associated with less depression</td>
+        <div class="cell">non-clinical sample</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Colizzi et al. (2014)](https://doi.org/10.1016/j.psyneuen.2013.09.029)</td>
+        <div class="cell">Italian clinical sample, 78 trans women and 29 trans men</td>
+        <div class="cell">impacts of HRT on psychiatric distress and functional impairment, used questionnaires</td>
+        <div class="cell">recorded before and 12 months into HRT</td>
+        <div class="cell">12 months HRT approx. halved prevelance of all bad measures across sample</td>
+        <div class="cell">intersex people and people with unstable psychiatric comorbidities excluded right away</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Davis &amp; Meier (2014)](https://doi.org/10.1080/19317611.2013.833152)</td>
+        <div class="cell">American sample of 208 transmasculine people (including trans men, genderqueer, and genderfluid people); recruitment through internet and local communities</td>
+        <div class="cell">impacts of HRT and top surgery, used survey</td>
+        <div class="cell">use of HRT ranged from either no us or between 1 week &amp; 35 years (median of 3,62 years) for those who do use it; time since top surgery (if performed) not recorded; study compared people with and without treatment to each other</td>
+        <div class="cell">reduction in anxiety, depression, anger and an increase in body satisfaction associated with with HRT and top surgery</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Dhejne et al. (2014)](https://doi.org/10.1007/s10508-014-0300-8)</td>
+        <div class="cell">All Swedish citizens who applied for SRS and legal name change from 1972 to 2010 (252 trans men and 478 trans women)</td>
+        <div class="cell">prevelance of transition and regret in the population, used retrospective study of official data</td>
+        <div class="cell">time from first legal gender change to regret application had a median of 75-137 months (6,25-11,4 years) or 90 months (7,5 years) for trans men, 22-177 months (1,83-14,75 years) or 102 months (8,5 years) for trans women</td>
+        <div class="cell">regret rate of 2,2% for both genders and an additional 1,2% (across both binary genders) who have withdrawn their application themselves; regret rate decreased a lot over time from 27% in 1960-1971 down to 2,4% in the 1991-2000 time period and 0,3% in 2001-2010 (although there may be some cases of regret in the last group who have no yet applied, as the median time from first legal sex change to regret application is 7-8 years)</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Fisher et al. (2014)](https://doi.org/10.1111/jsm.12413)</td>
+        <div class="cell">Italian clinical sample of 66 trans women and 59 trans men</td>
+        <div class="cell">impacts of HRT without any SRS on body uneasiness in trans people, used questionnaires</td>
+        <div class="cell">either no HRT, or 45-10845 days (1,5 months to 30,125 years) [median of 430 days (~14 months)] for trans women and 33-1021 days (33 days to 2,8 years) [median of 799 days (~2,2 years)] for trans men; compared trans people with treatment to those without</td>
+        <div class="cell">HRT duration and higher dosage independently correlated with decreased body uneasiness for trans women, but not for trans men, although the authors write that the latter might be for example due to HRT not significantly reducing chest size in trans men (which can be a major source of body uneasiness for them)</td>
+        <div class="cell">excluded people who were intersex, had changes in HRT treatment before the study, had internalized homophobia, mental retardation or transvestite fetishism</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Gomez-Gil et al. (2014)](https://doi.org/10.1007/s11136-013-0497-3)</td>
+        <div class="cell">Spanish clinical sample of 119 trans women and 74 trans men</td>
+        <div class="cell">factors associated with better quality of life in trans people before bottom surgery, used questionnaires</td>
+        <div class="cell">not recorded; trans people with and without treatment were compared to each other</td>
+        <div class="cell">better quality of life associated with (among other factors) being on HRT</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Hess et al. (2014)](http://doi.org/10.3238/arztebl.2014.0795)</td>
+        <div class="cell">German clinical sample of 254 trans women</td>
+        <div class="cell">long-term satisfaction with SRS, used questionnaires</td>
+        <div class="cell">1-7 years after SRS; median of 5,05 years</td>
+        <div class="cell">87,4% were satisfied or very satisfied with their outward appearance as women; 72% were satisfied or very satisfied with the functional outcome; 1 full detransitioner (sees himself as male) (1%), 3 peple who see themselves as "more male than female" (2,9%)</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Heylens et al. (2014)](https://doi.org/10.1111/jsm.12363)</td>
+        <div class="cell">Belgian clinical sample of 46 trans women and 11 trans men</td>
+        <div class="cell">effects of various steps in medical transition on psychopathology, used questionnaires</td>
+        <div class="cell">questionnaires were filled out before treatment, 3-6 months into HRT, and 1-12 months after SRS</td>
+        <div class="cell">medical transition leads to a significant reduction of psychopathology in areas such as depression, anxiety, somatization, psychoticism, interpersonal sensitivity, hostility, and overall psychoneurotic distress</td>
+        <div class="cell">one person commited suicide during follow-up</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Manieri et al. (2014)](https://doi.org/10.1080/15532739.2014.899174)</td>
+        <div class="cell">Italian clinical sample of 56 trans women and 27 trans men</td>
+        <div class="cell">impacts of HRT in the first year on quality of life</td>
+        <div class="cell">evaluations every 3 months; questionnaires on quality of life filled in before and 1 year into treatment</td>
+        <div class="cell">HRT improves quality of life and seems to be free of major risks in healthy individuals under clinical supervision in the first year</td>
+        <div class="cell">excluded intersex people and people with severe psychopathology right away</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Castellano et al. (2015)](https://doi.org/10.1007/s40618-015-0398-0)</td>
+        <div class="cell">Italy, recruitment through local ads, 46 trans women and 14 trans men, local cis control group</td>
+        <div class="cell">psychological &amp; sexual affects of bottom surgery</td>
+        <div class="cell">at least 2 years and up to 33 years after SRS</td>
+        <div class="cell">trans sample scored similarly to cis controls in quality of life and body image; trans men slightly worse in sexual life subscale than cis men</td>
+        <div class="cell">non-clinical sample</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Keo-Meier et al. (2015)](http://dx.doi.org/10.1037/a0037599)</td>
+        <div class="cell">American sample of 48 trans men and male (53) &amp; female (62) cis controls</td>
+        <div class="cell">changes in psychological function from before and during HRT in trans men, used questionnaires</td>
+        <div class="cell">before and 3 months into HRT</td>
+        <div class="cell">3 months of HRT led to decreased psychopathology and betterment in psychological functioning on multiple domains</td>
+        <div class="cell">non-clinical sample</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Ruppin &amp; Pfäfflin (2015)](https://doi.org/10.1007/s10508-014-0453-5)</td>
+        <div class="cell">Germany, 35 trans women and 36 trans men</td>
+        <div class="cell">various quality of life factors (employment, subjective life satisfaction, integration,...) after medical transition to some degree (almost all took HRT and had at least one SRS), used standardized questionnaires and qualitative interviews</td>
+        <div class="cell">tested upon first contact with clinic and 10-24 (mean 13,8) years after legal name &amp; gender marker change***</td>
+        <div class="cell">high life satisfaction, employment, good social integration, gender dysphoria remained reduced, other psychological problems decreased too</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[Bar et al. (2016)](dx.doi.org/10.1177/0008417416635346)</td>
+        <div class="cell">Israel, internet and local recruitment, snowballing; 22 trans women (all medically transitioning) and 22 cis women</td>
+        <div class="cell">changes of occupational well-being over time, used questionnaires</td>
+        <div class="cell">not recorded; compared trans women to cis controls</td>
+        <div class="cell">occupational well-being improved for both groups, but steeper for trans women who started out lower on the scale with the gap reducing over time; probably due to them advancing in their medical transition and experiencing positive effects from it</td>
+        <div class="cell">non-clinical sample, only indirect investigation of effects of medical transition</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Bouman et al. (2016)](http://dx.doi.org/10.1016/j.jsxm.2016.01.009)</td>
+        <div class="cell">UK clinical sample, 71 trans women over the age of 50</td>
+        <div class="cell">psychopathology and clinical measures, use of HRT prior to clinic referral (about half of the used sample did so), used questionnaires</td>
+        <div class="cell">not recorded; trans women were compared to each other</td>
+        <div class="cell">use of HRT prior to referral associated with less anxiety, but not less depression</td>
+        <div class="cell">purposefully uses an older than usual sample</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Cardoso da Silva et al. (2016)](https://doi.org/10.1016/j.jsxm.2016.03.370)</td>
+        <div class="cell">Brazillian clinical sample, 47 trans women</td>
+        <div class="cell">psychological and social functioning, physical health, level of independence after HRT and bottom surgery, used questionnaires</td>
+        <div class="cell">tested prior to treatment and at least 1 year after bottom surgery</td>
+        <div class="cell">significant improvement of psychological and social functioning, but significant worsening of physical health and level of independence; although this can easily be justified with having to recover after bottom surgery according to the authors; those who had more recent revisions (further interventions to correct complications) had worse (but still good) outcomes than those who did not</td>
+        <div class="cell">people with psychotic disorders, mental retardation or substance addictions were excluded; most had to get some revision (further intervention for correction of complications) after SRS</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Glynn et al. (2016)](doi.org/10.1037/sgd0000171)</td>
+        <div class="cell">American sample of 573 trans women with a history of sex work</td>
+        <div class="cell">role of gender-affirmation on psychological well-being of trans women, used self-report</td>
+        <div class="cell">none; used a 1-time self-report, trans women were compared to each other</td>
+        <div class="cell">gender affirmation (including medical) associated with less depression and higher self-esteem, although no domains of gender affirmation (social, psychological nor mental) were associated significantly with suicidal ideation</td>
+        <div class="cell">non-clinical sample</td>
+    </div>
+    <div class="row">
+        <div class="cell">[Padula et al. (2015)](https://doi.org/10.1007/s11606-015-3529-6)</td>
+        <div class="cell">extracted model parameters from [National Transgender Discrimination Survey (NTDS) (2011)](https://www.thetaskforce.org/wp-content/uploads/2019/07/ntds_full.pdf) ([archive](https://web.archive.org/web/20210429072230/https://www.thetaskforce.org/wp-content/uploads/2019/07/ntds_full.pdf)) of adults, which had 6436 US-American respondents</td>
+        <div class="cell">cost-effectiveness of insurance coverage for medically-necessary trans-related services (e.g. medical transition); used Markov model</td>
+        <div class="cell">5-10 year time horizons from US societal perspective </td>
+        <div class="cell">provider coverage of trans-related care was cost-effective (i. e. reduced more costs on treating HIV, depression, drug abuse, etc. that would come from being denied coverage than it costs to cover expenses) in 85% of simulations; budget impact for individual members is 0,016$ per month (I'm using the comma the way US-Americans use the dot because I'm European)</td>
+        <div class="cell"></td>
+    </div>
+    <div class="row">
+        <div class="cell">[van de Grift et al. (2017a)](doi.org/10.1097/PSY.0000000000000465)</td>
+        <div class="cell">European (Dutch, German, Belgian, Norwegian) clinical sample of 135 transfeminine and 66 transmasculine people</td>
+        <div class="cell">effects of medical transition on gender dysphoria and body image, used questionnaires</td>
+        <div class="cell">tested at admission and 4-6 years after first visit in the gender clinic; participants were at various stages at follow-up (no treatment, HRT only, or HRT and SRS)</td>
+        <div class="cell">gender dysphoria decreased in all participants at follow-up, but much more so in those participants who had received both HRT and SRS, whose gender dysphoria levels were now comparable to cis people; body image improved both regarding transition-responsive areas (i. e. body parts/traits that can be changed) and those that are not responsive; </td>
+        <div class="cell">due to an error only the gender dysphoria of those who had socially transitioned (9 people) was assessed in this group, and they generally showed lower scores of gender dysphoria than those who did eventually get medical treatment; only 7 of the 29 were confirmed to fulfill the diagnostic criteria; of those who socially transitioned, 2 detransitioned; 9 said they do not plan to re-apply for medical treatment in the future, 8 were unsure, 6 were going to;</td>
+    </div>
+    <div class="row">
+        <div class="cell">[van de Grift et al. (2017b)](https://doi.org/10.1080/0092623X.2017.1326190)</td>
+        <div class="cell">same sample as above but only the 136 people who received both HRT and SRS (81 trans women, 51 trans men, 4 missing data)</td>
+        <div class="cell">satisfaction and quality of life after SRS, used questionnaires</td>
+        <div class="cell">tested at admission and 4-6 years after first visit in the gender clinic; </td>
+        <div class="cell">satisfaction with SRS was 94% to 100% (depending on procedure), quality of life increased after SRS; nobody reported major regret; 6% (9 people) reported dissatisfaction or minor regret about a SRS they underwent, for 8 of whom it is tied to complications rather than realizing they're not trans and 1 trans woman did not specify her reason for dissatisfaction; no significant differences of gender dysphoria levels in trans people after HRT and SRS compared to cis controls</td>
+        <div class="cell">missing data for 2,9% of participants who had HRT and SRS</td>
+    </div>
+</div>
 
 </section>
 
