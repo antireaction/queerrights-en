@@ -63,7 +63,8 @@ Studies which showed improvement: (‣ = click to open)
 <details>
 
 	<summary markdown="1"> ‣ **Pfäfflin (1993)** seperate because it's so much 
-	</summary>
+
+</summary>
 
 <section markdown="1">
 
