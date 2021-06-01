@@ -851,12 +851,12 @@ Who mutilation in the form of sex re-assignment does happen to, however, are cer
 An example of this is the [Arksansas House Bill 1570](https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FBills%2F2021R%2FPublic%2FHB1570.pdf) ([archive link](https://web.archive.org/web/20210513182601/https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FBills%2F2021R%2FPublic%2FHB1570.pdf)), also ironically called "Save Adolescents from Experimentation Act" (SAFE Act), which bans all gender-affirming medical care to trans youth as being dangerous and experimental (which it isn't), but _explicitly_ allows practitioners to re-assign intersex minors (even when their life is not endangered by being intersex). From pages 6 and 7 of the bill:
 
 > "[...] (B)  “Gender transition procedures” do not include:
-> 
-> 	(i)  Services to persons born with a medically verifiable disorder of sex development [=intersex traits] [...]
 
-> 	(ii)  Services provided when a physician has otherwise diagnosed a disorder of sexual development that the physician has determined through genetic or biochemical testing that the person does not have normal sex chromosome structure, sex steroid hormone production, or sex steroid hormone action; [...]
+> (i)  Services to persons born with a medically verifiable disorder of sex development [=intersex traits] [...]
 
-> 	(iv)  Any procedure undertaken because the individual suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the individual in imminent danger of death or impairment of major bodily function unless surgery is performed;
+> (ii)  Services provided when a physician has otherwise diagnosed a disorder of sexual development that the physician has determined through genetic or biochemical testing that the person does not have normal sex chromosome structure, sex steroid hormone production, or sex steroid hormone action; [...]
+
+> (iv)  Any procedure undertaken because the individual suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the individual in imminent danger of death or impairment of major bodily function unless surgery is performed;
 
 Point (iv) makes clear that point (i) and (ii) serve to allow intersex re-assignment _even when leaving things as they are doesn't place them in imminent danger_, because those cases where they do pose a danger are already included in point (iv). Therefore point (i) and (ii) would be redundant if they _only_ referred to intersex children whose health is in danger without intervention.
 
