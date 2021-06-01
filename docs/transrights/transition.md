@@ -23,17 +23,17 @@ parent: Trans Rights!
 ## Medical transition
 
 Medical transition is the act of voluntarily changing one's sex characteristics with hormones and/or sex-reassignment surgeries (SRS) with the aim to feel more at ease/congruent with one's body. This can, but doesn't have to (and usually doesn't fully) include:
-	- administration of HRT ([cross-sex] hormone replacement therapy), hormone blockers
-		- HRT causes the start of either estrogenic (typically female) or androgenic (typically male) puberty, although permanent changes from previous puberty/puberties (if occured), such as facial and body hair growth or skeletal changes, cannot be undone with hormones alone. [partly reversible changes, partly irreversible ones]
-		- Hormone blockers stop the effects of endogenous hormones (those that the body produces by itself), but only for as long as they continue to be taken. [reversible, but can cause allergic reactions or minor side effects like all medication]
-	- top surgery (double mastectomy or breast augmentation) [irreversible]
-	- bottom surgery (genital surgeries, removal of reproductive organs) [irreversible]
-		- phalloplasty (different methods and sizes possible), metoidioplasty, urethral lengthening, scrotoplasty, vaginectomy, hysterectomy, oophorectomy (also called ovariectomy)
-		- vaginoplasty (different methods and depths possible), labiaplasty, clitoroplasty, penectomy, orchiectomy
-	- other surgeries [irreversible]
-		- facial feminization (FFS) or masculinization surgery (FMS)
-		- permanent facial and/or body hair removal or facial hair transplant(s)
-		- voice feminization or masculinization surgery, removal of Adam's apple (tracheal shave)
+- administration of HRT ([cross-sex] hormone replacement therapy), hormone blockers
+	- HRT causes the start of either estrogenic (typically female) or androgenic (typically male) puberty, although permanent changes from previous puberty/puberties (if occured), such as facial and body hair growth or skeletal changes, cannot be undone with hormones alone. [partly reversible changes, partly irreversible ones]
+	- Hormone blockers stop the effects of endogenous hormones (those that the body produces by itself), but only for as long as they continue to be taken. [reversible, but can cause allergic reactions or minor side effects like all medication]
+- top surgery (double mastectomy or breast augmentation) [irreversible]
+- bottom surgery (genital surgeries, removal of reproductive organs) [irreversible]
+	- phalloplasty (different methods and sizes possible), metoidioplasty, urethral lengthening, scrotoplasty, vaginectomy, hysterectomy, oophorectomy (also called ovariectomy)
+	- vaginoplasty (different methods and depths possible), labiaplasty, clitoroplasty, penectomy, orchiectomy
+- other surgeries [irreversible]
+	- facial feminization (FFS) or masculinization surgery (FMS)	
+	- permanent facial and/or body hair removal or facial hair transplant(s)
+	- voice feminization or masculinization surgery, removal of Adam's apple (tracheal shave)
 
 Medical transition currently cannot change most skeletal structures (except some facial), replace reproductive organs, change endogenous hormone profiles, nor sex chromosomes. But it can change the phenotype far enough for transitioned people to be perceived as the other sex in most contexts, if desired.
 
@@ -63,30 +63,29 @@ Studies which showed improvement: (‣ = click to open)
 <details>
 
 	<summary markdown="1"> ‣ **Pfäfflin (1993)** seperate because it's so much 
-	</summary> 
+	</summary>
 
-	<section markdown="1">
+<section markdown="1">
 
-	[Pfäfflin (1993)](https://doi.org/10.1300/J056v05n04_05): **(Long term)** This is a pooling together of (a) studies and reviews about well-being and regrets after HRT and/or SRS ranging from 1961 to 1991 (30 years), from various countries (most from the U.S., followed by European countries) and (b) a clinical sample of people who Friedemann Pfäfflin treated himself (in Germany) since 1978 for variously long periods and with different regularity.
-	- **Sample:** (a) 74 follow-up studies and 9 reviews with approximately 1000 to 1600 trans women and 400 to 550 trans men participating (exact estimates impossible due to sometimes overlapping samples); (b) 196 trans women and 99 trans men
-
-	- **Results:** 
-		- (a) Across all studies and reviews, 4 trans men and 14 trans women genuinely regretted medical transition (including SRS) [regret rate of <1% for trans men and 1-1,5% for trans women]
-			- Of the 4 regretful trans men, 1 only regretted evading regulations and getting the phalloplasty done outside the gender clinic, which brought complications, but he did not regret having transitioned overall and lived alternating between male and female; 2 were confirmed to have detransitioned socially and 1 case expressed regret about one surgery, but it's not known whether they detransitioned socially.
-			- Additionally, 1 trans woman commited suicide during HRT (before SRS), 1 underwent religious conversion (on HRT but before SRS), 1 considered living as male again (but it is not reported whether they did), 2 occasionally went back to living as male, 1 of whom only did so to not loose claim to inheretance.
-			- Regret was associated with bad surgical outcomes, not undergoing any real life test, and/or no proper differential diagnosis; 
-		- (b) No reported regrets among trans men and 3 reported regrets among trans women [1,53%] 2-6 years after bottom surgery.
+[Pfäfflin (1993)](https://doi.org/10.1300/J056v05n04_05): **(Long term)** This is a pooling together of (a) studies and reviews about well-being and regrets after HRT and/or SRS ranging from 1961 to 1991 (30 years), from various countries (most from the U.S., followed by European countries) and (b) a clinical sample of people who Friedemann Pfäfflin treated himself (in Germany) since 1978 for variously long periods and with different regularity.
+- **Sample:** (a) 74 follow-up studies and 9 reviews with approximately 1000 to 1600 trans women and 400 to 550 trans men participating (exact estimates impossible due to sometimes overlapping samples); (b) 196 trans women and 99 trans men
+- **Results:** 
+	- (a) Across all studies and reviews, 4 trans men and 14 trans women genuinely regretted medical transition (including SRS) [regret rate of <1% for trans men and 1-1,5% for trans women]
+		- Of the 4 regretful trans men, 1 only regretted evading regulations and getting the phalloplasty done outside the gender clinic, which brought complications, but he did not regret having transitioned overall and lived alternating between male and female; 2 were confirmed to have detransitioned socially and 1 case expressed regret about one surgery, but it's not known whether they detransitioned socially.
+		- Additionally, 1 trans woman commited suicide during HRT (before SRS), 1 underwent religious conversion (on HRT but before SRS), 1 considered living as male again (but it is not reported whether they did), 2 occasionally went back to living as male, 1 of whom only did so to not loose claim to inheretance.
+		- Regret was associated with bad surgical outcomes, not undergoing any real life test, and/or no proper differential diagnosis; 
+	- (b) No reported regrets among trans men and 3 reported regrets among trans women [1,53%] 2-6 years after bottom surgery.
 		- The author concludes that overall, trans people who wished to undergo SRS did not regret doing so when they did. 
-	- **Flaws:** Only clinical samples, old data
+- **Flaws:** Only clinical samples, old data
+			
+			</section>
 
-	</section>
-
-</details> 
+			</details>
 
 <details>
-
-	<summary markdown="1"> ‣ **All the others** (gigantic table warning) 
-	</summary> 
+	
+<summary markdown="1"> ‣ **All the others** (gigantic table warning) 
+			</summary>
 
 	<section markdown="1">
 
