@@ -93,7 +93,7 @@ Studies which showed improvement: (‣ = click to open)
 
 <section markdown="1">
 
-| **study** | **sample(s)** | **tested** | **follow-up time or time since last treatment** | **results** | **notes** |
+| **study** | **sample(s)** | **tested** | **follow-up time or time since last treatment** &nbsp &nbsp | **results** &nbsp &nbsp &nbsp &nbsp &nbsp | **notes** &nbsp |
 |---|---|---|---|---|---|
 | [Bodlun & Kullgren (1996)](https://doi.org/10.1007/BF02438167) | Swedish clinical sample of 10 trans women and 9 trans men, "core transsexuals" | changes in well-being from medical transition (in general) over 5 year period, used questionnaires | 5 years, transition stages differed between participants and some have still not medically transitioned to the extent that they wish by the end of the 5 year period | 13 improved, 3 stable, 2 unsatisifed, 1 unsatisifed & detranstioned |  |
 | [Rakic et al. (1996)](https://doi.org/10.1007/BF02437545) | Yugoslavian clinical sample of 22 trans women and 10 trans men | body image, social life, sexual life, occupational functioning before and after bottom surgery, used questionnaire | 6 months to 4 years, median of 18 months | no regrets, 87%  had improved body image, better social, sexual and ccupational life | straght trans people only (to not provoke someone?) |
@@ -507,11 +507,11 @@ An example of this is the [Arksansas House Bill 1570](https://www.arkleg.state.a
 
 > "[...] (B)  “Gender transition procedures” do not include:
 > 
-> 		(i)  Services to persons born with a medically verifiable disorder of sex development [=intersex traits] [...]
+> 	(i)  Services to persons born with a medically verifiable disorder of sex development [=intersex traits] [...]
 
-> 		(ii)  Services provided when a physician has otherwise diagnosed a disorder of sexual development that the physician has determined through genetic or biochemical testing that the person does not have normal sex chromosome structure, sex steroid hormone production, or sex steroid hormone action; [...]
+> 	(ii)  Services provided when a physician has otherwise diagnosed a disorder of sexual development that the physician has determined through genetic or biochemical testing that the person does not have normal sex chromosome structure, sex steroid hormone production, or sex steroid hormone action; [...]
 
-> 		(iv)  Any procedure undertaken because the individual suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the individual in imminent danger of death or impairment of major bodily function unless surgery is performed;
+> 	(iv)  Any procedure undertaken because the individual suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the individual in imminent danger of death or impairment of major bodily function unless surgery is performed;
 
 Point (iv) makes clear that point (i) and (ii) serve to allow intersex re-assignment _even when leaving things as they are doesn't place them in imminent danger_, because those cases where they do pose a danger are already included in point (iv). Therefore point (i) and (ii) would be redundant if they _only_ referred to intersex children whose health is in danger without intervention.
 
