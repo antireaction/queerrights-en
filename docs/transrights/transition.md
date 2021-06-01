@@ -62,13 +62,14 @@ Studies which showed improvement: (‣ = click to open)
 
 <details>
 
-	<summary markdown="1"> ‣ **Pfäfflin (1993)** seperate because it's so much 
+	<summary markdown="1"> ‣ **[Pfäfflin (1993)](https://doi.org/10.1300/J056v05n04_05)** seperate because it's so much 
 
 </summary>
 
 <section markdown="1">
 
-[Pfäfflin (1993)](https://doi.org/10.1300/J056v05n04_05): **(Long term)** This is a pooling together of (a) studies and reviews about well-being and regrets after HRT and/or SRS ranging from 1961 to 1991 (30 years), from various countries (most from the U.S., followed by European countries) and (b) a clinical sample of people who Friedemann Pfäfflin treated himself (in Germany) since 1978 for variously long periods and with different regularity.
+This is a pooling together of (a) studies and reviews about well-being and regrets after HRT and/or SRS ranging from 1961 to 1991 (30 years), from various countries (most from the U.S., followed by European countries) and (b) a clinical sample of people who Friedemann Pfäfflin treated himself (in Germany) since 1978 for variously long periods and with different regularity.
+
 - **Sample:** (a) 74 follow-up studies and 9 reviews with approximately 1000 to 1600 trans women and 400 to 550 trans men participating (exact estimates impossible due to sometimes overlapping samples); (b) 196 trans women and 99 trans men
 - **Results:** 
 	- (a) Across all studies and reviews, 4 trans men and 14 trans women genuinely regretted medical transition (including SRS) [regret rate of <1% for trans men and 1-1,5% for trans women]
@@ -76,7 +77,7 @@ Studies which showed improvement: (‣ = click to open)
 		- Additionally, 1 trans woman commited suicide during HRT (before SRS), 1 underwent religious conversion (on HRT but before SRS), 1 considered living as male again (but it is not reported whether they did), 2 occasionally went back to living as male, 1 of whom only did so to not loose claim to inheretance.
 		- Regret was associated with bad surgical outcomes, not undergoing any real life test, and/or no proper differential diagnosis; 
 	- (b) No reported regrets among trans men and 3 reported regrets among trans women [1,53%] 2-6 years after bottom surgery.
-		- The author concludes that overall, trans people who wished to undergo SRS did not regret doing so when they did. 
+	- The author concludes that overall, trans people who wished to undergo SRS did not regret doing so when they did. 
 - **Flaws:** Only clinical samples, old data
 			
 </section>
@@ -91,16 +92,16 @@ Studies which showed improvement: (‣ = click to open)
 
 </summary>
 
-<section>
-		
-<table>
+<section markdown="1">
+
+<table style="width: 100%">
     <tr>
-        <td>study</td>
-        <td>sample(s)</td>
-        <td>tested</td>
-        <td>follow-up time or time since last treatment</td>
-        <td>results</td>
-        <td>notes</td>
+        <td span="1" style="width: 5%">study</td>
+        <td span="1" style="width: 10%"">sample(s)</td>
+        <td span="1" style="width: 20%>tested</td>
+        <td span="1" style="width: 20%>follow-up time or time since last treatment</td>
+        <td span="1" style="width: 30%>results</td>
+        <td span="1" style="width: 15%>notes</td>
     </tr>
     <tr>
         <td>[Bodlun &amp; Kullgren (1996)](https://doi.org/10.1007/BF02438167)</td>
@@ -488,7 +489,6 @@ Studies which showed improvement: (‣ = click to open)
     </tr>
 </table>
 
-
 </section>
 
 </details>
@@ -851,12 +851,12 @@ Who mutilation in the form of sex re-assignment does happen to, however, are cer
 An example of this is the [Arksansas House Bill 1570](https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FBills%2F2021R%2FPublic%2FHB1570.pdf) ([archive link](https://web.archive.org/web/20210513182601/https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FBills%2F2021R%2FPublic%2FHB1570.pdf)), also ironically called "Save Adolescents from Experimentation Act" (SAFE Act), which bans all gender-affirming medical care to trans youth as being dangerous and experimental (which it isn't), but _explicitly_ allows practitioners to re-assign intersex minors (even when their life is not endangered by being intersex). From pages 6 and 7 of the bill:
 
 > "[...] (B)  “Gender transition procedures” do not include:
+> 
+> 	(i)  Services to persons born with a medically verifiable disorder of sex development [=intersex traits] [...]
 
-> (i)  Services to persons born with a medically verifiable disorder of sex development [=intersex traits] [...]
+> 	(ii)  Services provided when a physician has otherwise diagnosed a disorder of sexual development that the physician has determined through genetic or biochemical testing that the person does not have normal sex chromosome structure, sex steroid hormone production, or sex steroid hormone action; [...]
 
-> (ii)  Services provided when a physician has otherwise diagnosed a disorder of sexual development that the physician has determined through genetic or biochemical testing that the person does not have normal sex chromosome structure, sex steroid hormone production, or sex steroid hormone action; [...]
-
-> (iv)  Any procedure undertaken because the individual suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the individual in imminent danger of death or impairment of major bodily function unless surgery is performed;
+> 	(iv)  Any procedure undertaken because the individual suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the individual in imminent danger of death or impairment of major bodily function unless surgery is performed;
 
 Point (iv) makes clear that point (i) and (ii) serve to allow intersex re-assignment _even when leaving things as they are doesn't place them in imminent danger_, because those cases where they do pose a danger are already included in point (iv). Therefore point (i) and (ii) would be redundant if they _only_ referred to intersex children whose health is in danger without intervention.
 
