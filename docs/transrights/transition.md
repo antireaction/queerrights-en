@@ -97,8 +97,8 @@ This is a pooling together of (a) studies and reviews about well-being and regre
     <tr>
         <td>study</td>
         <td>sample(s)</td>
-        <td>study design</td>
-        <td>results</td>
+        <td>study design &nbsp; &nbsp;</td>
+        <td>results &nbsp; &nbsp; &nbsp; &nbsp; </td>
         <td>notes</td>
     </tr>
     <tr>
