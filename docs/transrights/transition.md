@@ -84,7 +84,6 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 
 </details>
 
----
 
 <details>
 	
@@ -164,7 +163,7 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 
 <section markdown="1">
 
-	[Work in progress]
+[Work in progress]
 
 </section>
 
@@ -181,24 +180,24 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 ---
 
 **[De Vries et. al. (2014)](https://doi.org/10.1542/peds.2013-2958)**
-	- **Tested:** psychological effects of hormone blockers, HRT, and SRS (vaginoplasty for trans women or mastectomy with hysterectomy & oophorectomy for trans men) over 8 year period, starting from before the start of puberty blockers in the early stages of puberty until 1 year after SRS in young adulthood, using questionnaires
-	- **Sample:** 22 trans women and 33 trans men
-	- **Results:** 
-		- alleviation of gender dysphoria
-		- continual improvement of psychological functioning
-		- psychological functioning on par with or better than that of cisgender peer by young adulthood
-	- **Flaws:** small sample size
+- **Tested:** psychological effects of hormone blockers, HRT, and SRS (vaginoplasty for trans women or mastectomy with hysterectomy & oophorectomy for trans men) over 8 year period, starting from before the start of puberty blockers in the early stages of puberty until 1 year after SRS in young adulthood, using questionnaires
+- **Sample:** 22 trans women and 33 trans men
+- **Results:** 
+	- alleviation of gender dysphoria
+	- continual improvement of psychological functioning
+	- psychological functioning on par with or better than that of cisgender peer by young adulthood
+- **Flaws:** small sample size
 
 ---
 
 **[Nobili et al. (2018)](doi.org/10.1007/s11154-018-9459-y)**
-	- **Tested:** meta-analysis of peer-reviewed studies on quality of life published in English from 1946 until 2017
-	- **Sample:** 29 studies
-	- **Results:** Trans people generally had a lower quality of life than the general population, but mental healthy quality of life of trans people _post-treatment_ is on par with the general population.
-	- **Flaws:** 
-		- Studies need more "clearly defined transgender populations, divided by stage of gender affirming treatment and with appropriate matched control groups" to draw "firmer conclusions". 
-		- There is a moderate risk of bias (in the statistical sense), meaning some but not most or all criteria for assesing bias risks in descriptive studies were satisifed. Criteria included, among many others, sample size, randomization, and clear definition of the target population, which are all things factors that are difficult to satisfy with hidden and small populations such as trans people.
-	- **Note:** This meta-analysis looked at studies about _quality of life_, which is probably linked to but is not the same as alleviation of gender dysphoria.
+- **Tested:** meta-analysis of peer-reviewed studies on quality of life published in English from 1946 until 2017
+- **Sample:** 29 studies
+- **Results:** Trans people generally had a lower quality of life than the general population, but mental healthy quality of life of trans people _post-treatment_ is on par with the general population.
+- **Flaws:** 
+	- Studies need more "clearly defined transgender populations, divided by stage of gender affirming treatment and with appropriate matched control groups" to draw "firmer conclusions". 
+	- There is a moderate risk of bias (in the statistical sense), meaning some but not most or all criteria for assesing bias risks in descriptive studies were satisifed. Criteria included, among many others, sample size, randomization, and clear definition of the target population, which are all things factors that are difficult to satisfy with hidden and small populations such as trans people.
+- **Note:** This meta-analysis looked at studies about _quality of life_, which is probably linked to but is not the same as alleviation of gender dysphoria.
 
 ---
 
