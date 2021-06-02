@@ -95,9 +95,8 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 <colgroup>
 	<col width="10%" />
 	<col width="10%" />
-	<col width="20%" />
-	<col width="30%" />
-	<col width="30%" />
+	<col width="40%" />
+	<col width="40%" />
 </colgroup>
     <thead>
         <tr>
