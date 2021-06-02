@@ -95,7 +95,7 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 
 <table>
     <tr>
-        <td width="100px">study</td>
+        <td>study</td>
         <td>sample(s)</td>
         <td>study design</td>
         <td width="400px">results</td>
