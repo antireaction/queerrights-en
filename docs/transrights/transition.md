@@ -112,13 +112,17 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 </td>
 </tr>
 </thead>
-    	<tbody>
-        <tr>
-            <td markdown="1">[Bodlun &amp; Kullgren (1996)](https://doi.org/10.1007/BF02438167)</td>
-            <td>Swedish clinical sample of 10 trans women and 9 trans men, "core transsexuals"</td>
-            <td>questionnaires before and after a 5 year period (participants were at various stages in medical transition during both times), comparison of before &amp; after responses</td>
-            <td>13 improved, 3 stable, 2 unsatisifed, 1 unsatisifed &amp; detranstioned</td>
-        </tr>
+<tbody>
+<tr>
+<td markdown="1">[Bodlun &amp; Kullgren (1996)](https://doi.org/10.1007/BF02438167)
+</td>
+<td>Swedish clinical sample of 10 trans women and 9 trans men, "core transsexuals"
+</td>
+<td>questionnaires before and after a 5 year period (participants were at various stages in medical transition during both times), comparison of before &amp; after responses
+</td>
+<td>13 improved, 3 stable, 2 unsatisifed, 1 unsatisifed &amp; detranstioned
+</td>
+</tr>
         <tr>
             <td markdown="1">[Rakic et al. (1996)](https://doi.org/10.1007/BF02437545)</td>
             <td>Yugoslavian clinical sample of 22 trans women and 10 trans men</td>
