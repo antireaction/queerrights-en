@@ -91,7 +91,7 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 
 </summary>
 
-{::nomarkdown}		
+
 
 <table>	
 	<colgroup>
@@ -99,15 +99,19 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 		<col style="width: 15%;">
 		<col style="width: 35%;">
 		<col style="width: 40%;">
-	</colgroup>
-	<thead>
-        	<tr>
-            		<td>study</td>
-            		<td>sample(s)</td>
-            		<td>study design</td>
-            		<td>results</td>
-        	</tr>
-    	</thead>
+</colgroup>
+<thead>
+        <tr>
+<td>study
+</td>
+<td>sample(s)
+</td>
+<td>study design
+</td>
+<td>results
+</td>
+</tr>
+</thead>
     	<tbody>
         <tr>
             <td markdown="1">[Bodlun &amp; Kullgren (1996)](https://doi.org/10.1007/BF02438167)</td>
