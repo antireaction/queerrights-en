@@ -91,15 +91,14 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 
 </summary>
 
-<table>
+<table>	
 <colgroup>
 	<col style="width: 10%;">
-	<col style="width: 10%;">
-	<col style="width: 20%;">
-	<col style="width: 30%;">
-	<col style="width: 30%;">
+	<col style="width: 15%;">
+	<col style="width: 35%;">
+	<col style="width: 40%;">
 </colgroup>
-    <thead>
+<thead>
         <tr>
             <td>study</td>
             <td>sample(s)</td>
