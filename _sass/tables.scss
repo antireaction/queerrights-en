@@ -4,8 +4,8 @@
 // stylelint-disable max-nesting-depth, selector-no-type, selector-max-type
 
 .table-wrapper {
+  display: table;
   table-layout: fixed;
-  display: block;
   width: 100%;
   max-width: 100%;
   margin-bottom: $sp-5;
