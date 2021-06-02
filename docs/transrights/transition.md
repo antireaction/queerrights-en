@@ -101,7 +101,7 @@ This is a pooling together of (a) studies and reviews about well-being and regre
         <td width="40%">results</td>
     </tr>
     <tr>
-        <td>[Bodlun & Kullgren (1996)](https://doi.org/10.1007/BF02438167)</td>
+        <td><a href="https://doi.org/10.1007/BF02438167">Bodlun & Kullgren (1996)</a></td>
         <td>Swedish clinical sample of 10 trans women and 9 trans men, "core transsexuals"</td>
         <td>questionnaires before and after a 5 year period (participants were at various stages in medical transition during both times), comparison of before & after responses</td>
         <td>13 improved, 3 stable, 2 unsatisifed, 1 unsatisifed & detranstioned</td>
