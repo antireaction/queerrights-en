@@ -93,6 +93,8 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 
 <section markdown="1">
 
+<div style="height:75%; overflow-y: scroll;">
+
 <table>
     <tr>
         <td width="100">study</td>
@@ -439,6 +441,7 @@ This is a pooling together of (a) studies and reviews about well-being and regre
     </tr>
 </table>
 
+</div>
 
 \* overlaps with Murad et al. (2010)
 
