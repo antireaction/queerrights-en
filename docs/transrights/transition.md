@@ -93,11 +93,11 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 
 <table>
 <colgroup>
-<col width="10%" />
-<col width="10%" />
-<col width="20%" />
-<col width="30%" />
-<col width="30%" />
+	<col width="10%" />
+	<col width="10%" />
+	<col width="20%" />
+	<col width="30%" />
+	<col width="30%" />
 </colgroup>
     <thead>
         <tr>
@@ -399,11 +399,15 @@ This is a pooling together of (a) studies and reviews about well-being and regre
     </tbody>
 </table>
 
+<section markdown="1">
+
 * overlaps with Murad et al. (2010)
 
 ** link on Cornell University website broken
 
 *** until 2011, sterilisation was necessary to change your gender marker in Germany [source](https://tgeu.org/wp-content/uploads/2015/01/Germany_Federal_Court_Sterilisation_2011.pdf), [archive](https://web.archive.org/web/20161103182544/https://tgeu.org/wp-content/uploads/2015/01/Germany_Federal_Court_Sterilisation_2011.pdf) This means bottom surgery was also at least 10 years earlier for all participants, as all had changed their gender marker before 2011
+
+</section>
 
 </details>
 
