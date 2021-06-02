@@ -95,10 +95,10 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 
 <table>
     <tr>
-        <td>study</td>
+        <td width="100">study</td>
         <td>sample(s)</td>
         <td>study design</td>
-        <td width="400px">results</td>
+        <td width="400">results</td>
         <td>notes</td>
     </tr>
     <tr>
@@ -438,6 +438,7 @@ This is a pooling together of (a) studies and reviews about well-being and regre
         <td>some missing data for 2,9% of participants who had HRT and SRS</td>
     </tr>
 </table>
+
 
 \* overlaps with Murad et al. (2010)
 
