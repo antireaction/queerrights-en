@@ -97,8 +97,8 @@ This is a pooling together of (a) studies and reviews about well-being and regre
     <tr>
         <td>study</td>
         <td>sample(s)</td>
-        <td>study design</td>
-        <td>results</td>
+        <td width="35%">study design</td>
+        <td width="40%">results</td>
     </tr>
     <tr>
         <td>[Bodlun & Kullgren (1996)](https://doi.org/10.1007/BF02438167)</td>
@@ -389,8 +389,6 @@ This is a pooling together of (a) studies and reviews about well-being and regre
         <td>satisfaction with SRS was 94% to 100% (depending on procedure), quality of life increased after SRS; nobody reported major regret; 6% (9 people) reported dissatisfaction or minor regret about some SRS they underwent, for 8 of whom it is tied to complications rather than realizing they're not trans - 1 trans woman did not specify her reason for dissatisfaction; **no significant differences of gender dysphoria levels in trans people after HRT and SRS compared to cis controls**</td>
     </tr>
 </table>
-		
-</section>
 
 
 \* overlaps with Murad et al. (2010)
@@ -398,6 +396,8 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 ** link on Cornell University website broken
 
 *** until 2011, sterilisation was necessary to change your gender marker in Germany [source](https://tgeu.org/wp-content/uploads/2015/01/Germany_Federal_Court_Sterilisation_2011.pdf), [archive](https://web.archive.org/web/20161103182544/https://tgeu.org/wp-content/uploads/2015/01/Germany_Federal_Court_Sterilisation_2011.pdf) This means bottom surgery was also at least 10 years earlier for all participants, as all had changed their gender marker before 2011
+
+</section>
 
 </details>
 
