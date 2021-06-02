@@ -92,19 +92,16 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 </summary>
 		
 <table>
-    <thead>
-        <tr>
-            <td width=10%>study
+<tr>
+<td width=10%>study
 </td>
-            <td width=15%>sample(s)
+<td width=15%>sample(s)
 </td>
-            <td width=30%>study design
+<td width=30%>study design
 </td>
-            <td width=45%>results
+<td width=45%>results
 </td>
 </tr>
-</thead>
-    <tbody>
         <tr>
             <td markdown="span">[Bodlun &amp; Kullgren (1996)](https://doi.org/10.1007/BF02438167)</td>
             <td>Swedish clinical sample of 10 trans women and 9 trans men, "core transsexuals"</td>
@@ -393,7 +390,6 @@ This is a pooling together of (a) studies and reviews about well-being and regre
             <td>questionnaires on quality of life &amp; satisfaction at admission and 4-6 years later</td>
             <td markdown="span">satisfaction with SRS was 94% to 100% (depending on procedure), quality of life increased after SRS; nobody reported major regret; 6% (9 people) reported dissatisfaction or minor regret about some SRS they underwent, for 8 of whom it is tied to complications rather than realizing they're not trans - 1 trans woman did not specify her reason for dissatisfaction; **no significant differences of gender dysphoria levels in trans people after HRT and SRS compared to cis controls**</td>
         </tr>
-    </tbody>
 </table>
 
 
