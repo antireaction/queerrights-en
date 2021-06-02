@@ -91,22 +91,24 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 
 </summary>
 
+{::nomarkdown}		
+
 <table>	
-<colgroup>
-	<col style="width: 10%;">
-	<col style="width: 15%;">
-	<col style="width: 35%;">
-	<col style="width: 40%;">
-</colgroup>
-<thead>
-        <tr>
-            <td>study</td>
-            <td>sample(s)</td>
-            <td>study design</td>
-            <td>results</td>
-        </tr>
-    </thead>
-    <tbody>
+	<colgroup>
+		<col style="width: 10%;">
+		<col style="width: 15%;">
+		<col style="width: 35%;">
+		<col style="width: 40%;">
+	</colgroup>
+	<thead>
+        	<tr>
+            		<td>study</td>
+            		<td>sample(s)</td>
+            		<td>study design</td>
+            		<td>results</td>
+        	</tr>
+    	</thead>
+    	<tbody>
         <tr>
             <td markdown="1">[Bodlun &amp; Kullgren (1996)](https://doi.org/10.1007/BF02438167)</td>
             <td>Swedish clinical sample of 10 trans women and 9 trans men, "core transsexuals"</td>
@@ -398,6 +400,7 @@ This is a pooling together of (a) studies and reviews about well-being and regre
     </tbody>
 </table>
 
+{:/}
 
 * overlaps with Murad et al. (2010)
 
