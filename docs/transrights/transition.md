@@ -90,8 +90,6 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 <summary markdown="1"> ‣ **All the others** (gigantic table warning) 
 
 </summary>
-
-<section markdown="1">
 		
 <table>
     <thead>
