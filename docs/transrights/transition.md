@@ -98,7 +98,7 @@ This is a pooling together of (a) studies and reviews about well-being and regre
         <td>study</td>
         <td>sample(s)</td>
         <td>study design</td>
-        <td>results</td>
+        <td width="400">results</td>
         <td>notes</td>
     </tr>
     <tr>
@@ -384,7 +384,7 @@ This is a pooling together of (a) studies and reviews about well-being and regre
     <tr>
         <td><a href="https://doi.org/10.1007/s10508-014-0453-5">Ruppin &amp; Pfäfflin (2015)</a></td>
         <td>Germany, 35 trans women and 36 trans men</td>
-        <td>standardized questionnaires & qualitative interviews about quality of life at initial contact and 10-24 (mean 13,8) years after legal name & gender marker change\***; almost all participants took HRT and had at least one SRS</td>
+        <td>standardized questionnaires & qualitative interviews about quality of life at initial contact and 10-24 (mean 13,8) years after legal name & gender marker change***; almost all participants took HRT and had at least one SRS</td>
         <td>high life satisfaction, employment, good social integration, **gender dysphoria remained reduced**, other psychological problems decreased too</td>
         <td></td>
     </tr>
@@ -418,7 +418,7 @@ This is a pooling together of (a) studies and reviews about well-being and regre
     </tr>
     <tr>
         <td><a href="https://doi.org/10.1007/s11606-015-3529-6">Padula et al. (2015)</a></td>
-        <td>extracted model parameters from [National Transgender Discrimination Survey (NTDS) (2011)](https://www.thetaskforce.org/wp-content/uploads/2019/07/ntds_full.pdf) ([archive](https://web.archive.org/web/20210429072230/https://www.thetaskforce.org/wp-content/uploads/2019/07/ntds_full.pdf)) of adults, which had 6436 US-American respondents</td>
+        <td>extracted model parameters from <a href="https://www.thetaskforce.org/wp-content/uploads/2019/07/ntds_full.pdf">National Transgender Discrimination Survey (NTDS) (2011)</a> (<a href="https://web.archive.org/web/20210429072230/https://www.thetaskforce.org/wp-content/uploads/2019/07/ntds_full.pdf">archive</a>) of adults, which had 6436 US-American respondents</td>
         <td>cost-effectiveness of insurance coverage for medically-necessary trans-related services (e.g. medical transition); used Markov model with 5-10 year time horizons from US societal perspective </td>
         <td>provider coverage of trans-related care was cost-effective (i. e. reduced more costs [e.g. on treating HIV, depression, drug abuse, etc. that would be likely to occur from denying coverage for medical transition] than it costs to cover medical transition) in 85% of simulations; budget impact for individual members is 0,016$ per month</td>
         <td></td>
