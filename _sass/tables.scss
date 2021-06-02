@@ -4,7 +4,7 @@
 // stylelint-disable max-nesting-depth, selector-no-type, selector-max-type
 
 .table-wrapper {
-  display: table;
+  display: block;
   table-layout: fixed;
   width: 100%;
   max-width: 100%;
@@ -16,7 +16,7 @@
 
 table {
   table-layout: fixed;
-  display: table;
+  // display: table;
   min-width: 100%;
   border-collapse: separate;
 }
