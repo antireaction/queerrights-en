@@ -96,10 +96,10 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 <table>
     <tr>
         <td>study</td>
-        <td>sample(s)</td>
+        <td>sample(s) &nbsp;</td>
         <td>study design &nbsp; &nbsp;</td>
         <td>results &nbsp; &nbsp; &nbsp; &nbsp; </td>
-        <td>notes</td>
+        <td>notes &nbsp;</td>
     </tr>
     <tr>
         <td><a href="https://doi.org/10.1007/BF02438167">Bodlun &amp; Kullgren (1996)</a></td>
