@@ -35,9 +35,9 @@ color_scheme: default
 plugins:
   - jekyll-feed
   
-aux_links:
-  "Anti-reactionary overview":
-    - "https://antireaction.github.io"
+# aux_links:
+#  "Anti-reactionary overview":
+#    - "https://antireaction.github.io"
  
 kramdown:
   input: GFM
