@@ -5,6 +5,7 @@ nav_order: 99
 parent: Trans Rights!
 
 ---
+<script> jtd.setTheme('green'); </script> 
 
 | study | sample(s) | study design | results | notes |
 |---|---|---|---|---|
