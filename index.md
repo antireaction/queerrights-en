@@ -40,6 +40,7 @@ The following resources greatly helped me with adding more sources for the count
 	- This is [Isis-level trans blessing](https://en.wikipedia.org/wiki/Iphis)
 * [The comments of this post](https://www.reddit.com/r/asktransgender/comments/8vo33r/my_master_list_of_trans_health_citations_in/?utm_medium=android_app&utm_source=share) mainly by u/tgjer and a few others
 * [This post by u/DGunner](https://www.reddit.com/r/asktransgender/comments/3rws5s/comprehensive_defense_against_antitrans_talking/)
+* ...
 
 ## Other languages
 
