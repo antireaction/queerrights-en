@@ -7,6 +7,23 @@ parent: Trans Rights!
 ---
 <script> jtd.setTheme('green'); </script> 
 
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.21/fc-3.3.1/datatables.min.css"/> 
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.21/fc-3.3.1/datatables.min.js">
+</script> 
+
+  <script>
+$(document).ready(function(){
+
+    $('table.display').DataTable( {
+        paging: true,
+        stateSave: true,
+        searching: true,
+        scrollX: true,
+    }
+        );
+});
+</script>
+
 | study | sample(s) | study design | results | notes |
 |---|---|---|---|---|
 | [Bodlun & Kullgren (1996)](https://doi.org/10.1007/BF02438167) | Swedish clinical sample of 10 trans women and 9 trans men, "core transsexuals" | questionnaires before and after a 5 year period (participants were at various stages in medical transition during both times), comparison of before & after responses | 13 improved, 3 stable, 2 unsatisifed, 1 unsatisifed & detranstioned |  |
