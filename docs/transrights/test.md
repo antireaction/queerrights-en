@@ -14,7 +14,7 @@ parent: Trans Rights!
   <script>
 $(document).ready(function(){
 
-    $('table.display').DataTable( {
+    $('#table_id').DataTable( {
         paging: true,
         stateSave: true,
         searching: true,
@@ -24,7 +24,7 @@ $(document).ready(function(){
 });
 </script>
 
-<table>
+<table id="table_id">
     <thead>
         <tr>
             <td>study</td>
