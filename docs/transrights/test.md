@@ -7,11 +7,11 @@ parent: Trans Rights!
 ---
 <script> jtd.setTheme('green'); </script> 
 
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.21/fc-3.3.1/datatables.min.css"/> 
-<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.21/fc-3.3.1/datatables.min.js">
-</script> 
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.css">
+  
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
 
-  <script>
+<script>
 $(document).ready(function(){
 
     $('#table_id').DataTable( {
