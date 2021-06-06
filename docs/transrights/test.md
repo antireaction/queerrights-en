@@ -9,7 +9,7 @@ parent: Trans Rights!
 
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.css">
   
-<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
 
 <script>
 $(document).ready(function(){
@@ -23,8 +23,6 @@ $(document).ready(function(){
         );
 });
 </script>
-
-<section markdown="0">
 <table id="table_id">
     <thead>
         <tr>
@@ -374,5 +372,3 @@ $(document).ready(function(){
         </tr>
     </tbody>
 </table>
-
-</section>
