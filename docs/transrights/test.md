@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Test
 nav_order: 99
 parent: Trans Rights!
-datatable: true
 
 ---
 <script> jtd.setTheme('green'); </script> 
