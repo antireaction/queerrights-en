@@ -30,7 +30,7 @@ $(document).ready(function(){
             <td>study</td>
             <td>sample(s)</td>
             <td>study design</td>
-            <td>results</td>
+            <td width="40%">results</td>
             <td>notes</td>
         </tr>
     </thead>
