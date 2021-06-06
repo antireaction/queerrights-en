@@ -7,22 +7,6 @@ parent: Trans Rights!
 ---
 <script> jtd.setTheme('green'); </script> 
 
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.css">
-  
-<script type="text/javascript" charset="utf-8" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
-
-<script>
-$(document).ready(function(){
-
-    $('#table_id').DataTable( {
-        paging: true,
-        stateSave: true,
-        searching: true,
-        scrollX: true,
-    }
-        );
-});
-</script>
 <table id="table_id">
     <thead>
         <tr>
@@ -372,3 +356,21 @@ $(document).ready(function(){
         </tr>
     </tbody>
 </table>
+
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.css">
+  
+<script type="text/javascript" charset="utf-8" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
+
+<script>
+$(document).ready(function(){
+
+    $('#table_id').DataTable( {
+        paging: true,
+        stateSave: true,
+        searching: true,
+        scrollX: true,
+    }
+        );
+});
+</script>
