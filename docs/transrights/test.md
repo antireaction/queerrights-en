@@ -7,6 +7,4 @@ parent: Trans Rights!
 ---
 <script> jtd.setTheme('green'); </script> 
 
-<iframe width="600" height="400" style="border:1px solid #ccc" frameborder="0" scrolling="no" src="https://sheet.zoho.eu/sheet/published/5yo4gbf37a3c7a8e747f78f8bc3f4374a23a4?mode=embed"></iframe>
-
-<iframe style="height:200px; width:335px;" marginwidth="0" marginheight="0" scrolling="auto" frameborder=0 src="https://docs.zoho.eu/sheet/publishedrange/fc3021cfebdfb861f840f363fca2014071867e43ad66d4a503628335e3ec1b18"></iframe>
+<iframe style="height:400px; width:500px;" marginwidth="0" marginheight="0" scrolling="auto" frameborder=0 src="https://docs.zoho.eu/sheet/publishedrange/999edc7918aa1c8f1da26074756698a7a2476dfbf5692b5ed1707694d0bf9312"></iframe>
