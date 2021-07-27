@@ -27,7 +27,7 @@ On how this website understands the concept of transgender identity and it's use
 
 (click text with ‣ before it to open)
 
-<details markdown="1">
+<details>
 	<summary markdown="1"> ‣ _Why do we need a word for cis people? Can't we call them normal?_ 
 </summary>
 
@@ -37,7 +37,7 @@ On how this website understands the concept of transgender identity and it's use
 
 </details>
 
-<details markdown="1">
+<details>
 	<summary markdown="1"> ‣ Gender or sex assigned at birth (**AGAB**) 
 </summary>
 
@@ -47,7 +47,7 @@ On how this website understands the concept of transgender identity and it's use
 
 </details>
 
-<details markdown="1">
+<details>
 	<summary markdown="1"> ‣ **Gender identity** 
 </summary>
 
@@ -61,7 +61,7 @@ More on how one knows their gender identity later on.
 
 There are different kinds of trans people:
 
-<details markdown="1">
+<details>
 	<summary markdown="1"> ‣ **Binary** 
 </summary>
 
@@ -73,7 +73,7 @@ There are different kinds of trans people:
 
 </details>
 
-<details markdown="1">
+<details>
 	<summary markdown="1"> ‣ **Non-binary** 
 </summary>
 
@@ -100,13 +100,13 @@ By this you are showing that you acknowledge that the person probably knows them
 
 Here is a list of things which gender identity or being trans is associated with, but is **not** synonymous with and should **not** be confused with:
 
-<details markdown="1"> 
+<details> 
 	<summary markdown="1"> ‣ **Gender roles/expectations** 
 </summary>
 > What society expects of people who it perceives as a certain sex is seperate from what a person feels they are ought to be perceived as.
 	</details>
 
-<details markdown="1">
+<details>
 	<summary markdown="1">  ‣ **Gender expression** 
 </summary>
 
@@ -119,7 +119,7 @@ Here is a list of things which gender identity or being trans is associated with
 > Just like cis people can be gnc (i. e. cis man wears a dress, cis woman wears short hair), so can trans people (i. e. trans man wears a dress, trans woman wears short hair). None of them stop being their gender identity just for being gnc.
 </details>
 
-<details markdown="1">
+<details>
 	<summary markdown="1"> ‣ **Crossdressing** (which is sometimes also called "transvestism")
 </summary>
 
@@ -130,7 +130,7 @@ Here is a list of things which gender identity or being trans is associated with
 > **Crossdressing differs fundamentally from being trans** in that a crossdresser does so for the sake of entertainment, while a trans person "crossdresses" as in relation to their assigned gender to express their authentic self. Calling a trans person a crossdresser even though they always dress in a conforming way _in relation to their gender identity_ is insulting because it implies their trans identity is a joke, entertainment, in a word, disingenuous.
 </details>
 
-<details markdown="1">
+<details>
 	<summary markdown="1"> ‣ _But don't trans people frequently crossdress before realizing they're trans? I have a friend who looks gnc or crossdresses and I suspect they are trans and just don't know it yet. What do I do?_
 </summary>
 
@@ -147,7 +147,7 @@ way you can be sure they know trans people and the option to transition exists, 
 
 </details>
 <br>
-<details markdown="1">
+<details>
 	<summary markdown="1"> ‣ **Sexual orientation**
 </summary>
 
@@ -217,7 +217,7 @@ Just like cis people, trans people can have very different understandings of and
 
 This doesn't make any trans person "more trans" than another, just like cis people having different relationships with their gender identities doesn't make any one of them "more cis" than another. 
 
-<details markdown="1">
+<details>
 	<summary markdown="1"> ‣ An example: 
 </summary>
 
@@ -233,7 +233,7 @@ This doesn't make any trans person "more trans" than another, just like cis peop
 
 ## Misc terms
 
-<details markdown="1">
+<details>
 	<summary markdown="1"> ‣ Some other terms not yet mentioned that you might come across when discussing trans people and transition:
 </summary>
 
