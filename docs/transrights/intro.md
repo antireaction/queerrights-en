@@ -28,29 +28,32 @@ On how this website understands the concept of transgender identity and it's use
 (click text with ‣ before it to open)
 
 <details>
-<summary markdown="1"> ‣ _Why do we need a word for cis people? Can't we call them normal?_
-	</summary>
+	<summary markdown="1"> ‣ _Why do we need a word for cis people? Can't we call them normal?_ 
+</summary>
 
-It's the same reason you don't say "Black and normal people" even when in a majority-white country: The word "normal" is used not just in a statistical, but also judging way by most people. Calling something "normal" implies the other is not normal, which implies it is sick, perverted, immoral, wrong, crazy, etc. **Saying "cis" de-stigmatizes trans people.**
+> It's the same reason you don't say "Black and normal people" even when in a majority-white country: The word "normal" is used not just in a statistical, but also judging way by most people. Calling something "normal" implies the other is not normal, which implies it is sick, perverted, immoral, wrong, crazy, etc. **Saying "cis" de-stigmatizes trans people.**
 
-There's also a lesser chance of misunderstanding when saying "cis", because it's specific and accurate regardless of context and of who you're talking to. An example: When talking to a room full of trans people it'd be odd to refer to cis people (the minority within such a room, i.e. not the statistical norm) as "normal", especially if to most people in that room, being trans feels more normal than being cis (since they don't know anything else). **Saying "cis" makes sure everyone knows what you mean.**
-
-</details>
-
-<details>
-	<summary markdown="1"> ‣ Gender or sex assigned at birth (**AGAB**) </summary>
-
-refers to the sex and consequentially gender identity that doctors thought a child would grow up to be at birth, usually based on the appearance of their external genitalia. 
-- For example, a baby is born with a penis, and the doctors assume that all the baby's internal organs, sex chromosomes, and their later hormonal development during puberty and self-perception do or will align with maleness.
-- It usually corresponds to the actual natal sex, which is why doctors do it this way. But that's not always the case, such as in the case of some [intersex people](!!!) who were (sometimes forcibly/surgically) assigned male or female rather than intersex at birth (AIAB) and raised accordingly. They can also be trans as in relation to what they were raised as, hence saying AGAB instead of natal sex in the definition of "transgender" is more accurate and inclusive of them. The terms AGAB and it's derivatives originated in the intersex community.
+> There's also a lesser chance of misunderstanding when saying "cis", because it's specific and accurate regardless of context and of who you're talking to. An example: When talking to a room full of trans people it'd be odd to refer to cis people (the minority within such a room, i.e. not the statistical norm) as "normal", especially if to most people in that room, being trans feels more normal than being cis (since they don't know anything else). **Saying "cis" makes sure everyone knows what you mean.**
 
 </details>
 
 <details>
-	<summary markdown="1"> ‣ **Gender identity** </summary>
- is a person's internal sense/feeling of who they are regarding gender (also sometimes called experienced or felt gender). It is often roughly split into 2 main aspects:
-1. Social aspect: What a person feels they are _ought_ to be referred to and seen as (e.g. pronouns, honorifics, etc.), what social role they and their bodies ought to occupy in society (regardless of whether they already do or not).
-2. Bodily aspect (could also be called "sex identity"): What a person feels their bodies _ought_ to be like in terms of sex characteristics (e.g. chest, voice pitch, hairiness, etc.) (regardless of whether they already do or not).
+	<summary markdown="1"> ‣ Gender or sex assigned at birth (**AGAB**) 
+</summary>
+
+> refers to the sex and consequentially gender identity that doctors thought a child would grow up to be at birth, usually based on the appearance of their external genitalia. 
+> - For example, a baby is born with a penis, and the doctors assume that all the baby's internal organs, sex chromosomes, and their later hormonal development during puberty and self-perception do or will align with maleness.
+> - It usually corresponds to the actual natal sex, which is why doctors do it this way. But that's not always the case, such as in the case of some [intersex people](!!!) who were (sometimes forcibly/surgically) assigned male or female rather than intersex at birth (AIAB) and raised accordingly. They can also be trans as in relation to what they were raised as, hence saying AGAB instead of natal sex in the definition of "transgender" is more accurate and inclusive of them. The terms AGAB and it's derivatives originated in the intersex community.
+
+</details>
+
+<details>
+	<summary markdown="1"> ‣ **Gender identity** 
+</summary>
+
+> is a person's internal sense/feeling of who they are regarding gender (also sometimes called experienced or felt gender). It is often roughly split into 2 main aspects:
+> 1. Social aspect: What a person feels they are _ought_ to be referred to and seen as (e.g. pronouns, honorifics, etc.), what social role they and their bodies ought to occupy in society (regardless of whether they already do or not).
+> 2. Bodily aspect (could also be called "sex identity"): What a person feels their bodies _ought_ to be like in terms of sex characteristics (e.g. chest, voice pitch, hairiness, etc.) (regardless of whether they already do or not).
 
 More on how one knows their gender identity later on.
 </details>
@@ -59,26 +62,28 @@ More on how one knows their gender identity later on.
 There are different kinds of trans people:
 
 <details>
-	<summary markdown="1"> ‣ **Binary** </summary>
+	<summary markdown="1"> ‣ **Binary** 
+</summary>
 
-A **trans man** is someone who has a male gender identity but was assigned something else at birth, i. e. either assigned female at birth (**AFAB**) or (much more rarely) assigned intersex at birth (**AIAB**). Most trans men use he/him pronouns.
+> A **trans man** is someone who has a male gender identity but was assigned something else at birth, i. e. either assigned female at birth (**AFAB**) or (much more rarely) assigned intersex at birth (**AIAB**). Most trans men use he/him pronouns.
 
-**FtM** (female-to-male) is an acronym often used as a synonym for trans men, but which is slightly controversial, as some trans men dislike it since it mentiones their assigned gender. Others on the other hand prefer the term FtM because it illustrates the journey they had to go through to arrive where they are.
+> **FtM** (female-to-male) is an acronym often used as a synonym for trans men, but which is slightly controversial, as some trans men dislike it since it mentiones their assigned gender. Others on the other hand prefer the term FtM because it illustrates the journey they had to go through to arrive where they are.
 
-**Trans woman** and **MtF** are the corresponding versions of trans man and FtM but for **AMAB** (assigned male at birth) and AIAB people who have a female gender identity. Most trans women use she/her pronouns.
+> **Trans woman** and **MtF** are the corresponding versions of trans man and FtM but for **AMAB** (assigned male at birth) and AIAB people who have a female gender identity. Most trans women use she/her pronouns.
 
 </details>
 
 <details>
-	<summary markdown="1"> ‣ **Non-binary** </summary>
+	<summary markdown="1"> ‣ **Non-binary** 
+</summary>
 
-A **non-binary person** is someone whose gender identity does not exclusively, fully, or always fall into the binary gender categories of male and female. In English, they tend to use they/them pronouns, more rarely neopronouns or it-pronouns (only use the latter if explicitly requested, as it is otherwise dehumanizing), some combination of, or all of them. They could have 
-- no gender identity (agender, genderless), 
-- only partly identify with a gender identity (demigender, e.g. demiboy/-girl), 
-- have an intermediate gender identity (neutrois), 
-- a combination of the binary genders (multigender, bigender, pangender,...), 
-- a third gender outside the male-female spectrum (e.g. maverique) 
-- or their gender identity might be repeadetly changing between a set group of various gender identities (genderfluid).
+> A **non-binary person** is someone whose gender identity does not exclusively, fully, or always fall into the binary gender categories of male and female. In English, they tend to use they/them pronouns, more rarely neopronouns or it-pronouns (only use the latter if explicitly requested, as it is otherwise dehumanizing), some combination of, or all of them. They could have 
+> - no gender identity (agender, genderless), 
+> - only partly identify with a gender identity (demigender, e.g. demiboy/-girl), 
+> - have an intermediate gender identity (neutrois), 
+> - a combination of the binary genders (multigender, bigender, pangender,...), 
+> - a third gender outside the male-female spectrum (e.g. maverique) 
+> - or their gender identity might be repeadetly changing between a set group of various gender identities (genderfluid).
 
 **Transmasculine** is a broader term that includes all AFAB trans people who have (to whatever extent) a more masculine gender identity than assigned, and **transfeminine** is the corresponding term for AMAB people. They include binary as well as non-binary trans people.
 
@@ -98,64 +103,67 @@ Here is a list of things which gender identity or being trans is associated with
 <details> 
 	<summary markdown="1"> ‣ **Gender roles/expectations** 
 </summary>
-What society expects of people who it perceives as a certain sex is seperate from what a person feels they are ought to be perceived as.
+> What society expects of people who it perceives as a certain sex is seperate from what a person feels they are ought to be perceived as.
 	</details>
 
 <details>
-	<summary markdown="1">  ‣ **Gender expression** </summary>
-This refers to various expressions that are gendered in a given society, such as certain clothes, hairstyles, behaviors, and body traits of a person. A person often uses them, as far as they can voluntary choose some of them, to signify their gender identity to the world, e. g. a woman wears a dress to signify that she is a woman. 
+	<summary markdown="1">  ‣ **Gender expression** 
+</summary>
 
-However, this doesn't always have to be the case, e.g. a woman wears short hair even though the society she lives in regards this as a masculine gender expression. She doesn't stop being a woman by this, since she does this not because she wants to express that she is a man, but because she just likes it better this way and either sees it as a genderless act (hence wears it regardless of her gender identity), a rebellion against gender roles, or because she has a different view/concept of her womanhood that includes aspects others regard as masculine.
+> This refers to various expressions that are gendered in a given society, such as certain clothes, hairstyles, behaviors, and body traits of a person. A person often uses them, as far as they can voluntary choose some of them, to signify their gender identity to the world, e. g. a woman wears a dress to signify that she is a woman. 
 
-A gender expression that does not align with society's expectations for gender expressions of one's gender identity can be described as **gender non-conforming (gnc)**. This is _not_ a gender identity, but a descriptor of gender expression as it relates to a person's gender identity in the context of a given society.
+> However, this doesn't always have to be the case, e.g. a woman wears short hair even though the society she lives in regards this as a masculine gender expression. She doesn't stop being a woman by this, since she does this not because she wants to express that she is a man, but because she just likes it better this way and either sees it as a genderless act (hence wears it regardless of her gender identity), a rebellion against gender roles, or because she has a different view/concept of her womanhood that includes aspects others regard as masculine.
 
-Just like cis people can be gnc (i. e. cis man wears a dress, cis woman wears short hair), so can trans people (i. e. trans man wears a dress, trans woman wears short hair). None of them stop being their gender identity just for being gnc.
+> A gender expression that does not align with society's expectations for gender expressions of one's gender identity can be described as **gender non-conforming (gnc)**. This is _not_ a gender identity, but a descriptor of gender expression as it relates to a person's gender identity in the context of a given society.
+
+> Just like cis people can be gnc (i. e. cis man wears a dress, cis woman wears short hair), so can trans people (i. e. trans man wears a dress, trans woman wears short hair). None of them stop being their gender identity just for being gnc.
 </details>
 
 <details>
-<summary markdown="1"> ‣ **Crossdressing** (which is sometimes also called "transvestism")
-	</summary>
-Crossdressing is the act of wearing clothes, hairstyles, make-up, etc. that a given society typically associates with a different (usually binary) gender identity than one's own. It can in some sense be seen as an extreme form of gnc. 
+	<summary markdown="1"> ‣ **Crossdressing** (which is sometimes also called "transvestism")
+</summary>
 
-Drag performers are a specific subset of crossdressers that exaggerate and parody gender roles for entertainment or critique.
+> Crossdressing is the act of wearing clothes, hairstyles, make-up, etc. that a given society typically associates with a different (usually binary) gender identity than one's own. It can in some sense be seen as an extreme form of gnc. 
 
-**Crossdressing differs fundamentally from being trans** in that a crossdresser does so for the sake of entertainment, while a trans person "crossdresses" as in relation to their assigned gender to express their authentic self. Calling a trans person a crossdresser even though they always dress in a conforming way _in relation to their gender identity_ is insulting because it implies their trans identity is a joke, entertainment, in a word, disingenuous.
+> Drag performers are a specific subset of crossdressers that exaggerate and parody gender roles for entertainment or critique.
+
+> **Crossdressing differs fundamentally from being trans** in that a crossdresser does so for the sake of entertainment, while a trans person "crossdresses" as in relation to their assigned gender to express their authentic self. Calling a trans person a crossdresser even though they always dress in a conforming way _in relation to their gender identity_ is insulting because it implies their trans identity is a joke, entertainment, in a word, disingenuous.
 </details>
 
 <details>
+	<summary markdown="1"> ‣ _But don't trans people frequently crossdress before realizing they're trans? I have a friend who looks gnc or crossdresses and I suspect they are trans and just don't know it yet. What do I do?_
+</summary>
 
-<summary markdown="1"> ‣ _But don't trans people frequently crossdress before realizing they're trans? I have a friend who looks gnc or crossdresses and I suspect they are trans and just don't know it yet. What do I do?_
-	</summary>
-
-It's true that trans people often look like cis gnc people or even experiment with crossdressing before they realize they're trans and/or let you know.
+> It's true that trans people often look like cis gnc people or even experiment with crossdressing before they realize they're trans and/or let you know.
 But please do not pressure a seemingly cis gnc person you know to tell you whether they are trans or not.
 
-If they are trans they would tell you when they feel ready, don't put them on the spot or put pressure on them.
+> If they are trans they would tell you when they feel ready, don't put them on the spot or put pressure on them.
 And if they aren't trans, the question becomes redundant.
 The majority of people who are gnc as in relation to their assigned gender are not trans, and not all trans people are gnc as in relation to their assigned gender before they come out.
 
-If you see a gnc cis person and worry that they are actually trans, but just haven't realized yet because they don't know trans people exist: Casually bring up the topic of trans 
+> If you see a gnc cis person and worry that they are actually trans, but just haven't realized yet because they don't know trans people exist: Casually bring up the topic of trans 
 people and the possibilities of transition (see below) without making any connections or references to them personally. This
 way you can be sure they know trans people and the option to transition exists, as well as signalling that you'd be accepting of them if they came out to you, all without putting them on the spot.
 
 </details>
 <br>
 <details>
-<summary markdown="1"> ‣ **Sexual orientation**
-	</summary>
-Sexual orientation describes what gender(s) a person is typically sexually and/or romantically able to be attracted to, not who they see themselves as. Gender identity and sexual orientation are seperate aspects of a person's self.
+	<summary markdown="1"> ‣ **Sexual orientation**
+</summary>
 
-A cis man can love another man without this meaning that he must be a woman or must become a woman. The same goes for trans men: A trans man can be attracted exclusively to other men, whithout this meaning he's not "really trans" or a straight woman after all.
+> Sexual orientation describes what gender(s) a person is typically sexually and/or romantically able to be attracted to, not who they see themselves as. Gender identity and sexual orientation are seperate aspects of a person's self.
 
-Upon hearing this, some might be confused as to why someone would want to become a man if this makes him gay/he stops being heterosexual. After all, if a gay trans man continued to live as woman, he would be perceived heterosexual by others and this would have made life much easier. 
+> A cis man can love another man without this meaning that he must be a woman or must become a woman. The same goes for trans men: A trans man can be attracted exclusively to other men, whithout this meaning he's not "really trans" or a straight woman after all.
 
-This confusion comes from the misunderstanding that trans people are transitioning for the sake of others or for an easier life, e.g. to "become" heterosexual as their new gender and thereby please society, to "fix" their homosexuality that they would have if they lived as their assigned gender. 
+> Upon hearing this, some might be confused as to why someone would want to become a man if this makes him gay/he stops being heterosexual. After all, if a gay trans man continued to live as woman, he would be perceived heterosexual by others and this would have made life much easier. 
 
-In reality, trans people transition first and foremost out of a need for authenticity that all people have to some degree. A gay trans man transitions simply because that's just who he truly is, he has no choice in the matter just like cis people do not choose their orientation. He feels alienated from the idea of himself as a woman (who only happens to be straight), while living his life as a man (who happens to be gay) feels most authentic. That authenticity means more to him than the prejudices of the world.
+> This confusion comes from the misunderstanding that trans people are transitioning for the sake of others or for an easier life, e.g. to "become" heterosexual as their new gender and thereby please society, to "fix" their homosexuality that they would have if they lived as their assigned gender. 
 
-The same applies to lesbian trans women and straight trans people: The latter do not transition to escape homosexuality, but to achieve authenticity (which happens to not include homosexuality, but that's of secondary importance).
+> In reality, trans people transition first and foremost out of a need for authenticity that all people have to some degree. A gay trans man transitions simply because that's just who he truly is, he has no choice in the matter just like cis people do not choose their orientation. He feels alienated from the idea of himself as a woman (who only happens to be straight), while living his life as a man (who happens to be gay) feels most authentic. That authenticity means more to him than the prejudices of the world.
 
-Trans people can also be bisexual, asexual, or aromantic.
+> The same applies to lesbian trans women and straight trans people: The latter do not transition to escape homosexuality, but to achieve authenticity (which happens to not include homosexuality, but that's of secondary importance).
+
+> Trans people can also be bisexual, asexual, or aromantic.
 
 </details>
 <br>
@@ -210,13 +218,14 @@ Just like cis people, trans people can have very different understandings of and
 This doesn't make any trans person "more trans" than another, just like cis people having different relationships with their gender identities doesn't make any one of them "more cis" than another. 
 
 <details>
-	<summary markdown="1"> ‣ An example: </summary>
+	<summary markdown="1"> ‣ An example: 
+</summary>
 
-To one trans man, the most important aspect of his manhood can be getting genital surgery, but he's okay with having a larger chest because he sees breasts as gender neutral. Another might be asexual and apathetic to his genitals, so going through the trouble of bottom surgery is just not worth it for him, but might care a lot about his sillhouette and seek out top surgery as fast as possible. A third trans man might be content with just hormones, because a deeper voice is the only central part of his manhood, while another might want all available procedures and still not be content due to the limitations of current trans medicine. 
+> To one trans man, the most important aspect of his manhood can be getting genital surgery, but he's okay with having a larger chest because he sees breasts as gender neutral. Another might be asexual and apathetic to his genitals, so going through the trouble of bottom surgery is just not worth it for him, but might care a lot about his sillhouette and seek out top surgery as fast as possible. A third trans man might be content with just hormones, because a deeper voice is the only central part of his manhood, while another might want all available procedures and still not be content due to the limitations of current trans medicine. 
 
-In the same fashion, there are cis men who are more or less hairy, care more or less about their chest or beards or voice pitch, etc. There are even some that would be fine with having different genitalia or would even prefer it if it makes their sexual lives easier/less messy, and some that are jealous of the ability to give birth.
+> In the same fashion, there are cis men who are more or less hairy, care more or less about their chest or beards or voice pitch, etc. There are even some that would be fine with having different genitalia or would even prefer it if it makes their sexual lives easier/less messy, and some that are jealous of the ability to give birth.
 
-The same also applies to women, of course. 
+> The same also applies to women, of course. 
 
 </details>
 
@@ -225,9 +234,8 @@ The same also applies to women, of course.
 ## Misc terms
 
 <details>
-<summary markdown="1">
-‣ Some other terms not yet mentioned that you might come across when discussing trans people and transition:
-	</summary>
+	<summary markdown="1"> ‣ Some other terms not yet mentioned that you might come across when discussing trans people and transition:
+</summary>
 
 - **Passing (as something)** means someone is initially perceived as something by others. For example, someone who passes as a man is someone who people assume is a man upon meeting and interacting.
 - (Going) **stealth** means living a life where nobody or very few, close people know that you are trans. You don't reveal it to people and are no longer frequently around those who knew you from before your social transition.
