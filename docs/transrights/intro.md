@@ -59,9 +59,9 @@ On how this website understands the concept of transgender identity and it's use
 
 > is a person's internal sense/feeling of who they are regarding gender (also sometimes called experienced or felt gender). It is often roughly split into 2 main aspects:
 > 1. Social aspect: What a person feels they are _ought_ to be referred to and seen as (e.g. pronouns, honorifics, etc.), what social role they and their bodies ought to occupy in society (regardless of whether they already do or not).
-> 2. Bodily aspect (could also be called "sex identity"): What a person feels their bodies _ought_ to be like in terms of sex characteristics (e.g. chest, voice pitch, hairiness, etc.) (regardless of whether they already do or not).
+> 2. Bodily aspect (could also be called "sex identity"): What a person feels their bodies _ought_ to be like in terms of sex characteristics (e.g. chest, voice pitch, hairiness, etc.) (regardless of whether they already are or not).
 
-More on how one knows their gender identity later on.
+More on how one determines their gender identity later on.
 
 	</section>
 </details>
@@ -125,9 +125,9 @@ Here is a list of things which gender identity or being trans is associated with
 </summary>
 <section markdown="1">
 
-> This refers to various expressions that are gendered in a given society, such as certain clothes, hairstyles, behaviors, and body traits of a person. A person often uses them, as far as they can voluntary choose some of them, to signify their gender identity to the world, e. g. a woman wears a dress to signify that she is a woman. 
+> This refers to various expressions that are gendered in a given society, such as certain clothes, hairstyles, behaviors, and body traits of a person. A person often uses them, as far as they can voluntary choose them, to signify their gender identity to the world. E. g. a woman wears a dress to signify that she is a woman.
 
-> However, this doesn't always have to be the case, e.g. a woman wears short hair even though the society she lives in regards this as a masculine gender expression. She doesn't stop being a woman by this, since she does this not because she wants to express that she is a man, but because she just likes it better this way and either sees it as a genderless act (hence wears it regardless of her gender identity), a rebellion against gender roles, or because she has a different view/concept of her womanhood that includes aspects others regard as masculine.
+> However, this doesn't always have to be the case, e.g. a woman wears short hair even though the society she lives in regards this as a masculine gender expression. She doesn't stop being a woman due to this, since she does this not because she wants to express that she is a man, but because she just likes it better this way and either sees it as a genderless act (hence wears it regardless of her gender identity), a rebellion against gender roles, or because she has a different view/concept of her womanhood that includes aspects others regard as masculine.
 
 > A gender expression that does not align with society's expectations for gender expressions of one's gender identity can be described as **gender non-conforming (gnc)**. This is _not_ a gender identity, but a descriptor of gender expression as it relates to a person's gender identity in the context of a given society.
 
@@ -202,12 +202,14 @@ All this can be summarized the following way: If a cis person can do something w
 
 Some readers might be confused now as to how trans people _know_ their gender identity, how they can "feel like" a man, woman, or something else. This isn't surprising, because most people are cis, and most of them therefore never had a mismatch between their gender identity, assigned gender, and bodies.
 
-In general, many people don't know they have a need until it is not fulfilled, e.g. a hypothetical person who has never felt hunger probably doesn't even realize they _need_ food and aren't eating it just for fun. Similarly, most cis people never felt gender incongruence and therefore don't even realize they are capable of feeling it, that they too have a _need_ to feel congruent with one's body and how others perceive them. This leads some to say that they aren't cis or don't have a gender identity, unintentionally sounding like agender people (who are part of the trans community).
+In general, many people don't know they have a need until it is not fulfilled, e.g. a hypothetical person who has never felt hunger probably doesn't even realize they _need_ food and aren't eating it just for fun. Similarly, most cis people never felt gender incongruence and therefore don't even realize they are capable of feeling it, that they too have a _need_ to feel congruent with their body and how others perceive them. This leads some to ignorantly say that they aren't cis or don't have a gender identity, unintentionally sounding like agender people (who are part of the trans community).
 
 The feelings that lead trans people to deduct that their gender identity is different from the one that they were assigned can be described as follows:
 - **Gender incongruence** is a feeling of alienation from one's own sex characteristics and/or gendered name, pronouns, and/or honorifics.
 - **Gender dysphoria** is distress caused by gender incongruence.
 - **Gender euphoria** is joy or relief caused by relieving gender icongruence.
+
+In trans circles, people sometimes like to split each of these up into a social and bodily aspect, just like gender identity itself, as already explained earlier.
 
 Cis people can also experience gender incongruence, which is what makes us able to conclude and empirically prove that cis people also have a gender identity - they just, like the person who was never hungry, never notice it since it's never in conflict with anything.
 
