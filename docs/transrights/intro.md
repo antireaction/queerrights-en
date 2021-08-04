@@ -59,7 +59,7 @@ On how this website understands the concept of transgender identity and it's use
 
 > is a person's internal sense/feeling of who they are regarding gender (also sometimes called experienced or felt gender). It is often roughly split into 2 main aspects:
 > 1. Social aspect: What a person feels they are _ought_ to be referred to and seen as (e.g. pronouns, honorifics, etc.), what social role they and their bodies ought to occupy in society (regardless of whether they already do or not).
-> 2. Bodily aspect (could also be called "sex identity"): What a person feels their bodies _ought_ to be like in terms of sex characteristics (e.g. chest, voice pitch, hairiness, etc.) (regardless of whether they already are or not).
+> 2. Body-related aspect (could also be called "sex identity"): What a person feels their bodies _ought_ to be like in terms of sex characteristics (e.g. chest, voice pitch, hairiness, etc.) (regardless of whether they already are or not).
 
 More on how one determines their gender identity later on.
 
@@ -209,7 +209,7 @@ The feelings that lead trans people to deduct that their gender identity is diff
 - **Gender dysphoria** is distress caused by gender incongruence.
 - **Gender euphoria** is joy or relief caused by relieving gender icongruence.
 
-In trans circles, people sometimes like to split each of these up into a social and bodily aspect, just like gender identity itself, as already explained earlier.
+In trans circles, people sometimes like to split each of these up into a social and body-related aspect, just like gender identity itself, as already explained earlier.
 
 Cis people can also experience gender incongruence, which is what makes us able to conclude and empirically prove that cis people also have a gender identity - they just, like the person who was never hungry, never notice it since it's never in conflict with anything.
 
