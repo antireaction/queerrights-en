@@ -211,6 +211,10 @@ The feelings that lead trans people to deduct that their gender identity is diff
 
 Cis people can also experience gender incongruence, which is what makes us able to conclude and empirically prove that cis people also have a gender identity - they just, like the person who was never hungry, never notice it since it's never in conflict with anything.
 
+> **Note**: The way this site uses the term gender incongruence and gender dysphoria is more colloquial/loose than the diagnoses of the same names, but in a similar vein. The main difference is that the diagnoses require for the feeling to cause clinically significant distress over a long enough period of time.
+> 
+> A diagnosis of gender incongruence (ICD-11) or gender dysphoria (DSM-V), or any of the diagnoses that preceeded these ("transsexualism" in the ICD-10 or "gender identity disorder" in the DSM-IV) are commonly required to acces medical transiion (see below). 
+
 Trans people can realize they are trans at any age. Some of the reasons why someone might realize they are trans later than sooner are 
 - not knowing trans people exist or that transition is possible
 - repression and compensation (purposefully conforming to the gender roles of one's assigned gender)
@@ -220,12 +224,9 @@ Trans people can realize they are trans at any age. Some of the reasons why some
 
 ## What do they do about it?
 
-Trans people usually, if their circumstances allow it and it doesn't clash with any of their beliefs, **transition** in order to relieve gender incongruence, especially gender dysphoria, and achieve gender euphoria. One can transitionod experiences or the genders of their friend group also don't have to be indicative of the validity of a trans 
-person's identity - plenty of cis people grow up gnc and have mostly friends of the other assigned gender, but nobody (and rightfully so) insists they must be trans based on merely this, 
-hence nobody should insist a trans person has to be cis just because they didn't show those "signs" in childhood.
+Trans people usually, if their circumstances allow it and it doesn't clash with any of their beliefs, **transition** in order to relieve gender incongruence, especially gender dysphoria, and achieve gender euphoria. 
 
-The psychological diagnosis of gender incongruence is usually needed for medical transition. It includes both gender dysphoria and euphoria. 
-Formerly it was also called "transsexualism", "gender identity disorder", and "gender dysphoria", which have all been given up due to being stigmatizing. in various ways:
+There are various ways in which one can transition:
 - **Legal transition** means changing one's legal name and/or legal gender marker.
 - **Social transition** means using a different name, pronouns, honorifics etc. in everyday social life. This often involves coming out to people who have known the trans person from before their social transition/as their old gender.
 - **Medical transition** means changing one's sex characteristics as far as desired or medically possible to align more with one's gender identity. Parts of this are irreversible. It can include:
@@ -235,9 +236,9 @@ Formerly it was also called "transsexualism", "gender identity disorder", and "g
 		- **Top surgery**: Surgery on the chest (double mastectomy/removal of breasts for transmasculine people or breast augmentation for transfeminine people)
 		- Facial surgery, vocal chord surgery, removal of reproductive organs, clavicle shortening or lengthening, and liposuction in specific places - surgeries which don't have nicknames in trans communities like the other two.
 
-Just like cis people, trans people can have very different understandings of and relationships with their gender identity and expression, have different priorities, and experience gender incongruence, dysphoria, and euphoria differently. Naturally, their paths will be different and transitions can also look very different due to this. 
+Just like cis people, trans people can have very different understandings of and relationships with their gender identity and expression, have different priorities, and can therefore experience gender incongruence, dysphoria, and euphoria differently. Naturally, their paths will be different and transitions can also look very different.
 
-This doesn't make any trans person "more trans" than another, just like cis people having different relationships with their gender identities doesn't make any one of them "more cis" than another. 
+This doesn't make any trans person "more trans" than another, just like cis people having different relationships with their gender identities doesn't make any one of them "more cis" than another.
 
 <details>
 	<summary markdown="1"> ‣ An example: 
