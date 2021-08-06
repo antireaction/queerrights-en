@@ -169,10 +169,6 @@ Does it make sense to medically intervene to try make people's bodies "younger"?
 
 ### Transrace/-ethnicity
 
-"Transracial" is a term that has been used for a long time by transracial adoptees (people whose adoptive parents are of a different race than them). However in this context it has been used to refer to people who are born as one ethnicity, but identify with a different race.
-
-Ethnicity is a grouping of people defined by a common ancestry, which is usually also associated with a certain appearance. Race is a social construct built on ethnicity and depending on the time period it only takes into account appearance, but sometimes also ancestry (e.g. [the one drop rule in the US](https://en.wikipedia.org/wiki/One-drop_rule)).
-
 ### Transspecies
 
 ### Body integrity disorder/Transabled
