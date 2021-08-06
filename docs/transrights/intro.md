@@ -256,6 +256,15 @@ This doesn't make any trans person "more trans" than another, just like cis peop
 	</section>
 </details>
 
+A **detransitioner** is someone who first transitioned in some way (legal, social, and/or medical) but then reversed these changes (temporarily or permanently). Possible reasons for this include:
+- social discrimination (housing, employment, family, friends) - in this case the detransition is likely to be temporary, they often hope to **retransition** when it is safer
+- financial means (e.g. cannot afford HRT anymore) - likely to retransition
+- reproduction - likely to retransition
+- realizing they are non-binary instead of binary trans and partially "detransitioning" (not all agree using this term for this)
+- realizing they are not trans at all - usually permanent detransition (= cis detrans people)
+
+Detransition should not be confused with regret. A transitioned person can regret a certain part of transition due to surgical complications, loosing friends, etc., but still be trans and not permanently detransition. On the other hand, there are some cis detrans people who see their experience of transition and detransition as having been necessary steps for them to grow.
+
 ---
 
 ## Misc terms
