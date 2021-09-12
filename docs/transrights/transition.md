@@ -9,7 +9,7 @@ parent: Trans Rights!
 # Myths about transition
 {: .no_toc }
 
-## Table of contents
+## Table of contents.
 {: .no_toc .text-delta }
 
 1. TOC
@@ -17,459 +17,61 @@ parent: Trans Rights!
 
 ---
 
-## Social transition
+## Social transition.
 
 ---
 ## Medical transition
 
-Medical transition is the act of voluntarily changing one's sex characteristics with hormones and/or sex-reassignment surgeries (SRS) with the aim to feel more at ease/congruent with one's body. This can, but doesn't have to (and usually doesn't fully) include:
-- administration of HRT ([cross-sex] hormone replacement therapy), hormone blockers
-	- HRT causes the start of either estrogenic (typically female) or androgenic (typically male) puberty, although permanent changes from previous puberty/puberties (if occured), such as facial and body hair growth or skeletal changes, cannot be undone with hormones alone. [partly reversible changes, partly irreversible ones]
-	- Hormone blockers stop the effects of endogenous hormones (those that the body produces by itself), but only for as long as they continue to be taken. [reversible, but can cause allergic reactions or minor side effects like all medication]
-- top surgery (double mastectomy or breast augmentation) [irreversible]
-- bottom surgery (genital surgeries, removal of reproductive organs) [irreversible]
-	- phalloplasty (different methods and sizes possible), metoidioplasty, urethral lengthening, scrotoplasty, vaginectomy, hysterectomy, oophorectomy (also called ovariectomy)
-	- vaginoplasty (different methods and depths possible), labiaplasty, clitoroplasty, penectomy, orchiectomy
-- other surgeries [irreversible]
+Medical transition is the act of voluntarily changing one's sex characteristics with hormones and/or sex-reassignment surgeries (SRS) with the aim to feel more at ease/congruent with one's body.
+
+<details>
+<summary markdown="1"> ‣ This can, but doesn't have to fully include:
+	</summary>
+<details markdown="1">
+
+**Hormonal measures:**
+- administration of HRT ([cross-sex] hormone replacement therapy) causes the start of either estrogenic (typically female) or androgenic (typically male) puberty. Permanent changes from previous puberty/puberties (if occured), such as facial and body hair growth or skeletal changes, cannot be undone with hormones alone. _[HRT is mostly, but not entirely reversible.]_
+- Hormone blockers stop the effects of endogenous hormones (those that the body produces by itself), but only for as long as they continue to be taken. _[Blockers are reversible, but can cause allergic reactions or minor side effects in some cases, like all medication.]_
+
+**Surgical measures:**
+- top surgery (double mastectomy or breast augmentation) _[mostly irreversible]_
+- bottom surgery (genital surgeries, removal of reproductive organs) _[mostly irreversible]_
+	- Masculinizing: phalloplasty (different methods and sizes possible), metoidioplasty, urethral lengthening, scrotoplasty, vaginectomy, hysterectomy, oophorectomy (also called ovariectomy)
+	- Feminizing: vaginoplasty (different methods and depths possible), labiaplasty, clitoroplasty, penectomy, orchiectomy
+- other surgeries [mostly irreversible]
 	- facial feminization (FFS) or masculinization surgery (FMS)	
+	- clavicle surgery (shortening or lengthening)
 	- permanent facial and/or body hair removal or facial hair transplant(s)
 	- voice feminization or masculinization surgery, removal of Adam's apple (tracheal shave)
 
-Medical transition currently cannot change most skeletal structures (except some facial), replace reproductive organs, change endogenous hormone profiles, nor sex chromosomes. But it can change the phenotype far enough for transitioned people to be perceived as the other sex in most contexts, if desired.
+**More terms:**
+- "Pre-HRT"/"pre-OP" means the person desires to but has not yet received a certain treatment
+- "post-OP" means the person had a certain surgery
+- "non-HRT"/"non-OP" means the person did not receive a certain treatment nor wishes to pursue it
 
-In trans circles, "pre-HRT"/"pre-OP" means a person desires to but has not yet received a certain treatment, "post-OP" means a person had a certain surgery, and "non-HRT"/"non-OP" means a person did not receive a certain treatment nor wishes to pursue it.
+</details>
+</details>
 
 Some studies and resources might use the acronym SRS to only refer to bottom surgery, however, this website will use SRS to refer to any of the listed surgeries.
 
-### "Medical transition does not alleviate gender dysphoria or improve psychological functioning." 
-
-Related: "There is widespread regret of medical transition", "There is widespread detransition"
+### "Medical transition does not alleviate gender dysphoria or improve quality of life. Most people regret it and detransition."
 
 For puberty blockers specifically see the section about [trans youth](https://antireaction.github.io/queerrights-en/docs/transrights/transyouth.html).
 
-Anti-trans narratives claim that medical transition does not generally alleviate gender dysphoria or improve the lives of dysphoric people, because gender dysphoria is better treated with conversion therapy or "just accepting your body as it is" as there isn't actually such a thing as a misaligned gender identity. Further they claim that a majority of people who medically transition eventually come to regret it, with claims about the detransition rate ranging from 20% to nearly everyone.
+It should also be noted right away that improved quality of life and alleviation of gender dysphoria are not synonymous and are measued differently. The former often results from the latter, but as there are many other factors that influence quality of life (e.g. discrimination, physical health, past unresolved trauma), this isn't guranteed, and trans advocates are not claiming it is.
 
-None of these claims is supported by any of the currently available data.
+#### Studies & meta-analyses
+The following studies looked at the psychological well-being of and/or alleviation of gender dysphoria in medically transitioning/transitioned individuals and their satisfaction/regrets. 
 
-#### Studies & meta-analysis' in favour
-The following studies looked at the psychological well-being of medically transitioning/transitioned individuals, their satisfaction and regrets with medical transition, and compared it either with their own past psychological state or control groups of other trans people who have no yet medically transitioned.
-
-**[Cornell University "What We Know" systematic literature review](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/)** ([archive link](https://web.archive.org/web/20210510142046/https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/), snapshot from 15th May 2021) (only studies published in English)
-	- **Tested:** Systematic literature review of _all_ peer-reviewed studies published in English between 1991 and 2017 about the effects of transition (in general) on the well-being of trans people
-	- Of 55 studies, 50 showed a statistically significant improvement in well-being, 1 a statistically insignificant improvement, and 4 showed mixed results or no improvement after transition. None consistently showed worse well-being than before transition, contrary to the idea that transitioning generally misaligns sex characteristics with gender identity and makes a person feel worse.
-
-Studies which showed improvement: (‣ = click to open)
-
-<details>
-
-	<summary markdown="1"> ‣ **[Pfäfflin (1993)](https://doi.org/10.1300/J056v05n04_05)** seperate because it's so much 
-
-</summary>
-
-<section markdown="1">
-
-This is a pooling together of (a) studies and reviews about well-being and regrets after HRT and/or SRS ranging from 1961 to 1991 (30 years), from various countries (most from the U.S., followed by European countries) and (b) a clinical sample of people who Friedemann Pfäfflin treated himself (in Germany) since 1978 for variously long periods and with different regularity.
-
-- **Sample:** (a) 74 follow-up studies and 9 reviews with approximately 1000 to 1600 trans women and 400 to 550 trans men participating (exact estimates impossible due to sometimes overlapping samples); (b) 196 trans women and 99 trans men
-- **Results:** 
-	- (a) Across all studies and reviews, 4 trans men and 14 trans women genuinely regretted medical transition (including SRS) [regret rate of <1% for trans men and 1-1,5% for trans women]
-		- Of the 4 regretful trans men, 1 only regretted evading regulations and getting the phalloplasty done outside the gender clinic, which brought complications, but he did not regret having transitioned overall and lived alternating between male and female; 2 were confirmed to have detransitioned socially and 1 case expressed regret about one surgery, but it's not known whether they detransitioned socially.
-		- Additionally, 1 trans woman commited suicide during HRT (before SRS), 1 underwent religious conversion (on HRT but before SRS), 1 considered living as male again (but it is not reported whether they did), 2 occasionally went back to living as male, 1 of whom only did so to not loose claim to inheretance.
-		- Regret was associated with bad surgical outcomes, not undergoing any real life test, and/or no proper differential diagnosis; 
-	- (b) No reported regrets among trans men and 3 reported regrets among trans women [1,53%] 2-6 years after bottom surgery.
-	- The author concludes that overall, trans people who wished to undergo SRS did not regret doing so when they did. 
-- **Flaws:** Only clinical samples, old data
-			
-</section>
-
-</details>
-
-
-<details>
-	
-<summary markdown="1"> ‣ **All the others** (gigantic table warning) 
-
-</summary>
-
-<section markdown="1">
-
-<table>
-    <tr>
-        <td>study</td>
-        <td>sample(s) &nbsp;</td>
-        <td width="30%">study design &nbsp; &nbsp;</td>
-        <td width="40%">results &nbsp; &nbsp; &nbsp; &nbsp; </td>
-        <td>notes &nbsp;</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1007/BF02438167">Bodlun &amp; Kullgren (1996)</a></td>
-        <td>Swedish clinical sample of 10 trans women and 9 trans men, "core transsexuals"</td>
-        <td>questionnaires before and after a 5 year period (participants were at various stages in medical transition during both times), comparison of before & after responses</td>
-        <td>13 improved, 3 stable, 2 unsatisifed, 1 unsatisifed & detranstioned</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1007/BF02437545">Rakic et al. (1996)</a></td>
-        <td>Yugoslavian clinical sample of 22 trans women and 10 trans men</td>
-        <td>questionnaires before and 6 months to 4 years (median 18 months) after bottom surgery; comparison of before & after responses</td>
-        <td>no regrets, 87%  had improved body image, better social, sexual and occupational life</td>
-        <td>straight trans people only</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.3109/02844319709010503">Eldh et al. (1997)</a></td>
-        <td>Swedish clinical sample of 40 trans men and 50 trans women</td>
-        <td>questionnaires before and 6 months to 30 years (median 5,8 years) after SRS including bottom surgery; comparison of before & after responses</td>
-        <td>86,5% (64/74) of respondents satisfied with their lives post-SRS; 5,4% (2 people of each gender) detransitioned socially and regretted the surgeries; 4% (2 trans women and 1 trans man) commited suicide, but had many suicide attempts before SRS as well; social stability (e.g. acceptance by family & friends), surgical techniques and overall body appearance (beside genitals) were found to be predictors of good outcomes</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1111/j.1600-0447.1998.tb10001.x">Landen et al. (1998)</a></td>
-        <td>Swedish clinical sample undergoing initial SRS from 1972-1992; 213 total</td>
-        <td>retrospective study of medical records, looked for predictors of regret after SRS (including bottom surgery)</td>
-        <td>8 detransitioners (3,8%) in total; mostly associated with poor family support and less frequently with not being a "core transsexual" or having psychosis; last year in which someone who later requested reversal received approval for SRS was 1982</td>
-        <td>time between SRS and request for reversal 1-15 years (7,4 years median), meaning that some of the more recent patients considered non-regretful here could technically have eventually requested reversal years after the study was conducted</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1023/A:1018745706354">Rehman et al. (1999)</a> *</td>
-        <td>American clinical sample of 28 trans women</td>
-        <td>interviews 3 years after SRS</td>
-        <td>no regrets, ability to normally return to work, more satisfactory personal and social life of patients after SRS</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1023/A:1024086814364">Lawrence (2003)</a></td>
-        <td>American clinical sample of 232 trans women</td>
-        <td>questionnaires 1-7 years after SRS 1 to 7 years (most available questionnaires from people having had surgery 2-4 years ago)</td>
-        <td>59% reported improvement of quality of life as 8 or higher on an 0-10 scale, 1 reported worsening (0,45%), the rest reported no change; 86% reported their happiness as 8 or higher, 4% as 5 or lower; nobody regretted SRS overall, 6% only sometimes (mostly due to social unacceptance or functional & physical outcomes)</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/15842032">Smith et al. (2005)</a> *</td>
-        <td>Dutch clinical sample of 94 trans women and 64 trans men</td>
-        <td>questionnaires and personal interview (not all participants completed the latter) 1-4 years after SRS</td>
-        <td>**virtually no gender dysphoria after SRS, independent of "subtype"**; no body dissatisfaction, 91,6% were even _very_ satisifed with their bodies; better psychological functioning; 1 trans woman had strong regrets and would not choose SRS again (it is not stated that they detransitioned though), another had strong regrets but would choose to undergo it again</td>
-        <td>almost all patients in this sample had social support, only 4 (3,9%) had absolutely nobody to rely on</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1016/j.sexol.2006.04.002">De Cuypere et al. (2006)</a> *</td>
-        <td>Belgian clinical sample of 35 trans women and 27 trans men</td>
-        <td>semi-structured interviews at least 1 year after bottom surgery; median 4,1 years for trans women and 7,6 years for trans men</td>
-        <td>**significant drop in suicide attempt rate (29,3% to 5,1%); gender dysphoria level dropped to that of the general population**; 88,6% trans women and 85,2% trans men felt happy after surgery; regret only occasional in 2 cases, no detransitioners; improved social functioning</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="doi.org/10.1007/s10508-006-9074-y">Lobato et al. (2006)</a></td>
-        <td>Brazillian clinical sample of 18 trans women and 1 trans man</td>
-        <td>used questionnaires before and 1 to 2,5 years after bottom surgery; comparison of before & after responses</td>
-        <td>no regrets; improvement of sexual experience considered for 83,3%; 64,7% say initiating and maintaining relationships became easier; pariticpants with a partner increased from 52,6% to 73,7%</td>
-        <td>only early-onset dysphoric trans people ("type 1 transsexuals"); excluded intersex people and people with psychotic disorders or addictions to psychoactive substances from the beginning</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1007/s11136-006-0002-3">Newfield et al. (2006)</a> *</td>
-        <td>recruitment through internet, bulletin boards, and postcards; mostly U.S.-American; 446 trans men</td>
-        <td>online survey; trans men with or without HRT were compared to each other</td>
-        <td>HRT significantly correlated with higher quality of life</td>
-        <td>non-clinical sample; study design means HRT is not necessarily what caused higher quality of life, it could also be that higher quality of life (e.g. wealth) enables them to access HRT more often or that there's a third factor</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/18033979">Kraemer et al. (2008)</a></td>
-        <td>Swiss clinical sample of 16 trans women and 7 trans men pre-SRS, 14 trans women and 8 trans men post-SRS</td>
-        <td>compared questionnaire responses of pre- and post-SRS people; post-SRS group had 5 months to 8 years (median of 51 months=4,25 years) follow-up</td>
-        <td>post-SRS sample scored significantly higher in measures of self-confidence and attractiveness and lower on insecurity and concern compared to pre-SRS sample; none of the tested variables were found to be correlated to the time since SRS; taking HRT or not in the pre-SRS group was not found to be correlated to any of the tested variables either</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1111/j.1743-6109.2009.01379.x">Imbimbo et al. (2009)</a></td>
-        <td>Italian clinical sample of 163 trans women</td>
-        <td>questionnaires before and 12-18 months after SRS; comparison of before & after responses</td>
-        <td>94% were satisfied with having undergone surgery, 6% regretted it in some way (not stated why and whether they detransitioned)</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1016/j.bjps.2007.10.049">Nelson et al. (2009)</a></td>
-        <td>UK clinical sample of 12 trans men</td>
-        <td>questionnaires 2-23 months after top surgery, median of 10 months</td>
-        <td>no regrets, all patients were satisfied, felt that their self-confidence and social interactions improved</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1111/j.1743-6109.2008.00799.x">Vujovic et al. (2009)</a></td>
-        <td>Serbian clinical sample of 71 trans women and 76 trans men</td>
-        <td>retrospective study and description of  the Serbian trans population using available data of everyone who presented at the (at the time) only Serbian gender clinic between 1987 and 2006</td>
-        <td>no reported regrets, all patients who did would undergo SRS again, some where also satisifed with HRT only</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1111/j.1743-6109.2008.01082.x">Weyers et al. (2009)</a></td>
-        <td>Belgian clinical sample of 50 trans women</td>
-        <td>questionnaires 6 months after bottom surgery</td>
-        <td>high satisfaction with self-image, good physical and mental health, but some issues with sexual functioning related to surgical outcomes; 96% never regretted the surgery, 4% (2 women) sometimes, no detransitioners</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1007/s11136-010-9668-7">Ainsworth &amp; Spiegel (2010)</a></td>
-        <td>internet recruitment, 247 trans women</td>
-        <td>interviews before or after bottom surgery and/or FFS; comparison of people with and without certain surgeries</td>
-        <td>FFS and SRS (both together and seperate) associated with better quality of life</td>
-        <td>non-clinical sample</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1007/s10508-009-9551-1">Johansson et al. (2010)</a></td>
-        <td>Swedish clinical sample of 25 trans women and 17 trans men</td>
-        <td>semi-structured interviews before & at least 5 years after being approved for medical transition; if already pursued, at least 2 years after SRS; median of 7,8 years between SRS and follow-up for trans women and 7,4 years for trans men</td>
-        <td>clinicians rated overall outcomes as favourable in 62% of the cases, patients themselves in 95% of the cases; 86% were judged as stable or  improved in their overall functioning by clinicians; only 5-15% of patients were dissatisfied with some aspect (general health, surgical outcomes, etc.), but nobody regretted medical transition altogether</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1016/j.sexol.2009.05.004">Parola et al. (2010)</a></td>
-        <td>French clinical sample of 15 trans men and 15 trans women</td>
-        <td>questionnaires & semi-structured interviews at least 2 years after SRS</td>
-        <td>everyone was satisfied with their medical transition, no regrets; quality of life improved for almost everyone both in social and sexual aspects</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1080/19359705.2011.581195">Colton-Meier et al. (2011)</a></td>
-        <td>internet recruitment through ftm forums, mostly U.S. Americans, 369 trans men</td>
-        <td>survey on effects of HRT; comparison of trans men with or without HRT</td>
-        <td>HRT associated with better mental health & health-related quality of life</td>
-        <td>non-clinical sample, data collection over 3 months in 2008</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1080/15532739.2011.618399">Pimenoff &amp; Pfäfflin (2011)</a></td>
-        <td>Finnish clinical sample of 15 trans women and 17 trans men who completed medical and legal transition to the full extent that it's possible between 1970 and 2002</td>
-        <td>questionnaires after a median of 5 years after bottom surgery and 8,5 years after legal transition</td>
-        <td>significant improvement of both social and psychological adjustment after transition, regardless of compliance with standards of care of that time</td>
-        <td>A total of 88 patients were reruited, of which 3 regretted transition (3,4%) before having had completed all the possible steps of medical transition and were therefore not included in further analysis</td>
-    </tr>
-    <tr>
-        <td><a href="doi.org/10.7870/cjcmh-2011-0021">Rotondi et al. (2011)</a> **</td>
-        <td>Canadian sample of 205 trans men recruited through the internet, organizations, venues, etc.</td>
-        <td>survey on factors associated with depression; comparison of trans men with or without treatment</td>
-        <td>depression was associated with (among other things) not taking HRT as well as planning to medically transition but not currently doing so; less depression was associated with having medically transitioned and having had surgery before 2008 (which was defined as not recent)</td>
-        <td>non-clinical sample </td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1016/j.psyneuen.2011.08.010">Gomez-Gil et al. (2012)</a></td>
-        <td>Spanish clinical sample of 113 trans women and 74 trans men</td>
-        <td>questionnaires on the effects of HRT and SRS; comparison of trans people with or without HRT and/or SRS</td>
-        <td>both SRS and HRT significantly correlated with reduced depression, anxiety, and social distress</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1111/j.1743-6109.2011.02564.x">Gorin-Lazard et al. (2012)</a></td>
-        <td>French clinical sample of 30 trans men and 31 trans women</td>
-        <td>questionnaires on the effects of HRT on quality of life; comparison of trans people with or without HRT; those who were on HRT have had 12-42 months=1-3,5 years (median of 20 months=1,67 years) of treatment at that time</td>
-        <td>HRT is independently linked to a higher quality of life</td>
-        <td>excluded people with psychiatric comorbities from the beginning</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1177/0011000011432753">Budge et al. (2013)</a></td>
-        <td>America, recruited through support groups, 13 trans women, 2 trans men, 2 genderqueer people, 1 male crossdresser</td>
-        <td>one-time qualitative interviews on emotions and coping mechanisms during various stages of transition</td>
-        <td>"affirmative emotional experiences" commonly associated with HRT (16 of the participants went on HRT)</td>
-        <td>non-clinical sample, qualitative rather than quantitative, unusually diverse sample in terms of sexual orientation</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1111/jsm.12155">Colizzi et al. (2013)</a></td>
-        <td>Italian clinical sample of 45 trans women and 25 trans men</td>
-        <td>questionnaires & blood test before and 12 months into HRT; tested stress, attachment patterns, and cortisol awakening response (CAR)</td>
-        <td>HRT decreased CAR levels and perceived stress regardless of attachment style</td>
-        <td>excluded intersex people and people with psychiatric pathologies from the beginning</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1080/0092623X.2012.736920">Costatino et al. (2013)</a></td>
-        <td>Italian clinical sample of 50 trans men</td>
-        <td>questionnaires on the impact of medical transition before HRT, 12 months into HRT, and 6 months after SRS (no genital surgery)</td>
-        <td>HRT improved sexual function and SRS reduced aggressiveness, but also reduced sexual function again (which might be because SRS did not include bottom surgery and disappointed some, or because not everyone was done recovering from SRS when filling out the questionnaire); more positive mood changes occured but were not statistically significant (see table 3); insomnia and sweating increased with HRT</td>
-        <td>excluded intersex people, drug addicts, and people with psychiatric comorbidities from the beginning</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1097/NMD.0000000000000046">Gorin-Lazard et al.(2013)</a></td>
-        <td>French clinical sample of 36 trans women and 31 trans men</td>
-        <td>questionnaire on the influence of HRT on self-esteem, mood, and quality of life; comparison of trans people to each other</td>
-        <td>HRT independently associated with less depression, greater self-esteem and better psychological well-being</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1097/01.prs.0000434415.70711.49">Weigert et al. (2013)</a></td>
-        <td>French clinical sample of 35 trans women</td>
-        <td>questionnaires 3 weeks before and 4 months after breast augmentation, which was performed a median of 16 months after bottom surgery; 21 patients completed the questionnaire a third time 12 to 39,6 months=1 to 3,3 years (median of 20,7 months=1,7 years) after surgery</td>
-        <td>significant improvement in all measured areas (sexual, psychosocial and physical well-being) after surgery</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1108/MHRJ-05-2014-0015">Bailey et al. (2014)</a></td>
-        <td>UK, internet recruitment, 889 people of which 778 desired or underwent medical transition to some degree</td>
-        <td>questionnaire about suicidal ideation & attempts; comparison of trans people to each other</td>
-        <td>**suicidality associated (among others) with denial of desired medical treatments**</td>
-        <td>non-clinical sample</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1080/15532739.2014.890558">Boza &amp; Nicholson (2014)</a></td>
-        <td>Australia; recruitment via internet, support groups, snowballing; 83 trans men and 160 trans women</td>
-        <td>questionnaire on mental health; comparison of trans people with each other</td>
-        <td>SRS associated with less depression</td>
-        <td>non-clinical sample</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1016/j.psyneuen.2013.09.029">Colizzi et al. (2014)</a></td>
-        <td>Italian clinical sample, 78 trans women and 29 trans men</td>
-        <td>questionnaires before and 12 months into HRT</td>
-        <td>12 months HRT approx. halved prevelance of all bad measures (psychiatric distress, functioninal impairment) across sample</td>
-        <td>intersex people and people with unstable psychiatric comorbidities excluded from the beginning</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1080/19317611.2013.833152">Davis &amp; Meier (2014)</a></td>
-        <td>American sample of 208 transmasculine people (including trans men, genderqueer, and genderfluid people); recruitment through internet and local communities</td>
-        <td>survey; comparison of trans people who did and did not have HRT and/or top surgery; in case of the use of HRT it ranged from 1 week to 35 years (median of 3,62 years); time since top surgery (if performed) not recorded</td>
-        <td>reduction in anxiety, depression, anger and an increase in body satisfaction associated with with HRT and top surgery</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1007/s10508-014-0300-8">Dhejne et al. (2014)</a></td>
-        <td>All Swedish citizens who applied for SRS and legal name change from 1972 to 2010 (252 trans men and 478 trans women)</td>
-        <td>retrospective study of transition regret using official data</td>
-        <td>regret rate of 2,2% for both genders and an additional 1,2% (across both binary genders) who have withdrawn their application themselves before it was evaluated; time from first legal gender change to regret application was 75-137 months (6,25-11,4 years) or a median of 90 months (7,5 years) for trans men, 22-177 months (1,83-14,75 years) or a median of 102 months (8,5 years) for trans women</td>
-        <td> regret rate decreased a lot over time from 27% in 1960-1971 down to 2,4% in the 1991-2000 time period and 0,3% in 2001-2010 (although there may be some cases of regret in the last group who have no yet applied for reversal, as the median time from first legal sex change to regret application is around 8 years)</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1111/jsm.12413">Fisher et al. (2014)</a></td>
-        <td>Italian clinical sample of 66 trans women and 59 trans men</td>
-        <td>questionnaire about body uneasiness & correlation with HRT; comparison of trans people with or without treatment; HRT was taken 1,5 months to 30,125 years (median of 430 days = around 14 months) by trans women and 33 days to 2,8 years (median of 799 days = around 2,2 years) by trans men</td>
-        <td>HRT duration and higher dosage independently correlated with decreased body uneasiness for trans women, but not for trans men; the authors write that the latter might be, for example, due to HRT not significantly reducing chest size in trans men (which can be a major source of body uneasiness for them)</td>
-        <td>excluded people who were intersex, had changes in HRT treatment before the study, had internalized homophobia, or were diagnosed mental retardation or transvestite fetishism</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1007/s11136-013-0497-3">Gomez-Gil et al. (2014)</a></td>
-        <td>Spanish clinical sample of 119 trans women and 74 trans men</td>
-        <td>questionnaire about factors associated with better quality of life in trans people before bottom surgery; comparison of trans people to each other</td>
-        <td>better quality of life associated with (among other factors) being on HRT</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="http://doi.org/10.3238/arztebl.2014.0795">Hess et al. (2014)</a></td>
-        <td>German clinical sample of 254 trans women</td>
-        <td>questionnaire on satisfaction 1-7 years (median of 5,05 years) after SRS</td>
-        <td>87,4% were satisfied or very satisfied with their outward appearance as women; 72% were satisfied or very satisfied with the functional outcome; 1 full detransitioner (sees himself as male) (1%), 3 peple who see themselves as "more male than female" (2,9%)</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1111/jsm.12363">Heylens et al. (2014)</a></td>
-        <td>Belgian clinical sample of 46 trans women and 11 trans men</td>
-        <td>questionnaires before treatment, 3-6 months into HRT, and 1-12 months after SRS; tested for psychopathology</td>
-        <td>medical transition leads to a significant reduction of psychopathology in areas such as depression, anxiety, somatization, psychoticism, interpersonal sensitivity, hostility, and overall psychoneurotic distress</td>
-        <td>one person commited suicide during follow-up</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1080/15532739.2014.899174">Manieri et al. (2014)</a></td>
-        <td>Italian clinical sample of 56 trans women and 27 trans men</td>
-        <td>questionnaires about quality of life before and 1 year into HRT</td>
-        <td>HRT improves quality of life and seems to be free of major risks in healthy individuals under clinical supervision in the first year</td>
-        <td>excluded intersex people and people with severe psychopathology from the beginning</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1007/s40618-015-0398-0">Castellano et al. (2015)</a></td>
-        <td>Italy, recruitment through local ads, 46 trans women and 14 trans men, local cis control group</td>
-        <td>questionnaires on the psychological & sexual effects of bottom surgery; at least 2 years and up to 33 years after SRS</td>
-        <td>trans sample scored similarly to cis controls in quality of life and body image; trans men slightly worse in sexual life subscale than cis men</td>
-        <td>non-clinical sample</td>
-    </tr>
-    <tr>
-        <td><a href="http://dx.doi.org/10.1037/a0037599">Keo-Meier et al. (2015)</a></td>
-        <td>American sample of 48 trans men and 53 cis men & 62 cis women as controls</td>
-        <td>questionnaires before and 3 months into HRT on psychological function</td>
-        <td>3 months of HRT led to decreased psychopathology and betterment in psychological functioning on multiple domains</td>
-        <td>non-clinical sample</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1007/s10508-014-0453-5">Ruppin &amp; Pfäfflin (2015)</a></td>
-        <td>Germany, 35 trans women and 36 trans men</td>
-        <td>standardized questionnaires & qualitative interviews about quality of life at initial contact and 10-24 (mean 13,8) years after legal name & gender marker change***; almost all participants took HRT and had at least one SRS</td>
-        <td>high life satisfaction, employment, good social integration, **gender dysphoria remained reduced**, other psychological problems decreased too</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="dx.doi.org/10.1177/0008417416635346">Bar et al. (2016)</a></td>
-        <td>Israel, internet and local recruitment, snowballing; 22 trans women (all medically transitioning) and 22 cis women</td>
-        <td>questionnaires on changes of occupational well-being over time; trans women compared to cis women</td>
-        <td>occupational well-being improved for both groups, but steeper for trans women who started out lower on the scale (likely due to gender dysphoria that cis women don't have/have much less) with the gap reducing over time (likely because their gender dysphoria reduced over time as they advanced in their social & medical transition and experienced positive effects from it)</td>
-        <td>non-clinical sample; only indirect investigation of effects of medical transition</td>
-    </tr>
-    <tr>
-        <td><a href="http://dx.doi.org/10.1016/j.jsxm.2016.01.009">Bouman et al. (2016)</a></td>
-        <td>UK clinical sample, 71 trans women over the age of 50</td>
-        <td>questionnaires on psychopathology and clinical measures, at initial contact; use of HRT occured in about half of participants prior to clinic referral; comparison of trans people to each other</td>
-        <td>use of HRT prior to referral associated with less anxiety, but not less depression</td>
-        <td>purposefully uses a sample of older transitioners</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1016/j.jsxm.2016.03.370">Cardoso da Silva et al. (2016)</a></td>
-        <td>Brazillian clinical sample, 47 trans women</td>
-        <td>questionnaires n psychological and social functioning, physical health, level of independence before and at least 1 year after bottom surgery (including HRT before it)</td>
-        <td>significant improvement of psychological and social functioning, but significant worsening of physical health and level of independence; although this can easily be justified with having to recover after bottom surgery according to the authors; those who had more recent revisions (further interventions to correct complications) had worse (but still good) outcomes than those who did not</td>
-        <td>people with psychotic disorders, mental retardation or substance addictions were excluded from the beginning</td>
-    </tr>
-    <tr>
-        <td><a href="doi.org/10.1037/sgd0000171">Glynn et al. (2016)</a></td>
-        <td>American sample of 573 trans women with a history of sex work</td>
-        <td>one-time self-report on the role of gender-affirmation on psychological well-being; comparison of trans people to each other</td>
-        <td>gender affirmation (including medical) associated with less depression and higher self-esteem, although no domains of gender affirmation (social, psychological nor mental) were associated statistically significantly with suicidal ideation</td>
-        <td>non-clinical sample</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1007/s11606-015-3529-6">Padula et al. (2015)</a></td>
-        <td>extracted model parameters from <a href="https://www.thetaskforce.org/wp-content/uploads/2019/07/ntds_full.pdf">National Transgender Discrimination Survey (NTDS) (2011)</a> (<a href="https://web.archive.org/web/20210429072230/https://www.thetaskforce.org/wp-content/uploads/2019/07/ntds_full.pdf">archive</a>) of adults, which had 6436 US-American respondents</td>
-        <td>cost-effectiveness of insurance coverage for medically-necessary trans-related services (e.g. medical transition); used Markov model with 5-10 year time horizons from US societal perspective </td>
-        <td>provider coverage of trans-related care was cost-effective (i. e. reduced more costs [e.g. on treating HIV, depression, drug abuse, etc. that would be likely to occur from denying coverage for medical transition] than it costs to cover medical transition) in 85% of simulations; budget impact for individual members is 0,016$ per month</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><a href="doi.org/10.1097/PSY.0000000000000465">van de Grift et al. (2017a)</a></td>
-        <td>European (Dutch, German, Belgian, Norwegian) clinical sample of 135 transfeminine and 66 transmasculine people</td>
-        <td>questionnaires on gender dysphoria & body image at admission and 4-6 years after it (participants were at various stages in their medical & social transition at follow-up and were not all finished)</td>
-        <td>**gender dysphoria decreased in all participants at follow-up** (including those who were unable to or decided not to medically transition, either because social transition was enough or because they desisted), **but much more so in those participants who had received both HRT and SRS, whose gender dysphoria levels were now comparable to cis people**; body image improved both regarding transition-responsive areas (i. e. body parts/traits that can be changed) and those that are not responsive; </td>
-        <td>29 people had not medically transitioned at follow-up (non-treatment group), most due to circumstances and a few due to their own choice; of the 29 people only 7 were confirmed to fulfill diagnostic criteria; due to an error, in the non-treatment group only the gender dysphoria of those who had socially transitioned (9 people) was assessed - they generally already showed lower scores of gender dysphoria than those who did later get medical treatment; 2 of them socially detransitioned; 9 people of the non-treatment group said they do not plan to re-apply for medical treatment in the future, 8 were unsure, 6 were going to</td>
-    </tr>
-    <tr>
-        <td><a href="https://doi.org/10.1080/0092623X.2017.1326190">van de Grift et al. (2017b)</a></p></td>
-        <td>same sample as above but only considering the 136 people who received both HRT and SRS (81 trans women, 51 trans men, 4 missing data)</td>
-        <td>questionnaires on quality of life & satisfaction at admission and 4-6 years later</td>
-        <td>satisfaction with SRS was 94% to 100% (depending on procedure), quality of life increased after SRS; nobody reported major regret; 6% (9 people) reported dissatisfaction or minor regret about some SRS they underwent, for 8 of whom it is tied to complications rather than realizing they're not trans - 1 trans woman did not specify her reason for dissatisfaction; **no significant differences of gender dysphoria levels in trans people after HRT and SRS compared to cis controls**</td>
-        <td>some missing data for 2,9% of participants who had HRT and SRS</td>
-    </tr>
-</table>
-
-\* overlaps with Murad et al. (2010)
-
-** link on Cornell University website broken
-
-*** until 2011, sterilisation was necessary to change your gender marker in Germany [source](https://tgeu.org/wp-content/uploads/2015/01/Germany_Federal_Court_Sterilisation_2011.pdf), [archive](https://web.archive.org/web/20161103182544/https://tgeu.org/wp-content/uploads/2015/01/Germany_Federal_Court_Sterilisation_2011.pdf) This means bottom surgery was also at least 10 years earlier for all participants, as all had changed their gender marker before 2011
-
-</section>
-
-</details>
-
-<details> 
-
-	<summary markdown="1"> ‣ **Studies which showed no improvement or mixed results** 
-
-</summary> 
-
-<section markdown="1">
-
-[Work in progress]
-
-</section>
-
-</details>
+They then compared them either with their own past psychological state or control groups of other trans people who have no yet medically transitioned (but desire to). 
 
 ---
 
-**[Murad et. al. (2010)](doi.org/10.1111/j.1365-2265.2009.03625.x)** (meta-analysis, all languages)
+**[Murad et. al. (2010)](doi.org/10.1111/j.1365-2265.2009.03625.x)** (meta-analysis, all languages and sample sizes)
 	- **Tested:** effects of HRT together with some type of SRS
-	- **Sample:** 28 studies with a total of 1093 trans women and 801 trans men participating (1833 total)
+	- **Sample:** 28 studies with a total of 1093 trans women and 801 trans men participating (1833 total). 8 were longitudinal (followed the same trans people through transition)	and 20 cross-sectional (compared trans people at different stages of transition to each other)
 	- **Results:** SRS and HRT decrease gender dysphoria (80%), improve psychological functioning and comorbidities (78%), sexual function (72%), and overall quality of life
-	- **Flaws:** low quality data because the treshhold for inclusion was low
+	- **Flaws:** low quality data, as the treshhold for inclusion was low
 
 ---
 
@@ -484,192 +86,269 @@ This is a pooling together of (a) studies and reviews about well-being and regre
 
 ---
 
+**[Cornell University, What We Know Project (systematic literature review)](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/)** ([archive link](https://web.archive.org/web/20210510142046/https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/), [pdf link](https://whatweknow.inequality.cornell.edu/wp-content/uploads/2018/04/PDF-Trans-well-being.pdf))
+- **Tested:** Systematic literature review of _all_ peer-reviewed studies published in English between 1991 and 2017 about the effects of at least some part of medical transition on the well-being of trans people.
+- **Note:** Lawrence (2003) and Lawrence (2006) used the same sample of trans people and analyzed slightly different things about them, so there's actually only 49 distinct samples with significant improvement. 
+- **Results:**
+	- Of 55 studies, 50 showed a statistically significant improvement in well-being, 1 a statistically insignificant improvement (but which the review lists as a study that showed improvement), and 4 showed mixed results or no improvement.
+	- _None consistently showed worse well-being than before transition._
+	- Even those studies that had mixed results or not statistically significant improvements in quality of life reported most  being more satisified with their bodies afterwards (indicating that physical gender dysphoria was alleviated).
+	-  **Medical transition clearly reduces suicide risk and gender dysphoria. Detransition rates are consistently 0-3% for all studies published in the 21st century, 5.4% in one study from 1997.**
+- [PDF summary table](https://github.com/antireaction/queerrights-en/blob/ba3eceb875065755e3ef995c51bc148baed1f4c1/assets/CornellUniversity_WhatWeKnow.pdf) (without Pfäfflin (1993) because it was difficult to summarize in that format)
+
+<details>
+<summary markdown="1"> ‣ **[Pfäfflin (1993)](https://doi.org/10.1300/J056v05n04_05)** summary (showed improvement)
+</summary>
+
+<details markdown="1">
+
+This is a pooling together of 
+- (a) studies and reviews about well-being and regrets after HRT and/or SRS ranging from 1961 to 1991 (30 years), from various countries (mostly the US and Europe) and 
+- (b) a clinical sample of people who Friedemann Pfäfflin treated himself (in Germany) since 1978 for variously long periods and with different regularity.
+
+**Sample:** 
+- (a) 74 follow-up studies and 9 reviews with approximately 1000 to 1600 trans women and 400 to 550 trans men participating (exact estimates impossible due to sometimes overlapping samples)
+- (b) 196 trans women and 99 trans men
+
+**Results:** 
+- (a) Across all studies and reviews, 4 FtM transitioners and 14 MtF transitioners genuinely regretted medical transition (including SRS) [regret rate of <1% and 1-1,5% respectively]
+		- Of the 4 regretful FtM transitioners, 1 only regretted evading regulations and getting the phalloplasty done outside the gender clinic, which brought complications. But he did not regret having transitioned overall and lived alternating between male and female. 2 were confirmed to have detransitioned socially and 1 case expressed regret about one surgery, but it's not known whether they detransitioned socially.
+		- Additionally, 1 trans woman commited suicide during HRT (before SRS), 1 underwent religious conversion (on HRT but before SRS), 1 considered living as male again (but it is not reported whether they did), and 2 occasionally went back to living as male, 1 of whom only did so to not loose claim to inheretance.
+		- Regret was associated with bad surgical outcomes, not undergoing any real life test, and/or no proper differential diagnosis.
+- (b) No reported regrets among trans men and 3 reported regrets among MtF transitioners [1,53%] 2-6 years after bottom surgery.
+- The author concludes that overall, trans people who wished to undergo SRS did not regret doing so when they did. 
+
+**Flaws:** Only clinical samples, old data
+
+</details>
+</details>
+
+---
+
 **[Nobili et al. (2018)](doi.org/10.1007/s11154-018-9459-y)**
 - **Tested:** meta-analysis of peer-reviewed studies on quality of life published in English from 1946 until 2017
 - **Sample:** 29 studies
 - **Results:** Trans people generally had a lower quality of life than the general population, but mental healthy quality of life of trans people _post-treatment_ is on par with the general population.
 - **Flaws:** 
 	- Studies need more "clearly defined transgender populations, divided by stage of gender affirming treatment and with appropriate matched control groups" to draw "firmer conclusions". 
-	- There is a moderate risk of bias (in the statistical sense), meaning some but not most or all criteria for assesing bias risks in descriptive studies were satisifed. Criteria included, among many others, sample size, randomization, and clear definition of the target population, which are all things factors that are difficult to satisfy with hidden and small populations such as trans people.
-- **Note:** This meta-analysis looked at studies about _quality of life_, which is probably linked to but is not the same as alleviation of gender dysphoria.
 
 ---
 
-#### Possible counter-studies
+#### "But the quality of evidence is low!"
 
-Some proponents of anti-trans narratives like to cherrypick these not yet mentioned studies to argue that medical transition does not decrease gender dysphoria nor improve psychological functioning:
+Some might respond to the above citations with the argument that many papers describe the quality of evidence to be mostly low, which supposedly means that recommendations for transition as treatment for gender dysphoria cannot be made. This is untrue.
+
+First of all, a lot of low quality evidence adds up and in sum becomes more reliable. For example, one of the criteria for high quality of evidence which studies on trans people often lack is having a large sample size - but adding up many studies with smaller (but different) samples has the same effect taken together.
+
+Second of all, a treatment can still receive a strong recommendation despite the quality of evidence being low for it's effectiveness. For example, when the alternatives (another treatment or doing nothing) poses an even bigger, less acceptable, or more certain risk than possible risks of the examined treatment. [Here's a simple and short presentation](https://childrensoncologygroup.org/downloads/GRADE_COG_strong_recs_low_quality_evid_26Jul2018.pdf) ([archive link](https://web.archive.org/web/20210902195358/https://childrensoncologygroup.org/downloads/GRADE_COG_strong_recs_low_quality_evid_26Jul2018.pdf)) with a different example of this using the GRADE approach (one of many [hierarchies of evidence](https://en.wikipedia.org/wiki/Hierarchy_of_evidence)).
+
+From [Byne et al. (2012)](doi.org/10.1007/s10508-012-9975-x) (a report of the APA's task force on the issue):
+
+> The quality of evidence pertaining to most aspects of treatment in all subgroups was determined to be low; however, areas of broad clinical consensus were identified and **were deemed sufficient to support recommendations for treatment in all subgroups.** With subjective improvement as the primary outcome measure, **current evidence was judged sufficient to support recommendations for adults** in the form of an evidence-based APA Practice Guideline with gaps in the empirical data supplemented by clinical consensus.
+
+There is a big enoug _amount_ of low quality of evidence (clinical practices, low-quality studies, etc.) that it adds up to be enough for recommendations.
+
+---
+
+**Why don't we have more high quality evidence?**
+
+Because the criteria for evidence to be considered high quality usually includes long-term follow-ups and big, randomized samples with control groups. This is always difficult to achieve with small, hidden populations, who trans people happen to be. Especially with the little funding studies on trans people receive to begin with. There are also ethical concerns with trans control groups, i.e. not allowing equally qualified patients to transition for a long period of time, to then compare them to similar patients that were allowed to transition.
+
+The reason is not, as some cissexists try to imply, because high quality evidence would supposedly disprove the narratives of trans advocates and is therefore suppressed. Note how the quality of evidence is equally low for those studies that have favourable and those that have less favourable outcomes from transitioning.
+
+---
+
+#### Honeymoon theory
+
+---
+
+#### Counter-studies that aren't actually counters
+
+Some cissexists try to cite the following studies, but which don't actually say what they think they do, i.e. they don't actually disprove the fact that transitioning is helpful to trans people in alleviating gender dysphoria.
 
 <details>
 
 	<summary markdown="1"> ‣ **[Dhejne et al. (2011)](doi.org/10.1371/journal.pone.0016885)** ("The Sweden study") 
-
 </summary> 
 
-<section markdown="1">
+<details markdown="1">
 
 - **Tested:** mortality and psychiatric morbidity after medical transition **compared to the general population**
 - **Sample:** 191 trans women and 133 trans men who medically transitioned (with SRS)
 - **Result:**
-> "[Trans people after medical transition] have considerably higher risks for mortality, suicidal behaviour, and psychiatric morbidity **_than the general population_**. Our findings suggest that sex reassignment, although **_alleviating gender dysphoria_**, may not suffice as treatment for transsexualism, and should inspire improved psychiatric and somatic care after sex reassignment for this patient group."
-- In other words, _the study does not conclude that SRS makes gender dysphoria worse_, but that it is usually not _enough_ treatment for all the suffering (discrimination, being disowned, undergoing alienating puberty, possible lasting trauma from all of these things) trans people might go through. Proponents of anti-trans narratives citing this study are advised to visit an English reading comprehension course or to make an appointment at the oculist.
+> "[Trans people after medical transition] have considerably higher risks for mortality, suicidal behaviour, and psychiatric morbidity **than the general population**. Our findings suggest that sex reassignment, although **alleviating gender dysphoria**, may not suffice as treatment for transsexualism, and should inspire improved psychiatric and somatic care after sex reassignment for this patient group."
 
-</section>
+_The study does not conclude that SRS makes gender dysphoria worse_, but that it is usually not _enough_ treatment for all the suffering (e.g. discrimination, being disowned by family, undergoing alienating puberty, possible lasting trauma from all of these things) trans people might go through.
+
+In fact, one of the authors of the study [constantly has to correct journalists](https://www.transadvocate.com/fact-check-study-shows-transition-makes-trans-people-suicidal_n_15483.htm) ([archive link](https://web.archive.org/web/20210731210336/https://www.transadvocate.com/fact-check-study-shows-transition-makes-trans-people-suicidal_n_15483.htm)) misrepresenting her study:
+
+> **Dhjene**: People who misuse the study always omit the fact that the study clearly states that it is not an evaluation of gender dysphoria treatment. If we [look](doi.org/10.1111/jsm.12363) at the [literature](https://doi.org/10.1007/s10508-009-9551-1), we [find](10.1111/j.1365-2265.2009.03625.x) that [several](https://doi.org/10.1155/2014/960745) recent [studies](https://doi.org/10.1007/s10508-014-0453-5) conclude that WPATH Standards of Care compliant treatment [decrease gender dysphoria](doi.org/10.1111/j.1743-6109.2008.01082.x) and improves mental health.
+
+Cissexists citing this study for their claims are advised to visit an English reading comprehension course or to make an appointment at the oculist.
 
 </details>
-
-<details>
-
-	<summary markdown="1"> ‣ **[Rauchfleisch et al. (1998)](doi.org/10.1007/s001150050345)** (full text only available in German) 
-
-</summary>
-
-<section markdown="1">
-
-- **Tested:** Subjective well-being and regrets of the subjects but also objective measures such as employment, social life, marriage, stable relationships & sex life, libido, complications, further surgeries, etc.
-- **Sample:** 13 trans women (orchiectomy and vaginoplasty) and 4 trans men (mastectomy, hysterectomy, oophorectomy) who had visited a clinic 5 to 20 years ago
-- **Results:** 
-	- For trans women, employment fell drammatically (92% to 25%), mostly due to inability to work; social and sex life did not improve, most claimed to be happy with SRS but gave off a depressed or anxious impression to the interviewers; 2 people detransitioned, 1 trans woman had expressed regret 3 yeas after SRS but now (7 years post-SRS) reported being satisfied after all.
-	- For trans men, employment status worsened for only 1 trans man, 2 trans men had happy and stable relationships, 1 lived on his own and complained about not having had phalloplasty but was otherwise satisfied with his life, and 1 (the one who lost employment) was completely isolated and afraid of human contact. 2 trans men seemed psychologically stable and sociable to the interviewers, 2 seemed more introverted and had drug addictions (alcohol or opiate), one of whom (the one addicted to opiate) had several suicide attempts after SRS. The study did not mention pre-SRS status on relationships for trans men like it did for trans women.
-	- The authors concluded that a major predictor for post-SRS life improvement was pre-SRS employment, social integration, and emotional stability. The trans men in their sample tended to already be better socially integrated before transition. They also noted themselves that their study shows unusually bad results.
-- **Flaws:** Why one cannot draw the conclusion that medical transition doesn't alleviate gender dysphoria from this study:
-	1. Very small sample, especially for trans men. This study clearly stands in the shadow of all the previously mentioned studies - including one's conducted in the same time period and country - that show a significant improvement from medical transition. The authors themselves note that this is an unusually bad result, so it might just be an accidentally misrepresentative sample, i. e. anecdotal, barely replicated evidence.
-	2. Rather old study. Social acceptance of trans people and surgical outcomes have improved greatly since then. The suffering of many of the participants may be attributable to 
-		- not being able to build lasting relationships (before as well as after SRS), which may be connected to the ridicule of straight men (most of the trans women here were straight) who have relationships with trans women and the stigmatization of female homosexuality (there were 3 trans women attracted to other women), which must have been even more severe back then. The social isolation pre-SRS might have also led to a harder recovery from surgery.
-		- unemployment, leading to even more social isolation. For example, the one trans man that showed the most social isolation was also the only one who lost employment after SRS. Unemployment may be due to
-			- physical inability to work due to bad surgical outcomes, but those improve over time and don't actually say anything about whether gender dysphoria was alleviated (see point 3).
-			- psychological inability to work due to discrimination.
-	3. All except 2 trans people still stated to be happy with having done the surgery [11,8% regret rate], 1 trans man even wished to continue medical transition with phalloplasty. It probably alleviated their gender dysphoria overall, but the discrimination and possible surgical complications that followed overrode the psychological benefits of having no more gender dysphoria in this sample. Even for those who did regret it, we do not know whether they would have not detransitioned if the surgeries were more succesful; maybe they only detransitioned due to not passing or facing harassment.
-
-</section>
-
 </details>
 
 <details>
 
 	<summary markdown="1"> ‣ **[Jellestad et al. (2018)](https://doi.org/10.1155/2018/8684625)** 
-	
 </summary> 
 
-<section markdown="1">
+<details markdown="1">
+
 - **Tested:** associations between medical transition and quality of life
-- **Sample:** clinical sample of 77 trans women, 41 trans men, and 25 non-binary people (1 of which was assigned intersex at birth) in Switzerland
-- **Results:** Anti-trans advocates usually only focus on the following sentence from the study, despite the authors contradicting it numerous times at other points:
+- **Sample:** clinical sample of 77 trans women, 41 trans men, and 25 non-binary people (1 of whom was assigned intersex at birth) in Switzerland
+- **Results:** Cissexists usually only focus on the following sentence from the study, despite the authors contradicting it numerous times at other points:
 > "But neither the hormonal nor the surgical obtained any predictive significance regarding [quality of life]."
-- But the study notes _multiple times_ that they only included trans people who considered their medical transition to already be complete. The study _did not actually examine the effects of receiving or not receiving medical interventions **that one desires.**_ And it says so itself:
+- But the study notes _multiple times_ that they only included trans people who considered their medical transition to already be complete. The study _did not actually examine the effects of receiving or not receiving medical interventions **that one desires.**
 > "In this sense, we can assume that no trans person who participated hoped to improve their [quality of life] by initiating further medical measures. In addition, the cross-sectional design of this study does not allow further comparison of the QoL before the medical transition of the participants. Accordingly, **no statements can be made as to whether the [gender affirming interventions] changed the [quality of life] of the trans persons or not.**"
-- Obviously, giving a surgery to a trans person who does not desire that surgery/who do not think that surgery would make them feel more congruent will not make that particular trans person happier - trans people have different desires for their medical transition, if they desire one at all.
+- Obviously, giving a surgery to a trans person who does not desire that surgery will not make that particular trans person happier - trans people have different desires for their medical transition, if they desire one at all.
 - To back up this claim, here's [van de Grift et al. (2017a)](doi.org/10.1097/PSY.0000000000000465) as an example, which states:
 > "Within  the  “hormones  only”  group  different  scores were observed between the people who planned (n = 14) and did not plan (n = 21) to undergo genital surgery in the future with regard to overall body satisfaction (M[planned] = 3.29 (SD: .61), M[not planned] = 2.35 (SD: .54); t(33) = 4.75, p < .001) as well as for genital body satisfaction (M[planned] = 4.76 (SD: .40), M[not planned] = 2.42 (SD: 1.03); t(33) = 8.07, p < .001). (Note: higher scores mean higher dissatisfaction on these scales.)"
-- In other words, those that still had more open wishes regarding their medical transition/were less finished with it (i. e. bottom surgery) were also still more dissatisfied than those who did not have such need/did not have (as much) genital-related gender dysphoria and were closer to considering themselves fully transitioned.
+- I.e. those that still had more unsatisfied wishes regarding their medical transition were also still more dissatisfied than those who did not have as many remaining needs/were closer to considering themselves fully transitioned.
 
-</section>	
-
+</details>
 </details>
 
 <details>
 
-	<summary markdown="1"> ‣ **[Auer et al. (2013)]( https://doi.org/10.1371/journal.pone.0078469)** 
-	
+	<summary markdown="1"> ‣ **[Rauchfleisch et al. (1998)](doi.org/10.1007/s001150050345)** (full text only available in German) 
+</summary>
+
+<details markdown="1">
+
+- **Tested:** Subjective well-being and regrets of the subjects but also objective measures such as employment, social life, marriage, stable relationships & sex life, libido, complications, further surgeries, etc.
+- **Sample:** 13 trans women (orchiectomy and vaginoplasty) and 4 trans men (mastectomy, hysterectomy, oophorectomy) who had visited a clinic 5 to 20 years ago
+- **Results:** 
+	- employment decreased for both groups, but much more so for trans women than trans men and mostly due to inability to work
+	- social and sex life of most trans women did not improve, half of the trans men had stable social lives
+	- 2 trans women detransitioned, everyone else was content or wanted to continue transitioning, although 1 trans man was afraid of human contact and had several suicide attempts since SRS
+	- The authors concluded that a major predictor for post-SRS life improvement was pre-SRS employment, social integration, and emotional stability. The trans men in their sample tended to already be better socially integrated before transition.
+- **Flaws:**
+	1. This study does not show that medical transition does not generally alleviate gender dysphoria. All except 2 trans people still stated to be happy with having transitioned [11,8% detransition rate]. Transition **alleviated their gender dysphoria**, but the discrimination and possible surgical complications that followed overrode the positive effects of this on their quality of life - both things that are avoidable if only society was less discriminating.
+	2. The study is small (especially the sample of trans men) and is not of higher quality than the much bigger amount of studies with positive outcoms. It is therefore an outlier and by far not enough to disprove current consensus. The authors themselves note the atypicality of their sample too.
+	3. A rather old study. Social acceptance of trans people and surgical outcomes have improved greatly since then. The suffering of most of the participants may be attributable to 
+		- discrimination and hence not being able to build lasting relationships (before as well as after SRS). The social isolation pre-SRS might have also led to a harder recovery from surgery.
+		- bad surgical outcomes and the resulting physical inability to work, but surgeries have already improved since then.
+
+</details>
+</details>
+
+<details>
+
+	<summary markdown="1"> ‣ **[Auer et al. (2013)](https://doi.org/10.1371/journal.pone.0078469)** 
 </summary> 
 
-<section markdown="1">
+<details markdown="1">
+
 - **Tested:** whether the psychopathology of trans people is more similar to that of their genotypical (assigned) or phenotypical (lived, desired) sex, employed a questionnaire
 - **Sample:** clinical sample of 52 trans women and 32 trans men who all had a diagnosis of "transsexualism" (according to ICD-10) and have already received HRT between 1996 and 2007 (data collection conducted in 2009) at that clinic; compared to age-matched healthy cis people but who at some point in their lives had certain mental disorders
 - **Result:** Trans people are on average more like their phenotypical sex than their genotypical sex in terms of psychopathology.
-- However, anti-trans advocates usually focus more on this one section in it:
+- Cissexists, however, are only interested in the following paragraph:
 > "[I]n our study, we found no difference between those who had already undergone sex reassignment and those who had not in terms of any subscale of psychopathology. Therefore sex reassignment surgery doesn’t seem to be a major contributor to psychosocial well-being in our transsexual sample."
 
-1. Again, this study is small and compared to the massive amount of evidence pointing towards an improvement after medical transition (for those that desire it), it isn't significant enough in the least to justify altering current scientific conensus.
+1. The study did not examine alleviation of gender dysphoria, but psychopathology. Since none of the patients reported regret, nor have detransitioned due to a change in identity, it is reasonable to assume gender dysphoria itself was succesfully alleviated in all of them. Trans adovocates do not claim that alleviation of gender dysphoria automatically solves all mental health issues a person has.
+2. The study did not record whether the patients that only received HRT considered their transition to already be complete. Given the fact that this was a long-term follow-up study, it is reasonable to assume that those people who at follow-up had still not undergone SRS (after 13 to 2 years of HRT, which is more than enough to get SRS covered by insurance in Germany) were not planning to ever do so to begin with. See Jellestad et al. (2018) for further explanation.
+3. The study is small and does not have better quality of evidence than the much bigger amount of studies showing different outcomes. It is therefore an outlier and by far not enough to disprove current consensus.
 
-2. The study is unable to tell us anything about the effectiveness of HRT and only about SRS, because all trans participants have already initiated HRT at the point of data collection. The authors write:
-> Since the initiation of hormone treatment has been reported to have a fundamental impact on general well-being and mood [...], we decided for reasons of sample homogeneity, and to increase the statistical power, only to include those in our analysis who were already receiving cross-sex hormone treatment at the time of the evaluation. 
-
-3. There might very well be a similar fallacy here as with Jellestad et al. (2018), i. e. all or most participants had already medically transitioned to the whole extent that they find it necessary:
-	- The study compared people who had (post-SRS group) or had not undergone SRS (pre-SRS group) at the point of data collection. It did not record who in either group subjectively considered their medical transition to be complete.
-	- The diagnostic criteria for ["transsexualism" according to ICD-10](https://www.who.int/classifications/icd/en/GRNBOOK.pdf) ([archive link](https://web.archive.org/web/20210511081433/https://www.who.int/classifications/icd/en/GRNBOOK.pdf), p. 163, search for "F64.0") is:
-	>> "A desire to live and be accepted as a member of the opposite sex, _usually_ [=/= always] accompanied by a sense of discomfort with, or inappropriateness of, one's anatomic sex, and a wish to have surgery and hormonal treatment to make one's body as congruent as possible with one's preferred sex."
-	- This means that one doesn't have to desire medical transition to the full extent that it is possible (i. e. HRT and _all_ possible surgeries) in order to receive such a diagnosis (= be a non-SRS patient), contrary to what the introduction of the study states. 
-	- Since the study did not record this, it might have unknowingly included non-SRS patients (who only desired HRT) in the control group of pre-SRS patients.
-	- The clinical sample consisted of people who were treated with HRT between 1996 and 2007 at a German endocrinological clinic and all filled in the questionnaire in 2009. Meaning that all patients have first visited the clinic 14 to 3 years ago and were taking HRT at the time that they filled in the questionnaire, so they all must have taken HRT for at least 3 years by that time.
-	- At that time, [SRS were recommended in Germany earliest after 6 months HRT](https://atme-ev.de/images/texte/transsexualitaet/standardsts.pdf) ([archive link](https://web.archive.org/web/20200724094803/https://atme-ev.de/images/texte/transsexualitaet/standardsts.pdf)) - provided one had a diagnosis and was undergoing a real life test for long enough, which is already needed for HRT anyway. 
-	- Since 1987, surgeries are fully paid by insurance if one has a diagnosis and follows the official recommendations in Germany, so poverty should not be a major factor here. Waiting lists also [tend to be short in Germany](https://worldpopulationreview.com/country-rankings/health-care-wait-times-by-country) ([archive link](https://web.archive.org/web/20210331180557/https://worldpopulationreview.com/country-rankings/health-care-wait-times-by-country)). 
-	- Therefore even the most recent patients must have had more than enough time and resources to acquire SRS (including HRT duration and waiting lists) if they strongly desired it to be part of their transition, i. e. were pre-SRS rather than non-SRS.
-	- Since they still have not undergone those procedures at the time of data collection, one can reasonably assume that for some of them this was due to no wish for such a procedure in the first place, i. e. that these are non-SRS and not pre-SRS patients. In rare cases it might also be the case that they were not physically healthy enough or that they were gatekept by their psychotherapist (who has to write a recommendation letter for each procedure seperately in Germany). But the latter is unlikely because there is usually little reason to not write recommendation letters for desired transition procedures if the person already received a stable diagnosis, initated HRT, and underwent a real life test (needed for HRT at that time).
-	- It might very well be that not all patients in the pre-SRS group of this study were actually non-SRS, but it's reasonable to assume that a not insignificant percentage were.
-
-</section>	
+</details>	
 
 </details>
 
 <details>
 
 	<summary markdown="1"> ‣ **[Lindemalm (1986)](https://doi.org/10.1007/BF01542412)** 
-
 </summary> 
 
-<section markdown="1">
-- **Tested:** long-term well-being of trans women after bottom surgery; follow-up period between 6 ad 25 years, 12 yearson average; used semi-structured interviews
-- **Sample:** clinical sample of 13 trans women
-- **Result:** The abstract of the paper may give a rather negative impression:
-> Surgical outcome was disappointing, and only one-third of the patients where a vaginal construction was carried out had a function- ing vagina. [...] [O]nly one-third were judged as having a fair or good sexual adjustment after sex reassignment. [...] One striking finding is that overall sexual adjustment is offen unchanged by genital surgery. Psychosocial adjustment showed a slight improvement after surgery. However, the majority of patients (eight) were judged to be unchanged. [...] [F]or a total of four individuals (30%), sex reassign- ment was considered retrospectively to be a mistake. Despite their returning to a male social role after surgery, however, two of the repenting patients were judged as fairly well adjusted from a psychosocial point of view. 
--  However, the paper itself sounds less negative, although still much worse than most other studies:
-	-  global sexual adjustment remained unchanged for most, but still improved slightly for 3 and worsened for only 1 participant (Figure 1)
-	-  global psychosocial adjustment also remained unchanged for most, but still improved for 4 and worsened for only 1 participant (Figure 2)
-	-  There were 2 detransitioners and 2 people who have regrets but have not detransitioned; the others, even those whose overall life situation worsened, were confident that transition was still the right choice for them.
-- In other words, even in this surprisingly bad sample, medical transition did overall alleviate gender dysphoria. It cannot be used to argue that medical transition does not generally improve gender dysphoria. But even if it did show that, it has several more central **flaws:**
-	1. It has a _very_ small sample size.
-	2. It's a _very_ old study, surgical techniques as well as social acceptance have improved a lot since then.
-	3. Several drop-outs, who at such a small sample size are all the more significant: 1 person moved abroad and another commited suicide after bottom surgery. Furthermore, 3 patients were automatically considered failures because they weren't offered full bottom surgery including vaginoplasty in the first place.
+<details markdown="1">
 
-</section> 
+- **Tested:** long-term well-being of trans women after bottom surgery; follow-up period between 6 ad 25 years, median of 12 years; semi-structured interviews
+- **Sample:** clinical sample of 13 trans women
+- **Result:** From the abstract:
+> Surgical outcome was disappointing, and only one-third of the patients where a vaginal construction was carried out had a functioning vagina. [...] [O]nly one-third were judged as having a fair or good sexual adjustment after sex reassignment. [...] Psychosocial adjustment showed a slight improvement after surgery. However, the majority of patients (eight) were judged to be unchanged. [...] [F]or a total of four individuals (30%), sex reassignment was considered retrospectively to be a mistake. Despite their returning to a male social role after surgery, however, two of the repenting patients were judged as fairly well adjusted from a psychosocial point of view. 
+- **Flaws:** 
+	1. Very old. Surgical techniques have improved greatly since.
+	2. Does not actually show that gender dysphoria was not alleviated in most patients: It had 2 detransitioners and 2 people who had regrets but didn't want to detransition. Everyone else, including those whose life situation worsened, were confident that transition was the right choice for them. [detransition rate of 15.4%]
+	3. Several drop-outs, who at such a small sample size are all the more significant. One person moved abroad, and one committed suicide at the time of follow-up. Most importantly, 3 patients were automatically considered failures because **they weren't offered full bottom surgery including vaginoplasty in the first place.**
+	4. According to Fig. 1 in the study, most patient's sexual adjustment overall remained the same (9) or became better (3) when comparing pre-bottom surgery and post-bottom surgery responses, and only 1 person's adjustement worsened. In total the outcome is not as bad as the abstract makes it seem.
+
+	</details>
 
 </details>
 
 ---
 
-#### Honeymoon theory
+#### Honeymoon theory and loss at follow-up
 
-Another argument some proponents of anti-trans narratives might make is that there is a honeymoon phase after SRS that many follow-up studies, due to not being long enough, fail to take into consideration. It is also recognized in some literature, such as [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002), where a honeymoon phase of 1 year is mentioned. During it, transitioned people are misrepresentatively happy about the results, but the euphoria eventually dies down a bit and reveals more representative, long-term, stable psychological results.
+Honeymoon in this context describes a period after SRS and/or HRT during which people are misrepresentatively happy with their results. According to the argument, many follow-up studies therefore weren't conducted for long enough to detect the actual, negative outcomes of medical transition, i.e. until after this honeymoon wore off.
 
-But anti-trans narratives go as far as claiming that the joy over SRS does not just decrease, but becomes outright regret over time. When presented with studies that do long enough follow-ups and do not show widespread regret, they either suddenly change how long the honeymoon phase supposedly is (e.g. 5 years, 10 years, etc.) and/or claim that there was a high loss at follow-up in all of them, and the main reason of losses at follow-up, i. e. the participant not reporting back, is a bad outcome and/or regret of the procedure.
+Those studies that do have a long-enough follow-up period all (supposedly) have too many losses during it. Loss at follow-up is very likely to be equivalent to a bad outcome, i.e. regret or a worsening of gender dysphoria.
 
-There are a few things I want to first note concerning loss at follow-up: Proponents of anti-trans narratives cite studies such as [Murray et al. (1997)](https://doi.org/10.1302/0301-620X.79B2.0790254) (I couldn't easily find other studies on this topic) to argue that participants who were lost at follow-up are more likely to have bad outcomes than those who were not lost. The study showed that for joint replacement surgical procedures, people who eventually drop out of long-term follow-ups (either by not responding or dying) tend to be the one's with worst outcomes in the last completed follow-up, speculating that the reason they dropped out or died might be because of their condition getting even worse and so they either die or see no point in continuing the treatment or reporting back.
+There are several counter-points to be made:
+1. Whether or not there is a honeymoon after medical transition as there is with other procedures, and if so, how long it lasts, is not well-established.
+2. Loss at follow-up is unlikely to automatically translate to regret or bad outcomes of medical transition like it does with other procedures.
+3. There are studies that have both a long enough follow-up period and have a low (genuine) loss at follow-up.
 
-But studies on trans people and medical transition are different to surgeries such as joint replacement in 2 major ways:
-1. Medical transition fascilitates a social transition into a new beginning/life/role and many trans people try to leave their old one behind and forget it as much as possible, not at all or barely mentioning it to anyone in their new life (going stealth). Participating in a follow-up study reminds people of a past that they were trying to get rid of by transitioning in the first place. This is a major possible reason for loss at follow-up when it comes to studies on medical transition that simply does not exist with other treatments. In some studies, some of the people who declined to participate even specified this reason in their response:
-	- In [Eldh et al. (1997)](https://doi.org/10.3109/02844319709010503) some people outright stated that they do not wish to be reminded of their trans status.
-	- In [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002) some people outright stated that they do not wish to be reminded of their trans status.
-	- In [Lawrence (2003)](https://doi.org/10.1023/A:1024086814364) some people also specified privacy concerns and mistrust towards the researchers, which can be read as being related to living stealth: Maybe they did not want anyone who knows of their trans status (including doctors and researchers) be able to track them and follow them into their new life.
-	- But even for those who have not sent a response specifying their reasons for not participating, one can assume that there are at least some among them who have the same reasons and just didn't want to bother with sending back mail.
-2. Death among trans people is much more likely to be associated with poverty (e.g. unemployment due to being disowned, not finishing education, etc.) or discrimination (e.g. murder, suicide from bullying, etc.) rather than surgery complications or regret of transition in itself, unlike it is with joint replacements.
+---
 
-Not many studies compared those who were lost to follow-up and those who were not. [Johansson et al. (2010)](https://doi.org/10.1007/s10508-009-9551-1) found that former patients who were lost to follow-up tended to have worse scores at initial contact with the clinic, and since these patients started out worse they probably also had worse outcomes compared to other patients even if they also improved as much compared to their earlier lives. But other studies, such as [Weigert et al. (2013)](https://doi.org/10.1097/01.prs.0000434415.70711.49) contradict this, showing that those lost to one of the later follow-ups had higher satisfaction at the previous one than those who continued to be followed up until the end.
+**1. The honeymoon theroy**
+
+The concept is somewhat recognized in literature, such as in [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002) (a honeymoon period of 1 year mentioned). 
+
+However, [Kraemer et al. (2008)](https://www.ncbi.nlm.nih.gov/pubmed/18033979) for example shows no correlation between the length of follow-up after SRS and well-being. [Cardoso da Silva et al. (2016)](https://doi.org/10.1016/j.jsxm.2016.03.370) (for trans women) and [Rotondi et al. (2011)](doi.org/10.7870/cjcmh-2011-0021) (for trans men) both even showed the reverse: That having had surgery or a revision more recently was associated with worse mental health outcomes compared to having had it done longer ago, which makes sense since patients still need to physically recover and go to check-ups if the procedure was more recent.
+
+But for the sake of argument, let's generously assume that a honeymoon after any such procedure (start of HRT and any surgery) is a verified occurrance with a duration of at least one year to about 8 years, as this seems to be the average time after which people decide to detransition for any reason ([Landen et al. (1998)](https://doi.org/10.1111/j.1600-0447.1998.tb10001.x): 7.4 years; [Dhejne et al. (2014)](https://doi.org/10.1007/s10508-014-0300-8): 7.5 years for trans men, 8.5 years for trans women).
+
+---
+
+**2. Loss at follow-up/drop-outs**
+
+Patients who drop out of a follow-up study are more likely to be those with worse outcomes, in support of which [Murray et al. (1997)](https://doi.org/10.1302/0301-620X.79B2.0790254) is usually cited. 
+
+The study examined patients of joint replacement surgical procedures and showed that patients lost at follow-up are more likely to have had worse outcomes at the last follow-up they participated in than those who were not lost, speculating that the reason they dropped out or died might be percicesly because of their physical condition getting even worse. So they either die or see no point in continuing the treatment or reporting back. The same can be applied, or so the cissexists argue, to medical transition.
+
+---
+
+But dropping out does not translate to worse outcomes in medical transition as it does with joint replacement, because transition is different to it in 2 major ways:
+
+**a) Medical transition fascilitates a social transition into a new beginning/life/role.**
+
+Many (though not all) trans people try to purposefully not leave a trace in their old life leading into their new, and not tell anyone in their new life about their old one (going stealth). This also explains why some people can't even be located at follow-up and does not at all automazically mean they have died or had a bad outcome - quite the opposite even.
+
+Participating in a follow-up study additionally reminds people of this past which they are trying to not be reminded of. This is a major possible reason for loss at follow-up when it comes to studies on medical transition that _simply does not exist_ with other treatments. In some studies, some of the people who declined to participate even specified this reason in their response:
+	- In [Eldh et al. (1997)](https://doi.org/10.3109/02844319709010503) some people outright stated that they do not wish to be reminded of the fact that they are trans.
+	- Same thing happened in [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002).
+	- In [Lawrence (2003)](https://doi.org/10.1023/A:1024086814364) some people also specified privacy concerns and mistrust towards the researchers, which can be read as being related to living stealth: For example, they did not want anyone who knows of them being trans (including doctors and researchers) be able to track them and follow them into their new life.
+
+But even for those who have not sent a response specifying their reasons for not participating, one can assume that there are at least some among them who have the same reasons and just didn't want to bother with sending back mail.
+
+**b) Death among trans people, including suicide, is likely to be due to discrimination** (which can lead to poverty, social isolation, and hence worse physical and psychological health), **rather than surgery complications or regret of transition in itself**. Another factor that simply _does not exist_ with other treatments such as joint replacement.
+
+For example: [Johansson et al. (2010)](https://doi.org/10.1007/s10508-009-9551-1) found that participants who were lost to follow-up tended to have worse scores even at initial contact with the clinic, indicating that this worse outcome as well as possibly dropping out was due to factors other than the result of medical transition, e.g. discrimination.
+
+There are also some rare studies, such as [Weigert et al. (2013)](https://doi.org/10.1097/01.prs.0000434415.70711.49) which show the opposite: That those lost to follow-up had higher satisfaction at the previous one than those who continued to be followed up until the end of the study. Since it only examined patients who already underwent bottom surgery and HRT and were now pursuing breast augmentation, it can be interpreted as being evidence in support of point a): The patients whose recovery from breast augmentation, presumably the last surgery they were planning to undergo, was faster and more successful, decided to move on from their now finished transition sooner. Hence they did not participate in the follow-up, indicating satisfaction and a succesful social transition into their new life, rather than the opposite.
 
 ---
 
 Because of all this I find it more helpful to calculate the "genuine loss at follow-up", counting only people who either 
-1. were confirmed to have detransitioned, 
-2. who are believed to have  been reached/have received the request for participation but did not respond for unknown reasons (generously, for the anti-trans narratives, assuming that no mail simply got lost on it's way back to the researchers or that people were doing fine and just didnt want to bother with specifying their reasons for not participating), or 
-3. died from suicide (once again generously assuming that the suicide was due to transition regret rather than discrimination). 
+1. were confirmed to have detransitioned or be in bad psychological health,
+2. who are believed to have been located correctly, but did not respond for unknown reasons (generously assuming that no mail was lost either to or from the potential participant and that none were satisified with transition but just too lazy to respond), or 
+3. died from suicide (generously assuming that the suicide was due to transition regret rather than discrimination or poverty). 
 
-People who have specified other reasons for not participating or who just could not be reached (e.g. unknown location or returned mail) - which is likely because they made an active effort to leave no traces behind and start a new life - are not counted as genuine losses at follow-up. 
-
-On the topic of the length of the honeymoon period: I couldn't find much literature on that specifically (contrary to anti-trans claims that it is a "well-established concept in literature"), but outright regret seems to - on average - take around 7 or 8 years to lead to detransition:
-- [Landen et al. (1998)](https://doi.org/10.1111/j.1600-0447.1998.tb10001.x): 7,4 years on average until regret. Also notes that detransition was mostly associated with poor family support, so many of these cases might not be due to genuine regret and desistence from trans identity, but due to social pressure. In other words, 7,4 years might also be the time needed on average until trans people give up waiting for their social circle to come around and accept them.
-- [Dhejne et al. (2014)](https://doi.org/10.1007/s10508-014-0300-8): 7,5 years on average for trans men; 8,5 years on average for trans women
-
-With this in mind, here are several studies which contain long enough follow-ups (at least over 1 year after SRS) with the following genuine losses at follow-up and outcomes, disproving the anti-trans narrative around the honeymoon phase:
-
-[Work in progress]
+People who have specified other reasons for not participating or who just could not be located and contacted - which is likely because they made an active effort to leave no traces behind and start a new life - are not counted as genuine losses at follow-up. 
 
 ---
 
-In contrast to these, I could not find a single study - apart from the really small one's already covered under "possible counter-studies", half of which don't say what people claim they do - showing long-term bad psychological outcomes from medical transition for trans people.
+**3. There are several long-term follow-up studies with relatively low adjusted drop-out rates**
 
-In addition, the honeymoon theory can be questioned on the ground that after surgery, patients usually have to recover, therefore their well-being could also be expected to be worse the more recent the surgery was performed and become better as their bodies heal and as they are finally past the point of needing regular check-ups. This hypothesis is supported by [Cardoso da Silva et al. (2016)](https://doi.org/10.1016/j.jsxm.2016.03.370) (sample: 47 trans women), which found that trans women who more recently had a revision for their bottom surgery scored worse (but still better than before treatment) on all scales (including psychological well-being) than those whose last revision was further back in time. [Rotondi et al. (2011)](doi.org/10.7870/cjcmh-2011-0021) ** showed less depression in trans men being correlated with having had surgery longer ago. [Kraemer et al. (2008)](https://www.ncbi.nlm.nih.gov/pubmed/18033979) shows no correlation between the length of follow-up after SRS and well-being.
+Follow-up longer than 1 year of HRT and/or after some type of SRS:
+
+So, here are a couple studies that have a follow-up period of 8 years or more:
+
+The ironic thing is that cissexists do not hold their own studies, which supposedly show bad outcomes, to the same strict standards. There is not a single study with low drop out rates and a follow-up of 8 years or more that supports their view that medical transition does not alleviate physical gender dysphoria.
 
 ---
-#### How do we _actually_ avoid regret & detransition then?
+#### How do we avoid regret & detransition?
 
 > **Note:** The following section was partly inspired by and took many arguments from [Shonalika's video "JK Rowling and the detransition narrative"](https://www.youtube.com/watch?v=bFURGp99ofE), even though I disagree with some statements in it).
 
@@ -743,20 +422,6 @@ But the solution to this is not restricting access to medical transition and inc
 </section>
 
 </details>
-
----
-
-#### Conclusions
-
-Overall, current data has 1 main issue, which is possible selection bias, as it mostly uses clinical and not randomized samples. But that's probably because the latter is more difficult to execute since trans people are a hidden population, and those few studies that recruit people from the overall population tend to be larger and still show that medical transition is assciated with improved mental health in trans people.
-
-The available data clearly shows that medical transition alleviates body-related gender dysphoria in nearly all cases, with regret being attributable to a wrong diagnosis, poor surgical outcomes, or discrimination - the 2 latter being things that are improving over time. This is supported by [Dhejne et al. (2014)](https://doi.org/10.1007/s10508-014-0300-8), which shows that regret rates dramatically declined over time (at least in Sweden), from almost 30% in the 1960s down to not even 3% in the 1990s. They continued to be low in the 2000s.
-
-Research also shows that, as expected, that medical transition doesn't necessarily alleviate social gender dysphoria (i. e. some people still get misgendered) nor is it a solution to unrelated psychological problems (comborbidities, drug addictions, issues with social integration for other reasons than gender dysphoria,...) - but neither trans people themselves, nor allies or doctors, have ever claimed anything contrary to this on a wide scale. Social discrimination, fascilitated through the misinformation spread by reactionaries, also negatively contributes a lot to the mental health of trans people.
-
-Furthermore, some of the remaining psychological issues after medical transition may be (at least in some trans people) attributable to the lasting effects of possible trauma from going through the wrong puberty and watching their own body uncontrollably become foreign.
-
-Detransition is best avoided with more openness towards trans identities, information about reversible and irreversible aspects of medical transition becoming common knowledge, and less pressure to "prove" one's trans identity with desiring medical transition.
 
 ---
 
