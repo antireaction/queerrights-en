@@ -26,7 +26,8 @@ Medical transition is the act of voluntarily changing one's sex characteristics 
 
 <details>
 <summary markdown="1"> ‣ This can, but doesn't have to fully include:
-	</summary>
+</summary>
+
 <details markdown="1">
 
 **Hormonal measures:**
@@ -100,7 +101,7 @@ They then compared them either with their own past psychological state or contro
 <summary markdown="1"> ‣ **[Pfäfflin (1993)](https://doi.org/10.1300/J056v05n04_05)** summary (showed improvement)
 </summary>
 
-<details markdown="1">
+<section markdown="1">
 
 This is a pooling together of 
 - (a) studies and reviews about well-being and regrets after HRT and/or SRS ranging from 1961 to 1991 (30 years), from various countries (mostly the US and Europe) and 
@@ -120,7 +121,7 @@ This is a pooling together of
 
 **Flaws:** Only clinical samples, old data
 
-</details>
+</section>
 </details>
 
 ---
@@ -160,6 +161,75 @@ The reason is not, as some cissexists try to imply, because high quality evidenc
 
 #### Honeymoon theory
 
+#### Honeymoon theory and loss at follow-up
+
+Honeymoon in this context describes a period after SRS and/or HRT during which people are misrepresentatively happy with their results. According to the argument, many follow-up studies therefore weren't conducted for long enough to detect the actual, negative outcomes of medical transition, i.e. until after this honeymoon wore off.
+
+Those studies that do have a long-enough follow-up period all (supposedly) have too many losses during it. Loss at follow-up is very likely to be equivalent to a bad outcome, i.e. regret or a worsening of gender dysphoria.
+
+There are several counter-points to be made:
+1. Whether or not there is a honeymoon after medical transition as there is with other procedures, and if so, how long it lasts, is not well-established.
+2. Loss at follow-up is unlikely to automatically translate to regret or bad outcomes of medical transition like it does with other procedures.
+3. There are studies that have both a long enough follow-up period and have a low (genuine) loss at follow-up.
+
+---
+
+**1. The honeymoon theroy**
+
+The concept is somewhat recognized in literature, such as in [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002) (a honeymoon period of 1 year mentioned). 
+
+However, [Kraemer et al. (2008)](https://www.ncbi.nlm.nih.gov/pubmed/18033979) for example shows no correlation between the length of follow-up after SRS and well-being. [Cardoso da Silva et al. (2016)](https://doi.org/10.1016/j.jsxm.2016.03.370) (for trans women) and [Rotondi et al. (2011)](doi.org/10.7870/cjcmh-2011-0021) (for trans men) both even showed the reverse: That having had surgery or a revision more recently was associated with worse mental health outcomes compared to having had it done longer ago, which makes sense since patients still need to physically recover and go to check-ups if the procedure was more recent.
+
+But for the sake of argument, let's generously assume that a honeymoon after any such procedure (start of HRT and any surgery) is a verified occurrance with a duration of at least one year to about 8 years, as this seems to be the average time after which people decide to detransition for any reason ([Landen et al. (1998)](https://doi.org/10.1111/j.1600-0447.1998.tb10001.x): 7.4 years; [Dhejne et al. (2014)](https://doi.org/10.1007/s10508-014-0300-8): 7.5 years for trans men, 8.5 years for trans women).
+
+---
+
+**2. Loss at follow-up/drop-outs**
+
+Patients who drop out of a follow-up study are more likely to be those with worse outcomes, in support of which [Murray et al. (1997)](https://doi.org/10.1302/0301-620X.79B2.0790254) is usually cited. 
+
+The study examined patients of joint replacement surgical procedures and showed that patients lost at follow-up are more likely to have had worse outcomes at the last follow-up they participated in than those who were not lost, speculating that the reason they dropped out or died might be percicesly because of their physical condition getting even worse. So they either die or see no point in continuing the treatment or reporting back. The same can be applied, or so the cissexists argue, to medical transition.
+
+---
+
+But dropping out does not translate to worse outcomes in medical transition as it does with joint replacement, because transition is different to it in 2 major ways:
+
+**a) Medical transition fascilitates a social transition into a new beginning/life/role.**
+
+Many (though not all) trans people try to purposefully not leave a trace in their old life leading into their new, and not tell anyone in their new life about their old one (going stealth). This also explains why some people can't even be located at follow-up and does not at all automazically mean they have died or had a bad outcome - quite the opposite even.
+
+Participating in a follow-up study additionally reminds people of this past which they are trying to not be reminded of. This is a major possible reason for loss at follow-up when it comes to studies on medical transition that _simply does not exist_ with other treatments. In some studies, some of the people who declined to participate even specified this reason in their response:
+	- In [Eldh et al. (1997)](https://doi.org/10.3109/02844319709010503) some people outright stated that they do not wish to be reminded of the fact that they are trans.
+	- Same thing happened in [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002).
+	- In [Lawrence (2003)](https://doi.org/10.1023/A:1024086814364) some people also specified privacy concerns and mistrust towards the researchers, which can be read as being related to living stealth: For example, they did not want anyone who knows of them being trans (including doctors and researchers) be able to track them and follow them into their new life.
+
+But even for those who have not sent a response specifying their reasons for not participating, one can assume that there are at least some among them who have the same reasons and just didn't want to bother with sending back mail.
+
+**b) Death among trans people, including suicide, is likely to be due to discrimination** (which can lead to poverty, social isolation, and hence worse physical and psychological health), **rather than surgery complications or regret of transition in itself**. Another factor that simply _does not exist_ with other treatments such as joint replacement.
+
+For example: [Johansson et al. (2010)](https://doi.org/10.1007/s10508-009-9551-1) found that participants who were lost to follow-up tended to have worse scores even at initial contact with the clinic, indicating that this worse outcome as well as possibly dropping out was due to factors other than the result of medical transition, e.g. discrimination.
+
+There are also some rare studies, such as [Weigert et al. (2013)](https://doi.org/10.1097/01.prs.0000434415.70711.49) which show the opposite: That those lost to follow-up had higher satisfaction at the previous one than those who continued to be followed up until the end of the study. Since it only examined patients who already underwent bottom surgery and HRT and were now pursuing breast augmentation, it can be interpreted as being evidence in support of point a): The patients whose recovery from breast augmentation, presumably the last surgery they were planning to undergo, was faster and more successful, decided to move on from their now finished transition sooner. Hence they did not participate in the follow-up, indicating satisfaction and a succesful social transition into their new life, rather than the opposite.
+
+---
+
+Because of all this I find it more helpful to calculate the "genuine loss at follow-up", counting only people who either 
+1. were confirmed to have detransitioned or be in bad psychological health,
+2. who are believed to have been located correctly, but did not respond for unknown reasons (generously assuming that no mail was lost either to or from the potential participant and that none were satisified with transition but just too lazy to respond), or 
+3. died from suicide (generously assuming that the suicide was due to transition regret rather than discrimination or poverty). 
+
+People who have specified other reasons for not participating or who just could not be located and contacted - which is likely because they made an active effort to leave no traces behind and start a new life - are not counted as genuine losses at follow-up. 
+
+---
+
+**3. There are several long-term follow-up studies with relatively low adjusted drop-out rates**
+
+Follow-up longer than 1 year of HRT and/or after some type of SRS:
+
+So, here are a couple studies that have a follow-up period of 8 years or more:
+
+The ironic thing is that cissexists do not hold their own studies, which supposedly show bad outcomes, to the same strict standards. There is not a single study with low drop out rates and a follow-up of 8 years or more that supports their view that medical transition does not alleviate physical gender dysphoria.
+
 ---
 
 #### Counter-studies that aren't actually counters
@@ -168,7 +238,7 @@ Some cissexists try to cite the following studies, but which don't actually say 
 
 <details>
 
-	<summary markdown="1"> ‣ **[Dhejne et al. (2011)](doi.org/10.1371/journal.pone.0016885)** ("The Sweden study") 
+<summary markdown="1"> ‣ **[Dhejne et al. (2011)](doi.org/10.1371/journal.pone.0016885)** ("The Sweden study") 
 </summary> 
 
 <details markdown="1">
@@ -275,77 +345,6 @@ Cissexists citing this study for their claims are advised to visit an English re
 	</details>
 
 </details>
-
----
-
-#### Honeymoon theory and loss at follow-up
-
-Honeymoon in this context describes a period after SRS and/or HRT during which people are misrepresentatively happy with their results. According to the argument, many follow-up studies therefore weren't conducted for long enough to detect the actual, negative outcomes of medical transition, i.e. until after this honeymoon wore off.
-
-Those studies that do have a long-enough follow-up period all (supposedly) have too many losses during it. Loss at follow-up is very likely to be equivalent to a bad outcome, i.e. regret or a worsening of gender dysphoria.
-
-There are several counter-points to be made:
-1. Whether or not there is a honeymoon after medical transition as there is with other procedures, and if so, how long it lasts, is not well-established.
-2. Loss at follow-up is unlikely to automatically translate to regret or bad outcomes of medical transition like it does with other procedures.
-3. There are studies that have both a long enough follow-up period and have a low (genuine) loss at follow-up.
-
----
-
-**1. The honeymoon theroy**
-
-The concept is somewhat recognized in literature, such as in [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002) (a honeymoon period of 1 year mentioned). 
-
-However, [Kraemer et al. (2008)](https://www.ncbi.nlm.nih.gov/pubmed/18033979) for example shows no correlation between the length of follow-up after SRS and well-being. [Cardoso da Silva et al. (2016)](https://doi.org/10.1016/j.jsxm.2016.03.370) (for trans women) and [Rotondi et al. (2011)](doi.org/10.7870/cjcmh-2011-0021) (for trans men) both even showed the reverse: That having had surgery or a revision more recently was associated with worse mental health outcomes compared to having had it done longer ago, which makes sense since patients still need to physically recover and go to check-ups if the procedure was more recent.
-
-But for the sake of argument, let's generously assume that a honeymoon after any such procedure (start of HRT and any surgery) is a verified occurrance with a duration of at least one year to about 8 years, as this seems to be the average time after which people decide to detransition for any reason ([Landen et al. (1998)](https://doi.org/10.1111/j.1600-0447.1998.tb10001.x): 7.4 years; [Dhejne et al. (2014)](https://doi.org/10.1007/s10508-014-0300-8): 7.5 years for trans men, 8.5 years for trans women).
-
----
-
-**2. Loss at follow-up/drop-outs**
-
-Patients who drop out of a follow-up study are more likely to be those with worse outcomes, in support of which [Murray et al. (1997)](https://doi.org/10.1302/0301-620X.79B2.0790254) is usually cited. 
-
-The study examined patients of joint replacement surgical procedures and showed that patients lost at follow-up are more likely to have had worse outcomes at the last follow-up they participated in than those who were not lost, speculating that the reason they dropped out or died might be percicesly because of their physical condition getting even worse. So they either die or see no point in continuing the treatment or reporting back. The same can be applied, or so the cissexists argue, to medical transition.
-
----
-
-But dropping out does not translate to worse outcomes in medical transition as it does with joint replacement, because transition is different to it in 2 major ways:
-
-**a) Medical transition fascilitates a social transition into a new beginning/life/role.**
-
-Many (though not all) trans people try to purposefully not leave a trace in their old life leading into their new, and not tell anyone in their new life about their old one (going stealth). This also explains why some people can't even be located at follow-up and does not at all automazically mean they have died or had a bad outcome - quite the opposite even.
-
-Participating in a follow-up study additionally reminds people of this past which they are trying to not be reminded of. This is a major possible reason for loss at follow-up when it comes to studies on medical transition that _simply does not exist_ with other treatments. In some studies, some of the people who declined to participate even specified this reason in their response:
-	- In [Eldh et al. (1997)](https://doi.org/10.3109/02844319709010503) some people outright stated that they do not wish to be reminded of the fact that they are trans.
-	- Same thing happened in [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002).
-	- In [Lawrence (2003)](https://doi.org/10.1023/A:1024086814364) some people also specified privacy concerns and mistrust towards the researchers, which can be read as being related to living stealth: For example, they did not want anyone who knows of them being trans (including doctors and researchers) be able to track them and follow them into their new life.
-
-But even for those who have not sent a response specifying their reasons for not participating, one can assume that there are at least some among them who have the same reasons and just didn't want to bother with sending back mail.
-
-**b) Death among trans people, including suicide, is likely to be due to discrimination** (which can lead to poverty, social isolation, and hence worse physical and psychological health), **rather than surgery complications or regret of transition in itself**. Another factor that simply _does not exist_ with other treatments such as joint replacement.
-
-For example: [Johansson et al. (2010)](https://doi.org/10.1007/s10508-009-9551-1) found that participants who were lost to follow-up tended to have worse scores even at initial contact with the clinic, indicating that this worse outcome as well as possibly dropping out was due to factors other than the result of medical transition, e.g. discrimination.
-
-There are also some rare studies, such as [Weigert et al. (2013)](https://doi.org/10.1097/01.prs.0000434415.70711.49) which show the opposite: That those lost to follow-up had higher satisfaction at the previous one than those who continued to be followed up until the end of the study. Since it only examined patients who already underwent bottom surgery and HRT and were now pursuing breast augmentation, it can be interpreted as being evidence in support of point a): The patients whose recovery from breast augmentation, presumably the last surgery they were planning to undergo, was faster and more successful, decided to move on from their now finished transition sooner. Hence they did not participate in the follow-up, indicating satisfaction and a succesful social transition into their new life, rather than the opposite.
-
----
-
-Because of all this I find it more helpful to calculate the "genuine loss at follow-up", counting only people who either 
-1. were confirmed to have detransitioned or be in bad psychological health,
-2. who are believed to have been located correctly, but did not respond for unknown reasons (generously assuming that no mail was lost either to or from the potential participant and that none were satisified with transition but just too lazy to respond), or 
-3. died from suicide (generously assuming that the suicide was due to transition regret rather than discrimination or poverty). 
-
-People who have specified other reasons for not participating or who just could not be located and contacted - which is likely because they made an active effort to leave no traces behind and start a new life - are not counted as genuine losses at follow-up. 
-
----
-
-**3. There are several long-term follow-up studies with relatively low adjusted drop-out rates**
-
-Follow-up longer than 1 year of HRT and/or after some type of SRS:
-
-So, here are a couple studies that have a follow-up period of 8 years or more:
-
-The ironic thing is that cissexists do not hold their own studies, which supposedly show bad outcomes, to the same strict standards. There is not a single study with low drop out rates and a follow-up of 8 years or more that supports their view that medical transition does not alleviate physical gender dysphoria.
 
 ---
 #### How do we avoid regret & detransition?
