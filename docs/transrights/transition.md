@@ -28,7 +28,7 @@ Medical transition is the act of voluntarily changing one's sex characteristics 
 <summary markdown="1"> ‣ This can, but doesn't have to fully include:
 </summary>
 
-<details markdown="1">
+<section markdown="1">
 
 **Hormonal measures:**
 - administration of HRT ([cross-sex] hormone replacement therapy) causes the start of either estrogenic (typically female) or androgenic (typically male) puberty. Permanent changes from previous puberty/puberties (if occured), such as facial and body hair growth or skeletal changes, cannot be undone with hormones alone. _[HRT is mostly, but not entirely reversible.]_
@@ -50,7 +50,7 @@ Medical transition is the act of voluntarily changing one's sex characteristics 
 - "post-OP" means the person had a certain surgery
 - "non-HRT"/"non-OP" means the person did not receive a certain treatment nor wishes to pursue it
 
-</details>
+</section>
 </details>
 
 Some studies and resources might use the acronym SRS to only refer to bottom surgery, however, this website will use SRS to refer to any of the listed surgeries.
@@ -113,9 +113,11 @@ This is a pooling together of
 
 **Results:** 
 - (a) Across all studies and reviews, 4 FtM transitioners and 14 MtF transitioners genuinely regretted medical transition (including SRS) [regret rate of <1% and 1-1,5% respectively]
-		- Of the 4 regretful FtM transitioners, 1 only regretted evading regulations and getting the phalloplasty done outside the gender clinic, which brought complications. But he did not regret having transitioned overall and lived alternating between male and female. 2 were confirmed to have detransitioned socially and 1 case expressed regret about one surgery, but it's not known whether they detransitioned socially.
-		- Additionally, 1 trans woman commited suicide during HRT (before SRS), 1 underwent religious conversion (on HRT but before SRS), 1 considered living as male again (but it is not reported whether they did), and 2 occasionally went back to living as male, 1 of whom only did so to not loose claim to inheretance.
-		- Regret was associated with bad surgical outcomes, not undergoing any real life test, and/or no proper differential diagnosis.
+	- Of the 4 regretful FtM transitioners,... 
+		- 1 only regretted evading regulations and getting the phalloplasty done outside the gender clinic, which brought complications. But he did not regret having transitioned overall and lived alternating between male and female. 
+		- 2 were confirmed to have detransitioned socially and 1 case expressed regret about one surgery, but it's not known whether they detransitioned socially.
+	- Additionally, 1 trans woman commited suicide during HRT (before SRS), 1 underwent religious conversion (on HRT but before SRS), 1 considered living as male again (but it is not reported whether they did), and 2 occasionally went back to living as male, 1 of whom only did so to not loose claim to inheretance.
+	- Regret was associated with bad surgical outcomes, not undergoing any real life test, and/or no proper differential diagnosis.
 - (b) No reported regrets among trans men and 3 reported regrets among MtF transitioners [1,53%] 2-6 years after bottom surgery.
 - The author concludes that overall, trans people who wished to undergo SRS did not regret doing so when they did. 
 
@@ -199,9 +201,9 @@ But dropping out does not translate to worse outcomes in medical transition as i
 Many (though not all) trans people try to purposefully not leave a trace in their old life leading into their new, and not tell anyone in their new life about their old one (going stealth). This also explains why some people can't even be located at follow-up and does not at all automazically mean they have died or had a bad outcome - quite the opposite even.
 
 Participating in a follow-up study additionally reminds people of this past which they are trying to not be reminded of. This is a major possible reason for loss at follow-up when it comes to studies on medical transition that _simply does not exist_ with other treatments. In some studies, some of the people who declined to participate even specified this reason in their response:
-	- In [Eldh et al. (1997)](https://doi.org/10.3109/02844319709010503) some people outright stated that they do not wish to be reminded of the fact that they are trans.
-	- Same thing happened in [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002).
-	- In [Lawrence (2003)](https://doi.org/10.1023/A:1024086814364) some people also specified privacy concerns and mistrust towards the researchers, which can be read as being related to living stealth: For example, they did not want anyone who knows of them being trans (including doctors and researchers) be able to track them and follow them into their new life.
+- In [Eldh et al. (1997)](https://doi.org/10.3109/02844319709010503) some people outright stated that they do not wish to be reminded of the fact that they are trans.
+- Same thing happened in [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002).
+- In [Lawrence (2003)](https://doi.org/10.1023/A:1024086814364) some people also specified privacy concerns and mistrust towards the researchers, which can be read as being related to living stealth: For example, they did not want anyone who knows of them being trans (including doctors and researchers) be able to track them and follow them into their new life.
 
 But even for those who have not sent a response specifying their reasons for not participating, one can assume that there are at least some among them who have the same reasons and just didn't want to bother with sending back mail.
 
@@ -241,7 +243,7 @@ Some cissexists try to cite the following studies, but which don't actually say 
 <summary markdown="1"> ‣ **[Dhejne et al. (2011)](doi.org/10.1371/journal.pone.0016885)** ("The Sweden study") 
 </summary> 
 
-<details markdown="1">
+<section markdown="1">
 
 - **Tested:** mortality and psychiatric morbidity after medical transition **compared to the general population**
 - **Sample:** 191 trans women and 133 trans men who medically transitioned (with SRS)
@@ -256,7 +258,7 @@ In fact, one of the authors of the study [constantly has to correct journalists]
 
 Cissexists citing this study for their claims are advised to visit an English reading comprehension course or to make an appointment at the oculist.
 
-</details>
+</section>
 </details>
 
 <details>
@@ -264,7 +266,7 @@ Cissexists citing this study for their claims are advised to visit an English re
 	<summary markdown="1"> ‣ **[Jellestad et al. (2018)](https://doi.org/10.1155/2018/8684625)** 
 </summary> 
 
-<details markdown="1">
+<section markdown="1">
 
 - **Tested:** associations between medical transition and quality of life
 - **Sample:** clinical sample of 77 trans women, 41 trans men, and 25 non-binary people (1 of whom was assigned intersex at birth) in Switzerland
@@ -277,7 +279,7 @@ Cissexists citing this study for their claims are advised to visit an English re
 > "Within  the  “hormones  only”  group  different  scores were observed between the people who planned (n = 14) and did not plan (n = 21) to undergo genital surgery in the future with regard to overall body satisfaction (M[planned] = 3.29 (SD: .61), M[not planned] = 2.35 (SD: .54); t(33) = 4.75, p < .001) as well as for genital body satisfaction (M[planned] = 4.76 (SD: .40), M[not planned] = 2.42 (SD: 1.03); t(33) = 8.07, p < .001). (Note: higher scores mean higher dissatisfaction on these scales.)"
 - I.e. those that still had more unsatisfied wishes regarding their medical transition were also still more dissatisfied than those who did not have as many remaining needs/were closer to considering themselves fully transitioned.
 
-</details>
+</section>
 </details>
 
 <details>
@@ -285,7 +287,7 @@ Cissexists citing this study for their claims are advised to visit an English re
 	<summary markdown="1"> ‣ **[Rauchfleisch et al. (1998)](doi.org/10.1007/s001150050345)** (full text only available in German) 
 </summary>
 
-<details markdown="1">
+<section markdown="1">
 
 - **Tested:** Subjective well-being and regrets of the subjects but also objective measures such as employment, social life, marriage, stable relationships & sex life, libido, complications, further surgeries, etc.
 - **Sample:** 13 trans women (orchiectomy and vaginoplasty) and 4 trans men (mastectomy, hysterectomy, oophorectomy) who had visited a clinic 5 to 20 years ago
@@ -301,7 +303,7 @@ Cissexists citing this study for their claims are advised to visit an English re
 		- discrimination and hence not being able to build lasting relationships (before as well as after SRS). The social isolation pre-SRS might have also led to a harder recovery from surgery.
 		- bad surgical outcomes and the resulting physical inability to work, but surgeries have already improved since then.
 
-</details>
+</section>
 </details>
 
 <details>
@@ -309,7 +311,7 @@ Cissexists citing this study for their claims are advised to visit an English re
 	<summary markdown="1"> ‣ **[Auer et al. (2013)](https://doi.org/10.1371/journal.pone.0078469)** 
 </summary> 
 
-<details markdown="1">
+<section markdown="1">
 
 - **Tested:** whether the psychopathology of trans people is more similar to that of their genotypical (assigned) or phenotypical (lived, desired) sex, employed a questionnaire
 - **Sample:** clinical sample of 52 trans women and 32 trans men who all had a diagnosis of "transsexualism" (according to ICD-10) and have already received HRT between 1996 and 2007 (data collection conducted in 2009) at that clinic; compared to age-matched healthy cis people but who at some point in their lives had certain mental disorders
@@ -321,7 +323,7 @@ Cissexists citing this study for their claims are advised to visit an English re
 2. The study did not record whether the patients that only received HRT considered their transition to already be complete. Given the fact that this was a long-term follow-up study, it is reasonable to assume that those people who at follow-up had still not undergone SRS (after 13 to 2 years of HRT, which is more than enough to get SRS covered by insurance in Germany) were not planning to ever do so to begin with. See Jellestad et al. (2018) for further explanation.
 3. The study is small and does not have better quality of evidence than the much bigger amount of studies showing different outcomes. It is therefore an outlier and by far not enough to disprove current consensus.
 
-</details>	
+</section>	
 
 </details>
 
@@ -330,7 +332,7 @@ Cissexists citing this study for their claims are advised to visit an English re
 	<summary markdown="1"> ‣ **[Lindemalm (1986)](https://doi.org/10.1007/BF01542412)** 
 </summary> 
 
-<details markdown="1">
+<section markdown="1">
 
 - **Tested:** long-term well-being of trans women after bottom surgery; follow-up period between 6 ad 25 years, median of 12 years; semi-structured interviews
 - **Sample:** clinical sample of 13 trans women
@@ -342,7 +344,7 @@ Cissexists citing this study for their claims are advised to visit an English re
 	3. Several drop-outs, who at such a small sample size are all the more significant. One person moved abroad, and one committed suicide at the time of follow-up. Most importantly, 3 patients were automatically considered failures because **they weren't offered full bottom surgery including vaginoplasty in the first place.**
 	4. According to Fig. 1 in the study, most patient's sexual adjustment overall remained the same (9) or became better (3) when comparing pre-bottom surgery and post-bottom surgery responses, and only 1 person's adjustement worsened. In total the outcome is not as bad as the abstract makes it seem.
 
-	</details>
+</section>
 
 </details>
 
