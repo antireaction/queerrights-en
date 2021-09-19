@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Myths about transition and biology
+title: Myths about medical transition
 nav_order: 4
 parent: Trans Rights!
 
 ---
 <script> jtd.setTheme('green'); </script>
-# Myths about transition
+# Myths about medical transition
 {: .no_toc }
 
-## Table of contents.
+## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -17,10 +17,7 @@ parent: Trans Rights!
 
 ---
 
-## Social transition.
-
----
-## Medical transition
+## What is medical transition?
 
 Medical transition is the act of voluntarily changing one's sex characteristics with hormones and/or sex-reassignment surgeries (SRS) with the aim to feel more at ease/congruent with one's body.
 
@@ -55,7 +52,7 @@ Medical transition is the act of voluntarily changing one's sex characteristics 
 
 Some studies and resources might use the acronym SRS to only refer to bottom surgery, however, this website will use SRS to refer to any of the listed surgeries.
 
-### "Medical transition does not alleviate gender dysphoria or improve quality of life. Most people regret it and detransition."
+## "Medical transition does not alleviate gender dysphoria or improve quality of life. Most people regret it and detransition."
 
 For puberty blockers specifically see the section about [trans youth](https://antireaction.github.io/queerrights-en/docs/transrights/transyouth.html).
 
@@ -66,7 +63,7 @@ It should also be noted right away that improved quality of life and alleviation
 
 The former often results from the latter, but as there are many other factors that influence quality of life (e.g. discrimination, physical health, past unresolved trauma), this isn't guranteed, and trans advocates are not claiming it is.
 
-#### Studies & meta-analyses
+### Studies & meta-analyses
 The following studies looked at the psychological well-being of and/or alleviation of gender dysphoria in medically transitioning/transitioned individuals and their satisfaction/regrets. 
 
 They then compared them either with their own past psychological state or control groups of other trans people who have no yet medically transitioned (but desire to). 
@@ -142,7 +139,7 @@ This is a pooling together of
 
 ---
 
-#### "But the quality of evidence is low!"
+### "But the quality of evidence is low!"
 
 Some might respond to the above citations with the argument that papers often describe the quality of evidence to be mostly low, which supposedly means that recommendations for transition as treatment for gender dysphoria cannot be made **This is untrue.**
 
@@ -164,7 +161,7 @@ The reason is not, as some cissexists try to imply, because high quality evidenc
 
 ---
 
-#### Honeymoon theory and loss at follow-up
+### Honeymoon theory and loss at follow-up
 
 Honeymoon in this context describes a period after SRS and/or HRT during which people are misrepresentatively happy with their results. 
 
@@ -172,14 +169,17 @@ According to the argument, many follow-up studies therefore weren't conducted fo
 
 Those studies that do have a long-enough follow-up period all have too many losses. Loss at follow-up should be counted as equivalent to a bad outcome, i.e. regret or a worsening of gender dysphoria, because that is supposedly the most likely reason for patients to drop out.
 
+The studies that have a long-enough follow-up period without many losses have the worst conclusions regarding the effectiveness of medical transition.
+
 There are several counter-points to be made:
 1. Whether or not there is a honeymoon after medical transition as there is with other procedures, and if so, how long it lasts, is not well-established.
 2. Loss at follow-up is unlikely to automatically translate to regret or a bad outcome of medical transition like it does with other procedures.
-3. There are studies that have both a long enough follow-up period and have a low (genuine) loss at follow-up.
+3. There are studies that have both a long enough follow-up period and have a low (genuine) loss at follow-up, still showing that medical transition alleviates physical gender dysphoria.
+4. The few studies with mixed results that there are are not generally of higher quality than those with positive results. (for elaboration see "Counter-studies that aren't actually counters" further down and the PDF breaking down Cornell University's literature review from earlier)
 
 ---
 
-**1. The honeymoon theroy**
+#### The honeymoon theroy
 
 The concept is somewhat recognized in literature, such as in [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002) (a honeymoon period of 1 year mentioned). 
 
@@ -189,37 +189,37 @@ But for the sake of argument, let's generously assume that a honeymoon after any
 
 ---
 
-**2. Loss at follow-up/drop-outs**
+#### Loss at follow-up/drop-outs
 
 Patients who drop out of a follow-up study are more likely to be those with worse outcomes, in support of which [Murray et al. (1997)](https://doi.org/10.1302/0301-620X.79B2.0790254) is usually cited. 
 
 The study examined patients of joint replacement surgical procedures and showed that patients lost at follow-up are more likely to have had worse outcomes at their last attended follow-up than those who were not lost, speculating that the reason they dropped out or died might be percicesly because of their physical condition getting even worse. So they either die or see no point in continuing the treatment and reporting back. The same can be applied, or so the cissexists argue, to medical transition.
 
-But dropping out does not translate to worse outcomes in medical transition as it does with joint replacement, because medical transition has 2 additional factors that are not even present in other populations/with other medical procedures:
+But dropping out does not translate to worse outcomes in medical transition as it does with joint replacement, because medical transition is fundamentally different from other medical procedures regarding it's very function and the nature of it's patient population.
 
-- **Ⅰ. Medical transition fascilitates a social transition into a new beginning/life/role**.
+- **Ⅰ. Functional difference: Medical transition fascilitates a social transition into a new beginning/life/role**.
 
-After it, many might not want any reminders of their past. They might decline to participate in a follow-up because of this or even purposefully try to erase any traces into their new lives, making it harder to even locate them. 
+After it, many former patients might not want any reminders of their pre-transition past. They might decline to participate in a follow-up because of this or even purposefully try to erase any traces into their new lives, making it harder to even locate them. 
 
-From [Eldh et al. (1997)](https://doi.org/10.3109/02844319709010503):
+This is recognzed by researchers too. For example, here's an excerpt from [Eldh et al. (1997)](https://doi.org/10.3109/02844319709010503):
 
-> Knowing that many patients do not want any contact after the operation  together  with  that  fact  that  there  are great  difficulties in locating or keeping  in touch with transsexual patients, a postoperatively  66% response  to  the  questionnaire  is  a  better  result than we could have  expected. 
+> Knowing that many patients do not want any contact after the operation together with  that fact that there are great difficulties in locating or keeping in touch with transsexual patients, a postoperatively 66% response to the questionnaire is a better result than we could have expected. 
 
 In [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002) some people outright stated that they're not participating specifically because they do not wish to be reminded of the fact that they are trans.
 
 In [Lawrence (2003)](https://doi.org/10.1023/A:1024086814364) people specified privacy concerns and mistrust towards the investigator's motives for not participating.
 
-But even for those who have not sent a response specifying their reasons for not participating, one can assume that there are at least some among them who have the same reasons, but were just too lazy to send back mail.
+But even for those who have not sent a response specifying their reasons for not participating, one can assume that there are at least some amongst them who had the same reasons, but were too lazy to send back mail.
 
-- **Ⅱ. Death among trans people, including suicide, is much more likely to be due to discrimination than among other patient populations.** 
+- **Ⅱ. Population difference: Death among trans people, including suicide, is much more likely to be due to discrimination than among other patient populations.** 
 
-Discrimination can easily lead to poverty and social isolation, and these in turn lead to bad physical and/or psychological health.
+Discrimination can easily lead to poverty and social isolation, and these in turn lead to bad physical and/or psychological health. [Suicide rates among trans people are known to drop dramatically with even the slightest social support](https://antireaction.github.io/queerrights-en/docs/transrights/genderidentity.html#trans-people-are-inherently-mentally-ill).
 
 [Johansson et al. (2010)](https://doi.org/10.1007/s10508-009-9551-1) found that participants who were lost to follow-up tended to have worse scores (than those who were not lost) even at initial contact with the clinic. This could idicate that whatever made their outcome worse was present regardless of medical transition and it's outcome itself, e.g. more severe discrimination or poverty, such as in the form of less support from family and friends.
 
 There are also some studies, such as [Weigert et al. (2013)](https://doi.org/10.1097/01.prs.0000434415.70711.49), which show the opposite: Those lost to follow-up had higher satisfaction at the last follow-up they partook in, than those who continued to be followed up until the end of the study. 
 
-Since it only included trans women who already underwent bottom surgery and HRT and were now pursuing breast augmentation, it can be interpreted as being further evidence for point Ⅰ.: The patients whose recovery from breast augmentation, presumably the last surgery they were planning to undergo, was faster, were able to move on since they didn't need any further revisions/corrections or check-ups. Hence, they broke off old contact sooner and did not participate in another follow-up, indicating satisfaction with the results, rather than the opposite.
+The fact that this study only included trans women who already underwent bottom surgery and HRT and were now pursuing breast augmentation potentially explains this unusual result. Additionally it can be interpreted as being further evidence for point Ⅰ.: Those patients whose recovery from breast augmentation, presumably the last surgery they were planning to undergo, was faster, were able to move on into their new lives and break off old contacts sooner, since they needed less revisions/corrections or check-ups. Hence, they participated less in the later follow-ups, indicating satisfaction with the results, rather than the opposite.
 
 ---
 
@@ -237,17 +237,19 @@ People who have
 
 ---
 
-**3. There are several long-term follow-up studies with relatively low adjusted drop-out rates**
+*#### 3. There are several long-term follow-up studies with relatively low adjusted drop-out rates
 
 Follow-up longer than 1 year of HRT and/or after some type of SRS:
 
 So, here are a couple studies that have a follow-up period of 8 years or more:
 
-The ironic thing is that cissexists do not hold their own studies, which supposedly show bad outcomes, to the same strict standards. There is not a single study with low drop out rates and a follow-up of 8 years or more that supports their view that medical transition does not alleviate physical gender dysphoria.
+Ironically, cissexists do not hold their own studies, which supposedly show bad outcomes, to the same strict standards. There is _not a single study_ with low drop out rates and a follow-up of 8 years or more that supports their view that medical transition does not alleviate physical gender dysphoria. 
+
+The only couple of studies that they do cite usually have to be misrepresented by them to look like they support their point:
 
 ---
 
-#### Counter-studies that aren't actually counters
+### Counter-studies that aren't actually counters
 
 Some cissexists try to cite the following studies, but which don't at all say what they think they do:
 
@@ -296,7 +298,7 @@ Cissexists citing this study for their claims are advised to visit an English re
 </details>
 
 <details>
-<summary> ‣ **[Bränström & Pachankis (2019)](https://doi.org/10.1176/appi.ajp.2019.19010080)** 
+<summary markdown="1"> ‣ **[Bränström & Pachankis (2019)](https://doi.org/10.1176/appi.ajp.2019.19010080)** 
 </summary>
 <section markdown="1">
 
@@ -402,7 +404,7 @@ Furthermore, the study did not measure mortality before medical transition. One 
 </details>
 
 ---
-#### How do we avoid regret & detransition?
+### How do we avoid regret & detransition?
 
 [Work in Progress]
 
@@ -481,13 +483,13 @@ But the solution to this is not restricting access to medical transition and inc
 
 ---
 
-### "Medical transition is physically harmful."
+## "Medical transition is physically harmful."
 
-#### "Sex reassignment surgeries are experimental/too dangerous/understudied"
+### "Sex reassignment surgeries are experimental/too dangerous/understudied"
 
 [Work in progress]
 
-#### "Sex reassignment surgeries are mutilation"
+### "Sex reassignment surgeries are mutilation"
 
 According to [Britannica](https://www.britannica.com/science/body-modifications-and-mutilations) ([archive link](https://web.archive.org/web/20210513121958/https://www.britannica.com/science/body-modifications-and-mutilations)), the term "body mutilation" is typically used to refer to involuntary body modifications. [Wikipedia adds, at least for genital mutilation specifically](https://en.wikipedia.org/wiki/Body_modification#Controversy) ([archive link](https://web.archive.org/web/20210416220759/https://en.wikipedia.org/wiki/Body_modification)):
 
@@ -534,17 +536,5 @@ An example of this is the [Arksansas House Bill 1570](https://www.arkleg.state.a
 Point (iv) makes clear that point (i) and (ii) serve to allow intersex re-assignment _even when leaving things as they are doesn't place them in imminent danger_, because those cases where they do pose a danger are already included in point (iv). Therefore point (i) and (ii) would be redundant if they _only_ referred to intersex children whose health is in danger without intervention.
 
 Policies like these show that many of the people insisting on using the term "mutilation" or "experimental" for medical transition are not genuinely concerned about bodily autonomy or safety of minors, because if they were, they would care and talk much more about the proven harm of forced, unconsensual intersex re-assignments that routinely happen in the majority of countries today.
-
----
-
-## Biology
-
-### "Trans people will biologically always stay their natal sex."
-
-Related: "I won't call you your name and pronouns because you are biologically [assigned sex]."
-
----
-
-### "Trans people (specifically trans women) have an advantage in sports."
 
 
