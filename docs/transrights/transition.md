@@ -96,7 +96,7 @@ They then compared them either with their own past psychological state or contro
 - **Tested:** Systematic literature review of _all_ peer-reviewed studies published in English between 1991 and 2017 about the effects of at least some part of medical transition on the well-being of trans people.
 - **Note:** Lawrence (2003) and Lawrence (2006) used the same sample of trans people and analyzed slightly different things about them, so there's actually only 49 distinct samples with significant improvement. 
 - **Results:**
-	- Of 55 studies, 50 showed a statistically significant improvement in well-being, 1 a statistically insignificant improvement (but which the review lists as a study that showed improvement), and 4 showed mixed results or no improvement.
+	- Of 55 studies, 50 showed a statistically significant improvement in well-being, 1 a statistically insignificant improvement (but which the review lists as a study that showed improvement), and 4 showed mixed results or no improvement. Those with mixed/neutral results were not higher quality than those with positive results.
 	- _None consistently showed worse well-being than before transition._
 	- Even those studies that had mixed results or not statistically significant improvements in quality of life reported most  being more satisified with their bodies afterwards (indicating that physical gender dysphoria was alleviated).
 	-  **Medical transition clearly reduces suicide risk and gender dysphoria. Detransition rates are consistently 0-3% for all studies published in the 21st century, 5.4% in one study from 1997.**
@@ -183,7 +183,7 @@ There are several counter-points to be made:
 
 The concept is somewhat recognized in literature, such as in [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002) (a honeymoon period of 1 year mentioned). 
 
-However, [Kraemer et al. (2008)](https://www.ncbi.nlm.nih.gov/pubmed/18033979) for example shows no correlation between the length of follow-up after SRS and well-being. [Cardoso da Silva et al. (2016)](https://doi.org/10.1016/j.jsxm.2016.03.370) (for trans women) and [Rotondi et al. (2011)](doi.org/10.7870/cjcmh-2011-0021) (for trans men) both even showed the reverse: That having had surgery or a revision more recently was associated with worse mental health outcomes compared to having had it done longer ago, which makes sense since patients still need to physically recover and go to check-ups more the more recent the procedure was.
+However, [Kraemer et al. (2008)](https://www.ncbi.nlm.nih.gov/pubmed/18033979) for example shows no correlation between the length of follow-up after SRS and well-being. [Cardoso da Silva et al. (2016)](https://doi.org/10.1016/j.jsxm.2016.03.370) (for trans women) and [Rotondi et al. (2011)](doi.org/10.7870/cjcmh-2011-0021) (for trans men) both even showed the reverse: That having had surgery or a revision more recently was associated with worse mental health outcomes compared to having had it done longer ago, which makes sense since patients still need to physically recover and go to check-ups more the more recent the procedure was. There are also [anecdotal reports](https://genderqueer.me/2011/02/26/post-surgical-depression/) ([archive link](https://web.archive.org/web/20210819222517/https://genderqueer.me/2011/02/26/post-surgical-depression/)) of post-surgery depression which is completely unrelated to actual regret or detransition.
 
 But for the sake of argument, let's generously assume that a honeymoon after any physical gender dysphoria treatment (start of HRT and any surgery) is a verified occurrance with a duration of at least one year to about 8 years, as this seems to be the average time after which people decide to detransition for any reason ([Landen et al. (1998)](https://doi.org/10.1111/j.1600-0447.1998.tb10001.x): 7.4 years; [Dhejne et al. (2014)](https://doi.org/10.1007/s10508-014-0300-8): 7.5 years for trans men, 8.5 years for trans women).
 
@@ -195,34 +195,45 @@ Patients who drop out of a follow-up study are more likely to be those with wors
 
 The study examined patients of joint replacement surgical procedures and showed that patients lost at follow-up are more likely to have had worse outcomes at their last attended follow-up than those who were not lost, speculating that the reason they dropped out or died might be percicesly because of their physical condition getting even worse. So they either die or see no point in continuing the treatment and reporting back. The same can be applied, or so the cissexists argue, to medical transition.
 
-But dropping out does not translate to worse outcomes in medical transition as it does with joint replacement, because transition is different to it in 2 major ways:
+But dropping out does not translate to worse outcomes in medical transition as it does with joint replacement, because medical transition has 2 additional factors that are not even present in other populations/with other medical procedures:
 
-**a) Medical transition fascilitates a social transition into a new beginning/life/role**, after which many might not want any reminders of their past. They might decline to participate in a follow-up because of this or even purposefully try to erase any traces into their new lives, making it harder to even locate them. These are major possible reasons for loss at follow-up in studies on medical transition that _simply do not exist_ with other treatments. 
+- **Ⅰ. Medical transition fascilitates a social transition into a new beginning/life/role**.
+
+After it, many might not want any reminders of their past. They might decline to participate in a follow-up because of this or even purposefully try to erase any traces into their new lives, making it harder to even locate them. 
 
 From [Eldh et al. (1997)](https://doi.org/10.3109/02844319709010503):
 
 > Knowing that many patients do not want any contact after the operation  together  with  that  fact  that  there  are great  difficulties in locating or keeping  in touch with transsexual patients, a postoperatively  66% response  to  the  questionnaire  is  a  better  result than we could have  expected. 
 
-Furthermore:
-- In [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002) some people outright stated that they're not participating specifically because they do not wish to be reminded of the fact that they are trans.
-- In [Lawrence (2003)](https://doi.org/10.1023/A:1024086814364) people specified privacy concerns and mistrust towards the investigator's motives for not participating.
+In [De Cuypere et al. (2006)](https://doi.org/10.1016/j.sexol.2006.04.002) some people outright stated that they're not participating specifically because they do not wish to be reminded of the fact that they are trans.
 
-But even for those who have not sent a response specifying their reasons for not participating, one can assume that there are at least some among them who have the same reasons and just didn't want to bother with sending back mail.
+In [Lawrence (2003)](https://doi.org/10.1023/A:1024086814364) people specified privacy concerns and mistrust towards the investigator's motives for not participating.
 
-**b) Death among trans people, including suicide, is likely to be due to discrimination** (which can lead to poverty, social isolation, and hence worse physical and psychological health), **rather than surgery complications or regret of transition in itself**. Another factor that simply _does not exist_ with other treatments such as joint replacement.
+But even for those who have not sent a response specifying their reasons for not participating, one can assume that there are at least some among them who have the same reasons, but were just too lazy to send back mail.
 
-For example: [Johansson et al. (2010)](https://doi.org/10.1007/s10508-009-9551-1) found that participants who were lost to follow-up tended to have worse scores even at initial contact with the clinic, indicating that this worse outcome as well as possibly dropping out was due to factors other than the result of medical transition, e.g. discrimination.
+- **Ⅱ. Death among trans people, including suicide, is much more likely to be due to discrimination than among other patient populations.** 
 
-There are also some rare studies, such as [Weigert et al. (2013)](https://doi.org/10.1097/01.prs.0000434415.70711.49) which show the opposite: That those lost to follow-up had higher satisfaction at the previous one than those who continued to be followed up until the end of the study. Since it only examined patients who already underwent bottom surgery and HRT and were now pursuing breast augmentation, it can be interpreted as being evidence in support of point a): The patients whose recovery from breast augmentation, presumably the last surgery they were planning to undergo, was faster and more successful, decided to move on from their now finished transition sooner. Hence they did not participate in the follow-up, indicating satisfaction and a succesful social transition into their new life, rather than the opposite.
+Discrimination can easily lead to poverty and social isolation, and these in turn lead to bad physical and/or psychological health.
+
+[Johansson et al. (2010)](https://doi.org/10.1007/s10508-009-9551-1) found that participants who were lost to follow-up tended to have worse scores (than those who were not lost) even at initial contact with the clinic. This could idicate that whatever made their outcome worse was present regardless of medical transition and it's outcome itself, e.g. more severe discrimination or poverty, such as in the form of less support from family and friends.
+
+There are also some studies, such as [Weigert et al. (2013)](https://doi.org/10.1097/01.prs.0000434415.70711.49), which show the opposite: Those lost to follow-up had higher satisfaction at the last follow-up they partook in, than those who continued to be followed up until the end of the study. 
+
+Since it only included trans women who already underwent bottom surgery and HRT and were now pursuing breast augmentation, it can be interpreted as being further evidence for point Ⅰ.: The patients whose recovery from breast augmentation, presumably the last surgery they were planning to undergo, was faster, were able to move on since they didn't need any further revisions/corrections or check-ups. Hence, they broke off old contact sooner and did not participate in another follow-up, indicating satisfaction with the results, rather than the opposite.
 
 ---
 
 Because of all this I find it more helpful to calculate the "genuine loss at follow-up", counting only people who either 
-1. were confirmed to have detransitioned or be in bad psychological health,
-2. who are believed to have been located correctly, but did not respond for unknown reasons (generously assuming that no mail was lost either to or from the potential participant and that none were satisified with transition but just too lazy to respond), or 
-3. died from suicide (generously assuming that the suicide was due to transition regret rather than discrimination or poverty). 
+1. were confirmed to have detransitioned,
+2. who are believed to have been located correctly, but did not respond for unknown reasons (generously assuming that no mail was lost, no patient was wrongly located, and that none were satisified with transition but just too lazy to respond), or 
+3. died from suicide (generously assuming that the suicide was due to transition regret rather than discrimination/bullying or poverty).
 
-People who have specified other reasons for not participating or who just could not be located and contacted - which is likely because they made an active effort to leave no traces behind and start a new life - are not counted as genuine losses at follow-up. 
+People who have 
+- specified other reasons (unrelated to psychological health) for not participating, 
+- who just could not be located and contacted (which is likely because they made an active effort to leave no traces behind and start a new life),
+- or died from unrelated issues or surgery complications (which does not tell us anything about the psychological benefit or harm of medical transition),
+
+...are not counted as _genuine_ losses at follow-up.
 
 ---
 
@@ -284,13 +295,32 @@ Cissexists citing this study for their claims are advised to visit an English re
 </section>
 </details>
 
+<details>
+<summary> ‣ **[Bränström & Pachankis (2019)](https://doi.org/10.1176/appi.ajp.2019.19010080)** 
+</summary>
+<section markdown="1">
+
+- **Tested:** Correlations between mood and anxiety disorder healthcare visits and antidepressant and anxiolytic prescriptions and time since medical transition
+- **Sample:** Everyone (2,679 people) in the Swedish population who had received a gender incongruence diagnosis (called "transsexualism" or "gender identity disorder" at the time) between 2005 and 2015
+- **Results:** 
+> Years since initiating hormone treatment was not significantly related to likelihood of mental health treatment [...]. However, increased time since last gender-affirming surgery was associated with reduced mental health treatment [...].
+- A [correction to the study](https://doi.org/10.1176/appi.ajp.2020.1778correction) says the following, which cissexists like to misrepresent:
+> Upon request, the authors reanalyzed the data to compare outcomes between individuals diagnosed with gender incongruence who had received gender-affirming **surgical** treatments and those diagnosed with gender incongruence who had not. While this comparison was performed retrospectively and was not part of the original research question **given that several other factors may differ between the groups**, the results demonstrated no advantage of surgery in relation to subsequent mood or anxiety disorder-related health care visits or prescriptions or hospitalizations following suicide attempts in that comparison.
+- This analysis does not show that medical does not alleviate physical gender dysphoria in those who desire it, as
+1. the study did not look at gender dysphoria - but instead anxiety, mood-disorders, and suicide attempts -,
+2. there were several other factors that differed between those who did receive SRS and those who didn't, and 
+3. the analysis showed no difference between those who received _surgical_ treatments and those who didn't (which might very well be due to differences in the individuals' physical gender dysphoria to begin with, see the points raised regarding Jellestadt et al. (2018) above) - not hormonal measures or social transition.
+
+</section>
+</details>
+
 Several of the following studies examine psychopathology or objective measures of quality of life. But they, as already said, examine psychopathology and quality of life, _not alleviation of gender dysphoria_. From [Lawrence 2003](doi.org/10.1023/a:1024086814364):
 
 > Kuiper and Cohen-Kettenis (1988) expressed this viewpoint succinctly: “In our opinion an evaluation of SRS can be made only on the basis of subjective data, because SRS is intended to solve a problem that cannot be determined objectively” (p. 441). 
 
 <details>
 <summary markdown="1"> ‣ **[Asscheman et al. (2011)](doi.org/10.1530/EJE-10-1038)**
-	</summary>
+</summary>
 <section markdown="1">
 - **Tested:** Mortality rate in the long-term from HRT
 - **Sample:** clinical sample of 966 trans women and 365 trans men who started HRT before July 1997 with a follow-up of at least 1 year and a median of 18.5 years
@@ -306,7 +336,7 @@ In fact, it clearly shows that trans men's mortality is that of the general popu
 
 Furthermore, the study did not measure mortality before medical transition. One cannot discern whether medical transition might have still overall decreased mortality for trans women, just not enough to bring it down to that of the general population.
 
-	</section>
+</section>
 </details>
 
 <details>
@@ -362,22 +392,19 @@ Furthermore, the study did not measure mortality before medical transition. One 
 - **Result:** From the abstract:
 > Surgical outcome was disappointing, and only one-third of the patients where a vaginal construction was carried out had a functioning vagina. [...] [O]nly one-third were judged as having a fair or good sexual adjustment after sex reassignment. [...] Psychosocial adjustment showed a slight improvement after surgery. However, the majority of patients (eight) were judged to be unchanged. [...] [F]or a total of four individuals (30%), sex reassignment was considered retrospectively to be a mistake. Despite their returning to a male social role after surgery, however, two of the repenting patients were judged as fairly well adjusted from a psychosocial point of view. 
 
-1. Most issues were connected to bad surgigcal outcomes, but those have improved greatly since. Specifically the period after 1985 saw improvements to the surgical techniques. From [Eldh et al. (1997)](https://doi.org/10.3109/02844319709010503), also a Swedish study from the same hospital: 
+1. Most issues were connected to bad surgigcal outcomes, which have improved greatly since. Specifically from 1985 and after, major improvements to the surgical techniques were achieved. All participants in this study have been operated in 1980 or earlier. From [Eldh et al. (1997)](https://doi.org/10.3109/02844319709010503), also a Swedish study from the same hospital: 
 > After 1985 the surgical technique was revised, improved, and succesively changed from a multi-stage to a one stage procedure. [...]
-> The total overall number of operations/patient was 8.1 [...] before 1986 and 3.1 [...] from 1986-1995. The median total stay in hospital was 80.0 days [...] and 25.4 days [...], divided into 6.9 admissions/patient [...] and 3.1 admissions [...] respectively (Table III).
-
-2. Does not actually show that gender dysphoria was not alleviated in most patients: It had 2 detransitioners and 2 people who had regrets but didn't want to detransition. Everyone else, including those whose life situation worsened, were confident that transition was the right choice for them. However, this is still an unusually high detransition rate of 15.4%.
-
-3. Several drop-outs, who at such a small sample size are all the more significant. One person moved abroad, and one committed suicide at the time of follow-up. Most importantly, 3 patients were automatically considered failures because **they weren't offered full bottom surgery including vaginoplasty in the first place.**
-
-4. According to Fig. 1 in the full paper, most patient's sexual adjustment overall remained the same (9) or became better (3) when comparing pre-bottom surgery and post-bottom surgery responses, and only 1 person's adjustement worsened. In total the outcome is not as bad as the abstract makes it seem, although still unusually bad.
+> The total overall number of operations/patient was 8.1 [...] before 1986 and 3.1 [...] from 1986-1995. The median total stay in hospital was 80.0 days [...] and 25.4 days [...], divided into 6.9 admissions/patient [...] and 3.1 admissions [...] respectively [...].
+2. Does not actually show that gender dysphoria was not alleviated in most patients: It had 2 detransitioners and 2 people who had regrets but didn't want to detransition. Everyone else, including those whose life situation worsened, were confident that transition was the right choice for them. This is, however, still an unusually high and unfortunate detransition rate of 15.4%.
+3. Several drop-outs, who at such a small sample size are all the more significant. Most importantly, 1 patient simply moved abroad and 3 other patients were automatically considered failures because _they weren't offered "full" (including vaginoplasty) bottom surgery in the first place._ 1 other person committed suicide at the point of follow-up.
 
 </section>
-
 </details>
 
 ---
 #### How do we avoid regret & detransition?
+
+[Work in Progress]
 
 > **Note:** The following section was partly inspired by and took many arguments from [Shonalika's video "JK Rowling and the detransition narrative"](https://www.youtube.com/watch?v=bFURGp99ofE), even though I disagree with some statements in it).
 
